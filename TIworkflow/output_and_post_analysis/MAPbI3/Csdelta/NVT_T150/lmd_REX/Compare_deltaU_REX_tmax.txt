@@ -1,0 +1,5 @@
+eneryg difference between two methods is relatively low, namely 0.10598527151834923 eV, for run 0
+eneryg difference between two methods is relatively low, namely 0.05002885563666506 eV, for run 1
+eneryg difference between two methods is relatively low, namely 0.08325485241776873 eV, for run 2
+WARNING: eneryg difference between two methods is high, namely 0.25509379621692524 eV, for run 3
+eneryg difference between two methods is relatively low, namely 0.12754595447853012 eV, for run 4

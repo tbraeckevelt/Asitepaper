@@ -1,0 +1,1 @@
+eneryg difference between two methods is relatively low, namely 7.672054347241052e-08 eV, for run 0

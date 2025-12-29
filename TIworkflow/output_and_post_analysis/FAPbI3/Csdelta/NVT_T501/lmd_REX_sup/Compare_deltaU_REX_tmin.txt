@@ -1,0 +1,10 @@
+eneryg difference between two methods is relatively low, namely -0.09686104721773894 eV, for run 0
+WARNING: one or both of the files are not valid
+WARNING: eneryg difference between two methods is high, namely -0.8171255387853659 eV, for run 2
+WARNING: eneryg difference between two methods is high, namely -0.9769318624182011 eV, for run 3
+WARNING: eneryg difference between two methods is high, namely -0.46066626851195025 eV, for run 4
+WARNING: eneryg difference between two methods is high, namely 0.3588673813590592 eV, for run 5
+WARNING: eneryg difference between two methods is high, namely -1.0661428066682106 eV, for run 6
+WARNING: eneryg difference between two methods is high, namely 0.2598456247576419 eV, for run 7
+eneryg difference between two methods is relatively low, namely 0.17756614793323566 eV, for run 8
+WARNING: eneryg difference between two methods is high, namely 0.2722789445187905 eV, for run 9

@@ -1,0 +1,10 @@
+WARNING: volume difference between two methods is high, namely 43.462585046045206 Angstrom**3, for run 0
+WARNING: eneryg difference between two methods is high, namely 0.7899429040810829 eV, for run 0
+volume difference between two methods is relatively low, namely 16.545791250307957 Angstrom**3, for run 1
+eneryg difference between two methods is relatively low, namely 0.1499733479184882 eV, for run 1
+volume difference between two methods is relatively low, namely 28.503909079656296 Angstrom**3, for run 2
+WARNING: eneryg difference between two methods is high, namely 0.21469791356747933 eV, for run 2
+WARNING: volume difference between two methods is high, namely 33.79567590847364 Angstrom**3, for run 3
+WARNING: eneryg difference between two methods is high, namely 0.24478193816827776 eV, for run 3
+volume difference between two methods is relatively low, namely 19.434301895125827 Angstrom**3, for run 4
+eneryg difference between two methods is relatively low, namely 0.1411085875551801 eV, for run 4

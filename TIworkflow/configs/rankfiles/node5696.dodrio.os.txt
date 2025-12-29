@@ -1,0 +1,13 @@
+This is the file for node node5696.dodrio.os.
+start 0
+start 1
+start 2
+start 3
+end 2
+end 3
+end 1
+end 0
+start 0
+start 1
+start 2
+start 3

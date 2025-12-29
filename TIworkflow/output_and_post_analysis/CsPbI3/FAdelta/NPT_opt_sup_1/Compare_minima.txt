@@ -1,0 +1,2 @@
+struc 0 has the mininmum energy of: -1489.5708011001338 kj/mol
+diff with run 0 is 0.0 kj/mol

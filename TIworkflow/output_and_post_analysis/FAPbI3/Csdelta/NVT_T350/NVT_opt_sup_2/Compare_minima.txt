@@ -1,0 +1,4001 @@
+struc 1171 has the mininmum energy of: -5522.558692176233 kj/mol
+diff with run 0 is 1.0451711778973907 kj/mol
+diff with run 1 is 1.0451712600985485 kj/mol
+diff with run 2 is 1.0451712428571602 kj/mol
+diff with run 3 is 1.0451712435063947 kj/mol
+diff with run 4 is 1.0451712119935057 kj/mol
+diff with run 5 is 1.0451710806918584 kj/mol
+diff with run 6 is 1.0451711662063734 kj/mol
+diff with run 7 is 1.045171153509626 kj/mol
+diff with run 8 is 1.0451710623878374 kj/mol
+diff with run 9 is 1.045171305061626 kj/mol
+diff with run 10 is 1.0451712808281144 kj/mol
+diff with run 11 is 1.045171116766527 kj/mol
+diff with run 12 is 1.0451710820307756 kj/mol
+diff with run 13 is 1.0451712828334052 kj/mol
+diff with run 14 is 1.045171328681553 kj/mol
+diff with run 15 is 1.0451710713290354 kj/mol
+diff with run 16 is 1.1487906085510053 kj/mol
+diff with run 17 is 1.1487905712628785 kj/mol
+diff with run 18 is 1.1024369078556606 kj/mol
+diff with run 19 is 1.045171234104494 kj/mol
+diff with run 20 is 1.0451712074372106 kj/mol
+diff with run 21 is 1.0451713611679507 kj/mol
+diff with run 22 is 0.951099083403525 kj/mol
+diff with run 23 is 0.9510987713082805 kj/mol
+diff with run 24 is 0.9510987612132691 kj/mol
+diff with run 25 is 1.1487903649256463 kj/mol
+diff with run 26 is 0.9510988523521967 kj/mol
+diff with run 27 is 1.1487905560240392 kj/mol
+diff with run 28 is 1.145357829065609 kj/mol
+diff with run 29 is 1.1453574507450335 kj/mol
+diff with run 30 is 1.0068803106048658 kj/mol
+diff with run 31 is 1.0068798381864446 kj/mol
+diff with run 32 is 1.1251986307736632 kj/mol
+diff with run 33 is 1.1251987074635275 kj/mol
+diff with run 34 is 1.1251987375936228 kj/mol
+diff with run 35 is 0.8762181222920022 kj/mol
+diff with run 36 is 0.876218148014571 kj/mol
+diff with run 37 is 0.8762181087088132 kj/mol
+diff with run 38 is 0.8762185569396559 kj/mol
+diff with run 39 is 0.8762183256737442 kj/mol
+diff with run 40 is 0.8324307177568521 kj/mol
+diff with run 41 is 0.8324306268277086 kj/mol
+diff with run 42 is 0.8324308838237303 kj/mol
+diff with run 43 is 0.8324305436825219 kj/mol
+diff with run 44 is 0.8324307858757259 kj/mol
+diff with run 45 is 0.8324306010400109 kj/mol
+diff with run 46 is 0.8324307578784377 kj/mol
+diff with run 47 is 0.8324306365531979 kj/mol
+diff with run 48 is 0.8324306025091863 kj/mol
+diff with run 49 is 0.8324306727115061 kj/mol
+diff with run 50 is 0.832430678656765 kj/mol
+diff with run 51 is 0.8324305694318277 kj/mol
+diff with run 52 is 0.8324305754429013 kj/mol
+diff with run 53 is 0.8324307993403116 kj/mol
+diff with run 54 is 0.8324307244720056 kj/mol
+diff with run 55 is 0.8324307390314457 kj/mol
+diff with run 56 is 0.8324306401037626 kj/mol
+diff with run 57 is 0.8324306022712937 kj/mol
+diff with run 58 is 0.9705823453464955 kj/mol
+diff with run 59 is 0.9705822599142486 kj/mol
+diff with run 60 is 0.9705824935796535 kj/mol
+diff with run 61 is 0.9705822833216491 kj/mol
+diff with run 62 is 0.7575552337816432 kj/mol
+diff with run 63 is 0.7575553077004356 kj/mol
+diff with run 64 is 0.57158891023331 kj/mol
+diff with run 65 is 0.571588952389666 kj/mol
+diff with run 66 is 0.5715888173633193 kj/mol
+diff with run 67 is 0.5715886299601464 kj/mol
+diff with run 68 is 0.5751794040702175 kj/mol
+diff with run 69 is 0.5751793482785692 kj/mol
+diff with run 70 is 0.575179590590377 kj/mol
+diff with run 71 is 0.7575553210491598 kj/mol
+diff with run 72 is 0.7575552801199733 kj/mol
+diff with run 73 is 0.6357832267378873 kj/mol
+diff with run 74 is 0.5751925068512493 kj/mol
+diff with run 75 is 0.7575553330788483 kj/mol
+diff with run 76 is 0.7575552707454956 kj/mol
+diff with run 77 is 0.7575552972955467 kj/mol
+diff with run 78 is 0.7575554056923162 kj/mol
+diff with run 79 is 0.7575553247128433 kj/mol
+diff with run 80 is 0.7575555004202001 kj/mol
+diff with run 81 is 0.635783180629223 kj/mol
+diff with run 82 is 0.757555251896447 kj/mol
+diff with run 83 is 0.6357831560769215 kj/mol
+diff with run 84 is 0.6357832795541638 kj/mol
+diff with run 85 is 0.6357831082214261 kj/mol
+diff with run 86 is 0.6357831303769765 kj/mol
+diff with run 87 is 0.6357831348681425 kj/mol
+diff with run 88 is 0.6357831693186969 kj/mol
+diff with run 89 is 0.6357831180024466 kj/mol
+diff with run 90 is 0.6357831636483514 kj/mol
+diff with run 91 is 0.63578314281595 kj/mol
+diff with run 92 is 0.7885810215378911 kj/mol
+diff with run 93 is 0.7885809506061254 kj/mol
+diff with run 94 is 0.7885808812107209 kj/mol
+diff with run 95 is 0.7885810087437927 kj/mol
+diff with run 96 is 0.7885810216510101 kj/mol
+diff with run 97 is 0.6357830337233277 kj/mol
+diff with run 98 is 0.635783125120715 kj/mol
+diff with run 99 is 0.7885813810135314 kj/mol
+diff with run 100 is 0.7885810241170037 kj/mol
+diff with run 101 is 0.7885809474202837 kj/mol
+diff with run 102 is 0.4373206091135666 kj/mol
+diff with run 103 is 0.5470203921382162 kj/mol
+diff with run 104 is 0.43732055814558557 kj/mol
+diff with run 105 is 0.5470202474220298 kj/mol
+diff with run 106 is 0.5470203236758718 kj/mol
+diff with run 107 is 0.43732058378314376 kj/mol
+diff with run 108 is 0.4373206346859957 kj/mol
+diff with run 109 is 0.4373207151972245 kj/mol
+diff with run 110 is 0.43732071089116226 kj/mol
+diff with run 111 is 0.6357830553982938 kj/mol
+diff with run 112 is 0.4373207573474102 kj/mol
+diff with run 113 is 0.437320642138822 kj/mol
+diff with run 114 is 0.4373205498179725 kj/mol
+diff with run 115 is 0.43732056546061243 kj/mol
+diff with run 116 is 0.43732071391452393 kj/mol
+diff with run 117 is 0.43732072003460304 kj/mol
+diff with run 118 is 0.6357832704148364 kj/mol
+diff with run 119 is 0.635783157826495 kj/mol
+diff with run 120 is 0.6357830806464485 kj/mol
+diff with run 121 is 0.4373205629980467 kj/mol
+diff with run 122 is 0.43732081676777806 kj/mol
+diff with run 123 is 0.4373206830865189 kj/mol
+diff with run 124 is 0.4373205912195164 kj/mol
+diff with run 125 is 0.4373205851926747 kj/mol
+diff with run 126 is 0.4373206241796426 kj/mol
+diff with run 127 is 0.43732067412681064 kj/mol
+diff with run 128 is 0.437320665433789 kj/mol
+diff with run 129 is 0.43732066478935366 kj/mol
+diff with run 130 is 0.4373207365047254 kj/mol
+diff with run 131 is 0.43732059173506466 kj/mol
+diff with run 132 is 0.43732056258190605 kj/mol
+diff with run 133 is 0.4373208358862555 kj/mol
+diff with run 134 is 0.43732062795507404 kj/mol
+diff with run 135 is 0.43732069726546785 kj/mol
+diff with run 136 is 0.43732055766774364 kj/mol
+diff with run 137 is 0.43732059005884716 kj/mol
+diff with run 138 is 0.4373206213324724 kj/mol
+diff with run 139 is 0.4373205770611345 kj/mol
+diff with run 140 is 0.4373206070575436 kj/mol
+diff with run 141 is 0.43732069638588217 kj/mol
+diff with run 142 is 0.7575552123020644 kj/mol
+diff with run 143 is 0.7575556600694621 kj/mol
+diff with run 144 is 0.7575552609157996 kj/mol
+diff with run 145 is 0.7575552653404655 kj/mol
+diff with run 146 is 0.7575554814031871 kj/mol
+diff with run 147 is 0.7575554552219723 kj/mol
+diff with run 148 is 0.7575553331076422 kj/mol
+diff with run 149 is 0.7575552179422448 kj/mol
+diff with run 150 is 0.7575551724752737 kj/mol
+diff with run 151 is 0.7575553520485573 kj/mol
+diff with run 152 is 0.7575554037075923 kj/mol
+diff with run 153 is 0.7575553146726776 kj/mol
+diff with run 154 is 0.7575552427221556 kj/mol
+diff with run 155 is 0.6357833346492735 kj/mol
+diff with run 156 is 0.6357831511264239 kj/mol
+diff with run 157 is 0.6357831647356647 kj/mol
+diff with run 158 is 0.7575553480866508 kj/mol
+diff with run 159 is 0.6357830890762114 kj/mol
+diff with run 160 is 0.6417306768685566 kj/mol
+diff with run 161 is 0.6338586846822355 kj/mol
+diff with run 162 is 0.6420764110937728 kj/mol
+diff with run 163 is 0.6390150600382568 kj/mol
+diff with run 164 is 0.642076240678327 kj/mol
+diff with run 165 is 0.6420763611897955 kj/mol
+diff with run 166 is 0.639015200137818 kj/mol
+diff with run 167 is 0.5602501036049179 kj/mol
+diff with run 168 is 0.6390152061050152 kj/mol
+diff with run 169 is 0.6563382809882912 kj/mol
+diff with run 170 is 0.6357830387314131 kj/mol
+diff with run 171 is 0.6357831757774475 kj/mol
+diff with run 172 is 0.6357830658024971 kj/mol
+diff with run 173 is 0.6357830551590301 kj/mol
+diff with run 174 is 0.6357831148097493 kj/mol
+diff with run 175 is 0.6357831493055514 kj/mol
+diff with run 176 is 0.6357830632172143 kj/mol
+diff with run 177 is 0.6357830847166749 kj/mol
+diff with run 178 is 0.6357830801521529 kj/mol
+diff with run 179 is 0.6357830198357457 kj/mol
+diff with run 180 is 0.6357830582207836 kj/mol
+diff with run 181 is 0.6357831132768158 kj/mol
+diff with run 182 is 0.6357831027896588 kj/mol
+diff with run 183 is 0.6357831546392823 kj/mol
+diff with run 184 is 0.635783145171567 kj/mol
+diff with run 185 is 0.6357831257041346 kj/mol
+diff with run 186 is 0.635783339668328 kj/mol
+diff with run 187 is 0.6357831840940915 kj/mol
+diff with run 188 is 0.6357831484184243 kj/mol
+diff with run 189 is 0.6357831524838516 kj/mol
+diff with run 190 is 0.6357831038687451 kj/mol
+diff with run 191 is 0.6357831055202822 kj/mol
+diff with run 192 is 0.6357830632439516 kj/mol
+diff with run 193 is 0.6357830498753458 kj/mol
+diff with run 194 is 0.6357830482861956 kj/mol
+diff with run 195 is 0.6357830314780875 kj/mol
+diff with run 196 is 0.6357832143235943 kj/mol
+diff with run 197 is 0.6357833167072333 kj/mol
+diff with run 198 is 0.6357830360309547 kj/mol
+diff with run 199 is 0.6357830946725155 kj/mol
+diff with run 200 is 0.6357830989395002 kj/mol
+diff with run 201 is 0.6357832435199438 kj/mol
+diff with run 202 is 0.7322390243995675 kj/mol
+diff with run 203 is 0.7322393324664055 kj/mol
+diff with run 204 is 0.6357831115224434 kj/mol
+diff with run 205 is 0.6357830759153331 kj/mol
+diff with run 206 is 0.6357830746442873 kj/mol
+diff with run 207 is 0.6357831658051531 kj/mol
+diff with run 208 is 0.635783076337644 kj/mol
+diff with run 209 is 0.6357830563121581 kj/mol
+diff with run 210 is 0.6357830171496843 kj/mol
+diff with run 211 is 0.6357830461424196 kj/mol
+diff with run 212 is 0.6357833175950458 kj/mol
+diff with run 213 is 0.6357830737557891 kj/mol
+diff with run 214 is 0.6357831658277769 kj/mol
+diff with run 215 is 0.6357832397349145 kj/mol
+diff with run 216 is 0.6357830235590738 kj/mol
+diff with run 217 is 0.6357831653430792 kj/mol
+diff with run 218 is 0.6357834100667207 kj/mol
+diff with run 219 is 0.6357830066501869 kj/mol
+diff with run 220 is 0.6357831305559102 kj/mol
+diff with run 221 is 0.6357831864044609 kj/mol
+diff with run 222 is 0.3602701911586166 kj/mol
+diff with run 223 is 0.3602701849919186 kj/mol
+diff with run 224 is 0.3602703386506739 kj/mol
+diff with run 225 is 0.6357831268881132 kj/mol
+diff with run 226 is 0.6357832179735665 kj/mol
+diff with run 227 is 0.7575552456975273 kj/mol
+diff with run 228 is 0.7575551379863275 kj/mol
+diff with run 229 is 1.0709954747459587 kj/mol
+diff with run 230 is 1.0709954213517472 kj/mol
+diff with run 231 is 1.070995192184364 kj/mol
+diff with run 232 is 0.9798499657468509 kj/mol
+diff with run 233 is 0.9798499793314112 kj/mol
+diff with run 234 is 0.9798499128428215 kj/mol
+diff with run 235 is 0.8128174009754927 kj/mol
+diff with run 236 is 0.8128175202981837 kj/mol
+diff with run 237 is 0.812817498987255 kj/mol
+diff with run 238 is 0.8128174267460514 kj/mol
+diff with run 239 is 0.8128173669527338 kj/mol
+diff with run 240 is 0.8128174981481178 kj/mol
+diff with run 241 is 0.8128175122324581 kj/mol
+diff with run 242 is 0.8128175100208109 kj/mol
+diff with run 243 is 0.8128173404157084 kj/mol
+diff with run 244 is 0.8128173647767362 kj/mol
+diff with run 245 is 0.8128178091169717 kj/mol
+diff with run 246 is 0.8128176702548635 kj/mol
+diff with run 247 is 0.8128173482565672 kj/mol
+diff with run 248 is 0.8128174323917164 kj/mol
+diff with run 249 is 0.8128173751089545 kj/mol
+diff with run 250 is 0.8128173959770054 kj/mol
+diff with run 251 is 0.812817522815595 kj/mol
+diff with run 252 is 0.6639918306148801 kj/mol
+diff with run 253 is 0.6639917582824959 kj/mol
+diff with run 254 is 0.6639917531414099 kj/mol
+diff with run 255 is 0.8128174388916012 kj/mol
+diff with run 256 is 0.8128174457322139 kj/mol
+diff with run 257 is 0.9467768584829288 kj/mol
+diff with run 258 is 0.8128173768002545 kj/mol
+diff with run 259 is 0.812817511245238 kj/mol
+diff with run 260 is 0.6639918537117177 kj/mol
+diff with run 261 is 0.6639917417184504 kj/mol
+diff with run 262 is 0.3602700176025768 kj/mol
+diff with run 263 is 0.36027144127477134 kj/mol
+diff with run 264 is 0.36027008201389077 kj/mol
+diff with run 265 is 0.36016963865864127 kj/mol
+diff with run 266 is 0.360169819683961 kj/mol
+diff with run 267 is 0.3601702198872303 kj/mol
+diff with run 268 is 0.3602701554911762 kj/mol
+diff with run 269 is 0.36016973026992627 kj/mol
+diff with run 270 is 0.5039699544182694 kj/mol
+diff with run 271 is 0.5039699991071193 kj/mol
+diff with run 272 is 0.5039698956409658 kj/mol
+diff with run 273 is 0.5040301927904898 kj/mol
+diff with run 274 is 0.5040305554218066 kj/mol
+diff with run 275 is 0.5039698879317365 kj/mol
+diff with run 276 is 0.5039701503746079 kj/mol
+diff with run 277 is 0.5039706900275185 kj/mol
+diff with run 278 is 0.5039698727306033 kj/mol
+diff with run 279 is 0.503969826211283 kj/mol
+diff with run 280 is 0.5039700404017142 kj/mol
+diff with run 281 is 0.5040301857784847 kj/mol
+diff with run 282 is 0.5040303164370677 kj/mol
+diff with run 283 is 0.5041640734729451 kj/mol
+diff with run 284 is 0.5041640503767932 kj/mol
+diff with run 285 is 0.504164437335545 kj/mol
+diff with run 286 is 0.504030196583746 kj/mol
+diff with run 287 is 0.5040309416661948 kj/mol
+diff with run 288 is 0.504164243219275 kj/mol
+diff with run 289 is 0.5041640591980164 kj/mol
+diff with run 290 is 0.5041640189770233 kj/mol
+diff with run 291 is 0.6357833735292926 kj/mol
+diff with run 292 is 0.6357831380848348 kj/mol
+diff with run 293 is 0.6357832265301597 kj/mol
+diff with run 294 is 0.7636505239537922 kj/mol
+diff with run 295 is 0.6357831226492369 kj/mol
+diff with run 296 is 0.36292546873513964 kj/mol
+diff with run 297 is 0.45745582152768094 kj/mol
+diff with run 298 is 0.36292555521288006 kj/mol
+diff with run 299 is 0.45745558072344056 kj/mol
+diff with run 300 is 0.7711147185778428 kj/mol
+diff with run 301 is 0.77111484452862 kj/mol
+diff with run 302 is 0.7711148091895675 kj/mol
+diff with run 303 is 0.7711146678594091 kj/mol
+diff with run 304 is 0.7711147985467861 kj/mol
+diff with run 305 is 0.6357832059171407 kj/mol
+diff with run 306 is 0.7711147669982475 kj/mol
+diff with run 307 is 0.7711150493925634 kj/mol
+diff with run 308 is 0.7805293146940643 kj/mol
+diff with run 309 is 0.7711147934619169 kj/mol
+diff with run 310 is 0.63578314875024 kj/mol
+diff with run 311 is 0.6357831795617913 kj/mol
+diff with run 312 is 0.6357832559644019 kj/mol
+diff with run 313 is 0.6357832347624787 kj/mol
+diff with run 314 is 0.6357832458673339 kj/mol
+diff with run 315 is 0.6357835301483371 kj/mol
+diff with run 316 is 0.7556759788194863 kj/mol
+diff with run 317 is 0.7556760014871573 kj/mol
+diff with run 318 is 0.7556759398037245 kj/mol
+diff with run 319 is 0.36292544493353673 kj/mol
+diff with run 320 is 0.36292548907872985 kj/mol
+diff with run 321 is 0.36292559746864356 kj/mol
+diff with run 322 is 0.3629257128020054 kj/mol
+diff with run 323 is 0.36292553235462083 kj/mol
+diff with run 324 is 0.5216257533798845 kj/mol
+diff with run 325 is 0.5082703887170534 kj/mol
+diff with run 326 is 0.6486685437378571 kj/mol
+diff with run 327 is 0.49550454225386886 kj/mol
+diff with run 328 is 0.5187646661867238 kj/mol
+diff with run 329 is 0.5187647295100388 kj/mol
+diff with run 330 is 0.4907644018198439 kj/mol
+diff with run 331 is 0.3629254675388208 kj/mol
+diff with run 332 is 0.3629254318377875 kj/mol
+diff with run 333 is 0.6639917777444436 kj/mol
+diff with run 334 is 0.6639918141001958 kj/mol
+diff with run 335 is 0.6639918355420684 kj/mol
+diff with run 336 is 0.6104262251427175 kj/mol
+diff with run 337 is 0.4907644986071789 kj/mol
+diff with run 338 is 0.49659968871834853 kj/mol
+diff with run 339 is 0.49659986794062044 kj/mol
+diff with run 340 is 0.6639918563422479 kj/mol
+diff with run 341 is 0.6639917743385342 kj/mol
+diff with run 342 is 0.6639918253524485 kj/mol
+diff with run 343 is 0.663991770890805 kj/mol
+diff with run 344 is 0.6639918377550869 kj/mol
+diff with run 345 is 0.6639918086218096 kj/mol
+diff with run 346 is 0.6639917842820346 kj/mol
+diff with run 347 is 0.6639917119133152 kj/mol
+diff with run 348 is 0.6639918810412613 kj/mol
+diff with run 349 is 0.6639919451063627 kj/mol
+diff with run 350 is 0.663991822830238 kj/mol
+diff with run 351 is 0.6639918022610957 kj/mol
+diff with run 352 is 0.6639917828238282 kj/mol
+diff with run 353 is 0.6639917517065129 kj/mol
+diff with run 354 is 0.663991867574619 kj/mol
+diff with run 355 is 0.6639918257829861 kj/mol
+diff with run 356 is 0.6639918851800446 kj/mol
+diff with run 357 is 0.5390635874770174 kj/mol
+diff with run 358 is 0.6578168536291236 kj/mol
+diff with run 359 is 0.6578169591787226 kj/mol
+diff with run 360 is 0.663991726500178 kj/mol
+diff with run 361 is 0.6639919144497499 kj/mol
+diff with run 362 is 0.6639919211573623 kj/mol
+diff with run 363 is 0.6639918115601607 kj/mol
+diff with run 364 is 0.6639917119400524 kj/mol
+diff with run 365 is 0.6377661478312684 kj/mol
+diff with run 366 is 0.6377659896333573 kj/mol
+diff with run 367 is 0.6639917831138242 kj/mol
+diff with run 368 is 0.6377659829202604 kj/mol
+diff with run 369 is 0.6377660082253174 kj/mol
+diff with run 370 is 0.6377658834646889 kj/mol
+diff with run 371 is 0.6639918830431243 kj/mol
+diff with run 372 is 0.6639919664392296 kj/mol
+diff with run 373 is 0.6639917439808299 kj/mol
+diff with run 374 is 0.6639917926583232 kj/mol
+diff with run 375 is 0.4907643917645956 kj/mol
+diff with run 376 is 0.6639920019421333 kj/mol
+diff with run 377 is 0.6639918102493517 kj/mol
+diff with run 378 is 0.6639917869804364 kj/mol
+diff with run 379 is 0.6639917731586691 kj/mol
+diff with run 380 is 0.6639918770046278 kj/mol
+diff with run 381 is 0.6639917967244361 kj/mol
+diff with run 382 is 0.663991839841275 kj/mol
+diff with run 383 is 0.6639918673682625 kj/mol
+diff with run 384 is 0.6639918562339279 kj/mol
+diff with run 385 is 0.6639919023789274 kj/mol
+diff with run 386 is 0.6639919380456821 kj/mol
+diff with run 387 is 0.6639918603692833 kj/mol
+diff with run 388 is 0.6639917760373755 kj/mol
+diff with run 389 is 0.6639918641104362 kj/mol
+diff with run 390 is 0.6639918366341806 kj/mol
+diff with run 391 is 0.6639917531256418 kj/mol
+diff with run 392 is 0.6639919322491916 kj/mol
+diff with run 393 is 0.6639918455095637 kj/mol
+diff with run 394 is 0.663991787949146 kj/mol
+diff with run 395 is 0.6639917654686357 kj/mol
+diff with run 396 is 0.6639917324008751 kj/mol
+diff with run 397 is 0.7407097197574612 kj/mol
+diff with run 398 is 0.7289108698891087 kj/mol
+diff with run 399 is 0.7289108775743431 kj/mol
+File for run 400 is not valid kj/mol
+File for run 401 is not valid kj/mol
+File for run 402 is not valid kj/mol
+File for run 403 is not valid kj/mol
+File for run 404 is not valid kj/mol
+File for run 405 is not valid kj/mol
+File for run 406 is not valid kj/mol
+File for run 407 is not valid kj/mol
+File for run 408 is not valid kj/mol
+File for run 409 is not valid kj/mol
+File for run 410 is not valid kj/mol
+File for run 411 is not valid kj/mol
+File for run 412 is not valid kj/mol
+File for run 413 is not valid kj/mol
+File for run 414 is not valid kj/mol
+File for run 415 is not valid kj/mol
+File for run 416 is not valid kj/mol
+File for run 417 is not valid kj/mol
+File for run 418 is not valid kj/mol
+File for run 419 is not valid kj/mol
+File for run 420 is not valid kj/mol
+File for run 421 is not valid kj/mol
+File for run 422 is not valid kj/mol
+File for run 423 is not valid kj/mol
+File for run 424 is not valid kj/mol
+File for run 425 is not valid kj/mol
+File for run 426 is not valid kj/mol
+File for run 427 is not valid kj/mol
+File for run 428 is not valid kj/mol
+File for run 429 is not valid kj/mol
+File for run 430 is not valid kj/mol
+File for run 431 is not valid kj/mol
+File for run 432 is not valid kj/mol
+File for run 433 is not valid kj/mol
+File for run 434 is not valid kj/mol
+File for run 435 is not valid kj/mol
+File for run 436 is not valid kj/mol
+File for run 437 is not valid kj/mol
+File for run 438 is not valid kj/mol
+File for run 439 is not valid kj/mol
+File for run 440 is not valid kj/mol
+File for run 441 is not valid kj/mol
+File for run 442 is not valid kj/mol
+File for run 443 is not valid kj/mol
+File for run 444 is not valid kj/mol
+File for run 445 is not valid kj/mol
+File for run 446 is not valid kj/mol
+File for run 447 is not valid kj/mol
+File for run 448 is not valid kj/mol
+File for run 449 is not valid kj/mol
+File for run 450 is not valid kj/mol
+File for run 451 is not valid kj/mol
+File for run 452 is not valid kj/mol
+File for run 453 is not valid kj/mol
+File for run 454 is not valid kj/mol
+File for run 455 is not valid kj/mol
+File for run 456 is not valid kj/mol
+File for run 457 is not valid kj/mol
+File for run 458 is not valid kj/mol
+File for run 459 is not valid kj/mol
+File for run 460 is not valid kj/mol
+File for run 461 is not valid kj/mol
+File for run 462 is not valid kj/mol
+File for run 463 is not valid kj/mol
+File for run 464 is not valid kj/mol
+File for run 465 is not valid kj/mol
+File for run 466 is not valid kj/mol
+File for run 467 is not valid kj/mol
+File for run 468 is not valid kj/mol
+File for run 469 is not valid kj/mol
+File for run 470 is not valid kj/mol
+File for run 471 is not valid kj/mol
+File for run 472 is not valid kj/mol
+File for run 473 is not valid kj/mol
+File for run 474 is not valid kj/mol
+File for run 475 is not valid kj/mol
+File for run 476 is not valid kj/mol
+File for run 477 is not valid kj/mol
+File for run 478 is not valid kj/mol
+File for run 479 is not valid kj/mol
+File for run 480 is not valid kj/mol
+File for run 481 is not valid kj/mol
+File for run 482 is not valid kj/mol
+File for run 483 is not valid kj/mol
+File for run 484 is not valid kj/mol
+File for run 485 is not valid kj/mol
+File for run 486 is not valid kj/mol
+File for run 487 is not valid kj/mol
+File for run 488 is not valid kj/mol
+File for run 489 is not valid kj/mol
+File for run 490 is not valid kj/mol
+File for run 491 is not valid kj/mol
+File for run 492 is not valid kj/mol
+File for run 493 is not valid kj/mol
+File for run 494 is not valid kj/mol
+File for run 495 is not valid kj/mol
+File for run 496 is not valid kj/mol
+File for run 497 is not valid kj/mol
+File for run 498 is not valid kj/mol
+File for run 499 is not valid kj/mol
+File for run 500 is not valid kj/mol
+File for run 501 is not valid kj/mol
+File for run 502 is not valid kj/mol
+File for run 503 is not valid kj/mol
+File for run 504 is not valid kj/mol
+File for run 505 is not valid kj/mol
+File for run 506 is not valid kj/mol
+File for run 507 is not valid kj/mol
+File for run 508 is not valid kj/mol
+File for run 509 is not valid kj/mol
+File for run 510 is not valid kj/mol
+File for run 511 is not valid kj/mol
+File for run 512 is not valid kj/mol
+File for run 513 is not valid kj/mol
+File for run 514 is not valid kj/mol
+File for run 515 is not valid kj/mol
+File for run 516 is not valid kj/mol
+File for run 517 is not valid kj/mol
+File for run 518 is not valid kj/mol
+File for run 519 is not valid kj/mol
+File for run 520 is not valid kj/mol
+File for run 521 is not valid kj/mol
+File for run 522 is not valid kj/mol
+File for run 523 is not valid kj/mol
+File for run 524 is not valid kj/mol
+File for run 525 is not valid kj/mol
+File for run 526 is not valid kj/mol
+File for run 527 is not valid kj/mol
+File for run 528 is not valid kj/mol
+File for run 529 is not valid kj/mol
+File for run 530 is not valid kj/mol
+File for run 531 is not valid kj/mol
+File for run 532 is not valid kj/mol
+File for run 533 is not valid kj/mol
+File for run 534 is not valid kj/mol
+File for run 535 is not valid kj/mol
+File for run 536 is not valid kj/mol
+File for run 537 is not valid kj/mol
+File for run 538 is not valid kj/mol
+File for run 539 is not valid kj/mol
+File for run 540 is not valid kj/mol
+File for run 541 is not valid kj/mol
+File for run 542 is not valid kj/mol
+File for run 543 is not valid kj/mol
+File for run 544 is not valid kj/mol
+File for run 545 is not valid kj/mol
+File for run 546 is not valid kj/mol
+File for run 547 is not valid kj/mol
+File for run 548 is not valid kj/mol
+File for run 549 is not valid kj/mol
+File for run 550 is not valid kj/mol
+File for run 551 is not valid kj/mol
+File for run 552 is not valid kj/mol
+File for run 553 is not valid kj/mol
+File for run 554 is not valid kj/mol
+File for run 555 is not valid kj/mol
+File for run 556 is not valid kj/mol
+File for run 557 is not valid kj/mol
+File for run 558 is not valid kj/mol
+File for run 559 is not valid kj/mol
+File for run 560 is not valid kj/mol
+File for run 561 is not valid kj/mol
+File for run 562 is not valid kj/mol
+File for run 563 is not valid kj/mol
+File for run 564 is not valid kj/mol
+File for run 565 is not valid kj/mol
+File for run 566 is not valid kj/mol
+File for run 567 is not valid kj/mol
+File for run 568 is not valid kj/mol
+File for run 569 is not valid kj/mol
+File for run 570 is not valid kj/mol
+File for run 571 is not valid kj/mol
+File for run 572 is not valid kj/mol
+File for run 573 is not valid kj/mol
+File for run 574 is not valid kj/mol
+File for run 575 is not valid kj/mol
+File for run 576 is not valid kj/mol
+File for run 577 is not valid kj/mol
+File for run 578 is not valid kj/mol
+File for run 579 is not valid kj/mol
+File for run 580 is not valid kj/mol
+File for run 581 is not valid kj/mol
+File for run 582 is not valid kj/mol
+File for run 583 is not valid kj/mol
+File for run 584 is not valid kj/mol
+File for run 585 is not valid kj/mol
+File for run 586 is not valid kj/mol
+File for run 587 is not valid kj/mol
+File for run 588 is not valid kj/mol
+File for run 589 is not valid kj/mol
+File for run 590 is not valid kj/mol
+File for run 591 is not valid kj/mol
+File for run 592 is not valid kj/mol
+File for run 593 is not valid kj/mol
+File for run 594 is not valid kj/mol
+File for run 595 is not valid kj/mol
+File for run 596 is not valid kj/mol
+File for run 597 is not valid kj/mol
+File for run 598 is not valid kj/mol
+File for run 599 is not valid kj/mol
+File for run 600 is not valid kj/mol
+File for run 601 is not valid kj/mol
+File for run 602 is not valid kj/mol
+File for run 603 is not valid kj/mol
+File for run 604 is not valid kj/mol
+File for run 605 is not valid kj/mol
+File for run 606 is not valid kj/mol
+File for run 607 is not valid kj/mol
+File for run 608 is not valid kj/mol
+File for run 609 is not valid kj/mol
+File for run 610 is not valid kj/mol
+File for run 611 is not valid kj/mol
+File for run 612 is not valid kj/mol
+File for run 613 is not valid kj/mol
+File for run 614 is not valid kj/mol
+File for run 615 is not valid kj/mol
+File for run 616 is not valid kj/mol
+File for run 617 is not valid kj/mol
+File for run 618 is not valid kj/mol
+File for run 619 is not valid kj/mol
+File for run 620 is not valid kj/mol
+File for run 621 is not valid kj/mol
+File for run 622 is not valid kj/mol
+File for run 623 is not valid kj/mol
+File for run 624 is not valid kj/mol
+File for run 625 is not valid kj/mol
+File for run 626 is not valid kj/mol
+File for run 627 is not valid kj/mol
+File for run 628 is not valid kj/mol
+File for run 629 is not valid kj/mol
+File for run 630 is not valid kj/mol
+File for run 631 is not valid kj/mol
+File for run 632 is not valid kj/mol
+File for run 633 is not valid kj/mol
+File for run 634 is not valid kj/mol
+File for run 635 is not valid kj/mol
+File for run 636 is not valid kj/mol
+File for run 637 is not valid kj/mol
+File for run 638 is not valid kj/mol
+File for run 639 is not valid kj/mol
+File for run 640 is not valid kj/mol
+File for run 641 is not valid kj/mol
+File for run 642 is not valid kj/mol
+File for run 643 is not valid kj/mol
+File for run 644 is not valid kj/mol
+File for run 645 is not valid kj/mol
+File for run 646 is not valid kj/mol
+File for run 647 is not valid kj/mol
+File for run 648 is not valid kj/mol
+File for run 649 is not valid kj/mol
+File for run 650 is not valid kj/mol
+File for run 651 is not valid kj/mol
+File for run 652 is not valid kj/mol
+File for run 653 is not valid kj/mol
+File for run 654 is not valid kj/mol
+File for run 655 is not valid kj/mol
+File for run 656 is not valid kj/mol
+File for run 657 is not valid kj/mol
+File for run 658 is not valid kj/mol
+File for run 659 is not valid kj/mol
+File for run 660 is not valid kj/mol
+File for run 661 is not valid kj/mol
+File for run 662 is not valid kj/mol
+File for run 663 is not valid kj/mol
+File for run 664 is not valid kj/mol
+File for run 665 is not valid kj/mol
+File for run 666 is not valid kj/mol
+File for run 667 is not valid kj/mol
+File for run 668 is not valid kj/mol
+File for run 669 is not valid kj/mol
+File for run 670 is not valid kj/mol
+File for run 671 is not valid kj/mol
+File for run 672 is not valid kj/mol
+File for run 673 is not valid kj/mol
+File for run 674 is not valid kj/mol
+File for run 675 is not valid kj/mol
+File for run 676 is not valid kj/mol
+File for run 677 is not valid kj/mol
+File for run 678 is not valid kj/mol
+File for run 679 is not valid kj/mol
+File for run 680 is not valid kj/mol
+File for run 681 is not valid kj/mol
+File for run 682 is not valid kj/mol
+File for run 683 is not valid kj/mol
+File for run 684 is not valid kj/mol
+File for run 685 is not valid kj/mol
+File for run 686 is not valid kj/mol
+File for run 687 is not valid kj/mol
+File for run 688 is not valid kj/mol
+File for run 689 is not valid kj/mol
+File for run 690 is not valid kj/mol
+File for run 691 is not valid kj/mol
+File for run 692 is not valid kj/mol
+File for run 693 is not valid kj/mol
+File for run 694 is not valid kj/mol
+File for run 695 is not valid kj/mol
+File for run 696 is not valid kj/mol
+File for run 697 is not valid kj/mol
+File for run 698 is not valid kj/mol
+File for run 699 is not valid kj/mol
+File for run 700 is not valid kj/mol
+File for run 701 is not valid kj/mol
+File for run 702 is not valid kj/mol
+File for run 703 is not valid kj/mol
+File for run 704 is not valid kj/mol
+File for run 705 is not valid kj/mol
+File for run 706 is not valid kj/mol
+File for run 707 is not valid kj/mol
+File for run 708 is not valid kj/mol
+File for run 709 is not valid kj/mol
+File for run 710 is not valid kj/mol
+File for run 711 is not valid kj/mol
+File for run 712 is not valid kj/mol
+File for run 713 is not valid kj/mol
+File for run 714 is not valid kj/mol
+File for run 715 is not valid kj/mol
+File for run 716 is not valid kj/mol
+File for run 717 is not valid kj/mol
+File for run 718 is not valid kj/mol
+File for run 719 is not valid kj/mol
+File for run 720 is not valid kj/mol
+File for run 721 is not valid kj/mol
+File for run 722 is not valid kj/mol
+File for run 723 is not valid kj/mol
+File for run 724 is not valid kj/mol
+File for run 725 is not valid kj/mol
+File for run 726 is not valid kj/mol
+File for run 727 is not valid kj/mol
+File for run 728 is not valid kj/mol
+File for run 729 is not valid kj/mol
+File for run 730 is not valid kj/mol
+File for run 731 is not valid kj/mol
+File for run 732 is not valid kj/mol
+File for run 733 is not valid kj/mol
+File for run 734 is not valid kj/mol
+File for run 735 is not valid kj/mol
+File for run 736 is not valid kj/mol
+File for run 737 is not valid kj/mol
+File for run 738 is not valid kj/mol
+File for run 739 is not valid kj/mol
+File for run 740 is not valid kj/mol
+File for run 741 is not valid kj/mol
+File for run 742 is not valid kj/mol
+File for run 743 is not valid kj/mol
+File for run 744 is not valid kj/mol
+File for run 745 is not valid kj/mol
+File for run 746 is not valid kj/mol
+File for run 747 is not valid kj/mol
+File for run 748 is not valid kj/mol
+File for run 749 is not valid kj/mol
+File for run 750 is not valid kj/mol
+File for run 751 is not valid kj/mol
+File for run 752 is not valid kj/mol
+File for run 753 is not valid kj/mol
+File for run 754 is not valid kj/mol
+File for run 755 is not valid kj/mol
+File for run 756 is not valid kj/mol
+File for run 757 is not valid kj/mol
+File for run 758 is not valid kj/mol
+File for run 759 is not valid kj/mol
+File for run 760 is not valid kj/mol
+File for run 761 is not valid kj/mol
+File for run 762 is not valid kj/mol
+File for run 763 is not valid kj/mol
+File for run 764 is not valid kj/mol
+File for run 765 is not valid kj/mol
+File for run 766 is not valid kj/mol
+File for run 767 is not valid kj/mol
+File for run 768 is not valid kj/mol
+File for run 769 is not valid kj/mol
+File for run 770 is not valid kj/mol
+File for run 771 is not valid kj/mol
+File for run 772 is not valid kj/mol
+File for run 773 is not valid kj/mol
+File for run 774 is not valid kj/mol
+File for run 775 is not valid kj/mol
+File for run 776 is not valid kj/mol
+File for run 777 is not valid kj/mol
+File for run 778 is not valid kj/mol
+File for run 779 is not valid kj/mol
+File for run 780 is not valid kj/mol
+File for run 781 is not valid kj/mol
+File for run 782 is not valid kj/mol
+File for run 783 is not valid kj/mol
+File for run 784 is not valid kj/mol
+File for run 785 is not valid kj/mol
+File for run 786 is not valid kj/mol
+File for run 787 is not valid kj/mol
+File for run 788 is not valid kj/mol
+File for run 789 is not valid kj/mol
+File for run 790 is not valid kj/mol
+File for run 791 is not valid kj/mol
+File for run 792 is not valid kj/mol
+File for run 793 is not valid kj/mol
+File for run 794 is not valid kj/mol
+File for run 795 is not valid kj/mol
+File for run 796 is not valid kj/mol
+File for run 797 is not valid kj/mol
+File for run 798 is not valid kj/mol
+File for run 799 is not valid kj/mol
+diff with run 800 is 0.9083631751332757 kj/mol
+diff with run 801 is 0.9083631368983774 kj/mol
+diff with run 802 is 0.9083633405954815 kj/mol
+diff with run 803 is 0.9083630424735152 kj/mol
+diff with run 804 is 0.9594274334342556 kj/mol
+diff with run 805 is 0.9594275516840304 kj/mol
+diff with run 806 is 0.9594276198186725 kj/mol
+diff with run 807 is 0.9594276951922432 kj/mol
+diff with run 808 is 0.9594274514942138 kj/mol
+diff with run 809 is 0.9594274600418947 kj/mol
+diff with run 810 is 0.9594275479319083 kj/mol
+diff with run 811 is 0.959427575779057 kj/mol
+diff with run 812 is 1.0433275102804678 kj/mol
+diff with run 813 is 1.043327284702041 kj/mol
+diff with run 814 is 1.0594485767863655 kj/mol
+diff with run 815 is 1.059448538212796 kj/mol
+diff with run 816 is 0.9594275865541533 kj/mol
+diff with run 817 is 0.9594274388461416 kj/mol
+diff with run 818 is 0.33295466984416583 kj/mol
+diff with run 819 is 0.3329546871534253 kj/mol
+diff with run 820 is 0.3329547773003338 kj/mol
+diff with run 821 is 0.33295466384200456 kj/mol
+diff with run 822 is 0.3329548645623657 kj/mol
+diff with run 823 is 0.33295470746959277 kj/mol
+diff with run 824 is 0.3390222119975375 kj/mol
+diff with run 825 is 0.3329546770124808 kj/mol
+diff with run 826 is 0.33295471161797396 kj/mol
+diff with run 827 is 0.33295489572218645 kj/mol
+diff with run 828 is 0.33902233310819385 kj/mol
+diff with run 829 is 0.3329546193231761 kj/mol
+diff with run 830 is 0.3329547208683636 kj/mol
+diff with run 831 is 0.33295469170903486 kj/mol
+diff with run 832 is 0.9594275102790587 kj/mol
+diff with run 833 is 0.3420765731102225 kj/mol
+diff with run 834 is 0.33295462691448746 kj/mol
+diff with run 835 is 0.33295469015004975 kj/mol
+diff with run 836 is 0.3329547538017526 kj/mol
+diff with run 837 is 0.5311627267524002 kj/mol
+diff with run 838 is 0.3329546557262325 kj/mol
+diff with run 839 is 1.3186361354788552 kj/mol
+diff with run 840 is 0.3390225422048435 kj/mol
+diff with run 841 is 0.33295471153502 kj/mol
+diff with run 842 is 0.3329547947960682 kj/mol
+diff with run 843 is 0.33295467985622323 kj/mol
+diff with run 844 is 0.3329548568620488 kj/mol
+diff with run 845 is 0.33295475461826596 kj/mol
+diff with run 846 is 0.33295477308065335 kj/mol
+diff with run 847 is 0.33295471391188963 kj/mol
+diff with run 848 is 0.33295472102741575 kj/mol
+diff with run 849 is 0.3329547358220062 kj/mol
+diff with run 850 is 0.33295490752632256 kj/mol
+diff with run 851 is 0.3329549823274428 kj/mol
+diff with run 852 is 0.33295469551257456 kj/mol
+diff with run 853 is 0.3329548418850969 kj/mol
+diff with run 854 is 0.33295472386156016 kj/mol
+diff with run 855 is 0.33295462102955864 kj/mol
+diff with run 856 is 0.33295497137341284 kj/mol
+diff with run 857 is 0.3329548968430926 kj/mol
+diff with run 858 is 0.3329548105346879 kj/mol
+diff with run 859 is 0.33295484930090247 kj/mol
+diff with run 860 is 0.3329546984474977 kj/mol
+diff with run 861 is 0.33295471071576443 kj/mol
+diff with run 862 is 0.33295473203080667 kj/mol
+diff with run 863 is 0.33295478230224906 kj/mol
+diff with run 864 is 0.33295477693629644 kj/mol
+diff with run 865 is 0.33295482410005217 kj/mol
+diff with run 866 is 0.33295466302686244 kj/mol
+diff with run 867 is 0.33295474038652806 kj/mol
+diff with run 868 is 0.34207673578078923 kj/mol
+diff with run 869 is 0.3329547872520611 kj/mol
+diff with run 870 is 0.3420769461375157 kj/mol
+diff with run 871 is 0.3329546712063925 kj/mol
+diff with run 872 is 0.3329547662379839 kj/mol
+diff with run 873 is 0.3420771291043683 kj/mol
+diff with run 874 is 0.34207672094026564 kj/mol
+diff with run 875 is 0.33295490480803946 kj/mol
+diff with run 876 is 0.33295466577668187 kj/mol
+diff with run 877 is 0.3329547109008682 kj/mol
+diff with run 878 is 0.3420766124934497 kj/mol
+diff with run 879 is 0.3329546574147903 kj/mol
+diff with run 880 is 0.3329546647668379 kj/mol
+diff with run 881 is 0.3420765778598482 kj/mol
+diff with run 882 is 0.3329546557543409 kj/mol
+diff with run 883 is 0.3329546308757082 kj/mol
+diff with run 884 is 0.34207699868093555 kj/mol
+diff with run 885 is 0.3329546915438125 kj/mol
+diff with run 886 is 0.332954661213531 kj/mol
+diff with run 887 is 1.0325160672427398 kj/mol
+diff with run 888 is 0.9083629840780737 kj/mol
+diff with run 889 is 0.33295486532540464 kj/mol
+diff with run 890 is 0.3329546772133527 kj/mol
+diff with run 891 is 0.3389986543175217 kj/mol
+diff with run 892 is 0.33899858420226925 kj/mol
+diff with run 893 is 0.33899868427074004 kj/mol
+diff with run 894 is 0.3329547206983423 kj/mol
+diff with run 895 is 0.3329546464545902 kj/mol
+diff with run 896 is 0.3329548644197673 kj/mol
+diff with run 897 is 0.3329546590347911 kj/mol
+diff with run 898 is 0.3329546823002786 kj/mol
+diff with run 899 is 0.33295482576735724 kj/mol
+diff with run 900 is 0.3329549332934533 kj/mol
+diff with run 901 is 0.33295493065606735 kj/mol
+diff with run 902 is 0.3329546243154934 kj/mol
+diff with run 903 is 0.332954722627535 kj/mol
+diff with run 904 is 0.33295467847822846 kj/mol
+diff with run 905 is 0.33295467270367635 kj/mol
+diff with run 906 is 0.3329546875942465 kj/mol
+diff with run 907 is 0.33295465267956154 kj/mol
+diff with run 908 is 0.33295469013153933 kj/mol
+diff with run 909 is 0.33295468774644293 kj/mol
+diff with run 910 is 0.49754125939244004 kj/mol
+diff with run 911 is 0.49754145252971665 kj/mol
+diff with run 912 is 0.4975413869275684 kj/mol
+diff with run 913 is 0.3329546793111955 kj/mol
+diff with run 914 is 0.3329547035289391 kj/mol
+diff with run 915 is 0.3329546962975517 kj/mol
+diff with run 916 is 0.33899874467147223 kj/mol
+diff with run 917 is 0.3329548363470662 kj/mol
+diff with run 918 is 0.33899904498657557 kj/mol
+diff with run 919 is 1.032516130404946 kj/mol
+diff with run 920 is 1.032516137001496 kj/mol
+diff with run 921 is 0.3329546744964407 kj/mol
+diff with run 922 is 0.3329547861853149 kj/mol
+diff with run 923 is 0.3329547194979101 kj/mol
+diff with run 924 is 0.4568438473027209 kj/mol
+diff with run 925 is 0.4568437776221195 kj/mol
+diff with run 926 is 0.4568439606842663 kj/mol
+diff with run 927 is 0.45684388582350155 kj/mol
+diff with run 928 is 0.45684396980988234 kj/mol
+diff with run 929 is 0.3891156224894328 kj/mol
+diff with run 930 is 0.3891155738304498 kj/mol
+diff with run 931 is 0.3891158275659027 kj/mol
+diff with run 932 is 0.38911560202244005 kj/mol
+diff with run 933 is 0.38911565472902543 kj/mol
+diff with run 934 is 0.3891155956137361 kj/mol
+diff with run 935 is 0.3891155786870244 kj/mol
+diff with run 936 is 0.3891156757273345 kj/mol
+diff with run 937 is 0.8353055480392735 kj/mol
+diff with run 938 is 0.592421529201524 kj/mol
+diff with run 939 is 0.5924216389714891 kj/mol
+diff with run 940 is 0.5924215515476629 kj/mol
+diff with run 941 is 0.5924216867714535 kj/mol
+diff with run 942 is 0.532175071176703 kj/mol
+diff with run 943 is 0.5321750464797463 kj/mol
+diff with run 944 is 1.0325162540940291 kj/mol
+diff with run 945 is 1.0325160658873687 kj/mol
+diff with run 946 is 0.5321750482999333 kj/mol
+diff with run 947 is 0.5321749815734511 kj/mol
+diff with run 948 is 0.5321750140612199 kj/mol
+diff with run 949 is 0.5321751120380181 kj/mol
+diff with run 950 is 0.5321754035983985 kj/mol
+diff with run 951 is 0.9083630871596226 kj/mol
+diff with run 952 is 0.5321750935324397 kj/mol
+diff with run 953 is 0.5321750094816156 kj/mol
+diff with run 954 is 0.5321752524549979 kj/mol
+diff with run 955 is 0.5321751540332652 kj/mol
+diff with run 956 is 0.5321750357807482 kj/mol
+diff with run 957 is 0.5178314555579402 kj/mol
+diff with run 958 is 0.5321753715953275 kj/mol
+diff with run 959 is 0.5321752071175994 kj/mol
+diff with run 960 is 0.5321750572973479 kj/mol
+diff with run 961 is 0.5333339105214765 kj/mol
+diff with run 962 is 0.533332839932672 kj/mol
+diff with run 963 is 0.533332679162504 kj/mol
+diff with run 964 is 0.5333325966555823 kj/mol
+diff with run 965 is 0.5307593745086528 kj/mol
+diff with run 966 is 0.5957667478995432 kj/mol
+diff with run 967 is 1.0692987090741928 kj/mol
+diff with run 968 is 1.1793318531165213 kj/mol
+diff with run 969 is 1.1793319729485905 kj/mol
+diff with run 970 is 1.0388320051172377 kj/mol
+diff with run 971 is 1.0388321106099347 kj/mol
+diff with run 972 is 0.45132555291944243 kj/mol
+diff with run 973 is 0.4513255181219898 kj/mol
+diff with run 974 is 0.4564795200554973 kj/mol
+diff with run 975 is 0.3208512584979707 kj/mol
+diff with run 976 is 0.45647953213454684 kj/mol
+diff with run 977 is 0.43762790168788684 kj/mol
+diff with run 978 is 0.43762775457426384 kj/mol
+diff with run 979 is 0.43762790417101965 kj/mol
+diff with run 980 is 0.8863923712943385 kj/mol
+diff with run 981 is 0.8863926683379042 kj/mol
+diff with run 982 is 0.8863924083404592 kj/mol
+diff with run 983 is 0.8863924762968531 kj/mol
+diff with run 984 is 0.8863924616064693 kj/mol
+diff with run 985 is 0.8863924452727753 kj/mol
+diff with run 986 is 0.4458612236585681 kj/mol
+diff with run 987 is 0.44586147553955535 kj/mol
+diff with run 988 is 0.4458612357849219 kj/mol
+diff with run 989 is 0.5572427852655338 kj/mol
+diff with run 990 is 0.5053550629531695 kj/mol
+diff with run 991 is 0.6665686907276035 kj/mol
+diff with run 992 is 0.6151944713922003 kj/mol
+diff with run 993 is 0.6375082147520497 kj/mol
+diff with run 994 is 0.6375915249041398 kj/mol
+diff with run 995 is 0.6375082090481112 kj/mol
+diff with run 996 is 0.49828469139293297 kj/mol
+diff with run 997 is 0.38251905884768733 kj/mol
+diff with run 998 is 0.3825186849744013 kj/mol
+diff with run 999 is 0.3825189914712851 kj/mol
+diff with run 1000 is 0.38251898122476297 kj/mol
+diff with run 1001 is 0.38251881477053795 kj/mol
+diff with run 1002 is 0.3825187203367632 kj/mol
+diff with run 1003 is 0.3825186825625677 kj/mol
+diff with run 1004 is 0.5130360216975226 kj/mol
+diff with run 1005 is 0.5130360879269669 kj/mol
+diff with run 1006 is 0.5130360953112364 kj/mol
+diff with run 1007 is 0.5130360118129811 kj/mol
+diff with run 1008 is 0.5130363099328908 kj/mol
+diff with run 1009 is 0.5130363074785519 kj/mol
+diff with run 1010 is 0.5130360117265993 kj/mol
+diff with run 1011 is 0.5130362014230024 kj/mol
+diff with run 1012 is 0.5130361480226208 kj/mol
+diff with run 1013 is 0.5130361772244548 kj/mol
+diff with run 1014 is 0.5130360192466115 kj/mol
+diff with run 1015 is 0.5130359901853192 kj/mol
+diff with run 1016 is 0.44175943050854327 kj/mol
+diff with run 1017 is 0.5130360554645642 kj/mol
+diff with run 1018 is 0.6084973062274592 kj/mol
+diff with run 1019 is 0.5087464540309001 kj/mol
+diff with run 1020 is 0.5087457631392948 kj/mol
+diff with run 1021 is 0.508745331936628 kj/mol
+diff with run 1022 is 0.5087455535606897 kj/mol
+diff with run 1023 is 0.36236905630344995 kj/mol
+diff with run 1024 is 0.43874562391308397 kj/mol
+diff with run 1025 is 0.43874009783876033 kj/mol
+diff with run 1026 is 0.44339056242662694 kj/mol
+diff with run 1027 is 0.3623691074908133 kj/mol
+diff with run 1028 is 0.2633978287069909 kj/mol
+diff with run 1029 is 0.26339776900553963 kj/mol
+diff with run 1030 is 0.4387401531299429 kj/mol
+diff with run 1031 is 0.5485742879570003 kj/mol
+diff with run 1032 is 0.4125774356570498 kj/mol
+diff with run 1033 is 0.2633983533815784 kj/mol
+diff with run 1034 is 0.26339812969326687 kj/mol
+diff with run 1035 is 0.2633978981044521 kj/mol
+diff with run 1036 is 0.26339806462106385 kj/mol
+diff with run 1037 is 0.4387401192388132 kj/mol
+diff with run 1038 is 0.44339057757291456 kj/mol
+diff with run 1039 is 0.4433909232878033 kj/mol
+diff with run 1040 is 2.9804175481163597e-07 kj/mol
+diff with run 1041 is 2.774253079319308e-07 kj/mol
+diff with run 1042 is 0.18709778797497859 kj/mol
+diff with run 1043 is 0.1870991055422627 kj/mol
+diff with run 1044 is 4.1122517065222025e-08 kj/mol
+diff with run 1045 is 3.510095422009983e-07 kj/mol
+diff with run 1046 is 3.185937581556039e-07 kj/mol
+diff with run 1047 is 0.18709754690268052 kj/mol
+diff with run 1048 is 0.1997654980038121 kj/mol
+diff with run 1049 is 0.199765600011759 kj/mol
+diff with run 1050 is 8.801890070469508e-08 kj/mol
+diff with run 1051 is 5.504540584736132e-07 kj/mol
+diff with run 1052 is 0.18711744576324854 kj/mol
+diff with run 1053 is 0.18711752075084365 kj/mol
+diff with run 1054 is 0.17584416285737156 kj/mol
+diff with run 1055 is 0.17584442255933605 kj/mol
+diff with run 1056 is 4.1075898337241844e-08 kj/mol
+diff with run 1057 is 6.109178630943767e-08 kj/mol
+diff with run 1058 is 6.478632050186688e-08 kj/mol
+diff with run 1059 is 1.760323168531572e-07 kj/mol
+diff with run 1060 is 5.270062094386413e-07 kj/mol
+diff with run 1061 is 8.027333616469412e-08 kj/mol
+diff with run 1062 is 7.580020065804298e-07 kj/mol
+diff with run 1063 is 2.872536327013992e-10 kj/mol
+diff with run 1064 is 5.130802355936209e-09 kj/mol
+diff with run 1065 is 0.4183584549482193 kj/mol
+diff with run 1066 is 0.41835831078802993 kj/mol
+diff with run 1067 is 0.4183584182867032 kj/mol
+diff with run 1068 is 0.18960823437184982 kj/mol
+diff with run 1069 is 0.18960817366809588 kj/mol
+diff with run 1070 is 0.13233296134400793 kj/mol
+diff with run 1071 is 0.12072280342345362 kj/mol
+diff with run 1072 is 0.1207231067242123 kj/mol
+diff with run 1073 is 0.12072302969224885 kj/mol
+diff with run 1074 is 0.16104597847152471 kj/mol
+diff with run 1075 is 0.16104600383348391 kj/mol
+diff with run 1076 is 0.12337604278188513 kj/mol
+diff with run 1077 is 0.8718145105092172 kj/mol
+diff with run 1078 is 0.8718147118945808 kj/mol
+diff with run 1079 is 0.8718146336964635 kj/mol
+diff with run 1080 is 0.15717792295867922 kj/mol
+diff with run 1081 is 0.1610459498215741 kj/mol
+diff with run 1082 is 0.16104591230583834 kj/mol
+diff with run 1083 is 0.17584411991123958 kj/mol
+diff with run 1084 is 0.16104599712381493 kj/mol
+diff with run 1085 is 0.1571779125105996 kj/mol
+diff with run 1086 is 0.1233758803341285 kj/mol
+diff with run 1087 is 0.15717779998807277 kj/mol
+diff with run 1088 is 0.1571776946235774 kj/mol
+diff with run 1089 is 0.15717754744825319 kj/mol
+diff with run 1090 is 0.15717770598894906 kj/mol
+diff with run 1091 is 0.15717763345843516 kj/mol
+diff with run 1092 is 0.38986965449792726 kj/mol
+diff with run 1093 is 0.2640385087338657 kj/mol
+diff with run 1094 is 0.3898699148957448 kj/mol
+diff with run 1095 is 0.16104610178285922 kj/mol
+diff with run 1096 is 0.16104605024791216 kj/mol
+diff with run 1097 is 0.16104592572860413 kj/mol
+diff with run 1098 is 0.1610459344257392 kj/mol
+diff with run 1099 is 0.17584424448676428 kj/mol
+diff with run 1100 is 0.16104599865332053 kj/mol
+diff with run 1101 is 0.16104590494624943 kj/mol
+diff with run 1102 is 0.12072295176493164 kj/mol
+diff with run 1103 is 0.16104610739424582 kj/mol
+diff with run 1104 is 0.16104673971833192 kj/mol
+diff with run 1105 is 0.16104654565690757 kj/mol
+diff with run 1106 is 0.16104631291496485 kj/mol
+diff with run 1107 is 0.16104601562322307 kj/mol
+diff with run 1108 is 0.16104604952943527 kj/mol
+diff with run 1109 is 0.16104595267422891 kj/mol
+diff with run 1110 is 0.16104594727125546 kj/mol
+diff with run 1111 is 0.0762744304102076 kj/mol
+diff with run 1112 is 0.2640386866391585 kj/mol
+diff with run 1113 is 0.26403861211706514 kj/mol
+diff with run 1114 is 0.1571776839115535 kj/mol
+diff with run 1115 is 0.15717765003961978 kj/mol
+diff with run 1116 is 0.12337595348439727 kj/mol
+diff with run 1117 is 0.12337590140716469 kj/mol
+diff with run 1118 is 0.40803055728699517 kj/mol
+diff with run 1119 is 0.4080302755240889 kj/mol
+diff with run 1120 is 0.2640387495963795 kj/mol
+diff with run 1121 is 0.40803034258375787 kj/mol
+diff with run 1122 is 0.26403859172342836 kj/mol
+diff with run 1123 is 0.26403853060970384 kj/mol
+diff with run 1124 is 0.12337593407729504 kj/mol
+diff with run 1125 is 0.5136464694443382 kj/mol
+diff with run 1126 is 0.5136465426755041 kj/mol
+diff with run 1127 is 0.12337626048654582 kj/mol
+diff with run 1128 is 0.25868252388474916 kj/mol
+diff with run 1129 is 0.21761297612339628 kj/mol
+diff with run 1130 is 0.217612850516775 kj/mol
+diff with run 1131 is 0.2644797893508295 kj/mol
+diff with run 1132 is 0.25868255114710703 kj/mol
+diff with run 1133 is 0.26448007350980135 kj/mol
+diff with run 1134 is 0.2646462733315656 kj/mol
+diff with run 1135 is 0.25555127935646754 kj/mol
+diff with run 1136 is 0.13712652454775365 kj/mol
+diff with run 1137 is 0.3070071179724135 kj/mol
+diff with run 1138 is 0.28805886086221727 kj/mol
+diff with run 1139 is 0.1851981640366605 kj/mol
+diff with run 1140 is 0.16948735818050023 kj/mol
+diff with run 1141 is 0.16948732712077272 kj/mol
+diff with run 1142 is 0.1694873824133264 kj/mol
+diff with run 1143 is 0.2503556822461531 kj/mol
+diff with run 1144 is 0.24307987040478024 kj/mol
+diff with run 1145 is 0.31514368843871843 kj/mol
+diff with run 1146 is 0.2430799762306639 kj/mol
+diff with run 1147 is 0.1983320352991382 kj/mol
+diff with run 1148 is 0.20982716988537553 kj/mol
+diff with run 1149 is 0.23366766710514913 kj/mol
+diff with run 1150 is 0.20821704058863155 kj/mol
+diff with run 1151 is 0.1701421167519765 kj/mol
+diff with run 1152 is 0.17014224401630487 kj/mol
+diff with run 1153 is 0.17014213126754013 kj/mol
+diff with run 1154 is 0.17014214922603393 kj/mol
+diff with run 1155 is 0.2900436638041928 kj/mol
+diff with run 1156 is 0.29004372305659604 kj/mol
+diff with run 1157 is 0.2900436717437735 kj/mol
+diff with run 1158 is 0.2900437341024923 kj/mol
+diff with run 1159 is 0.2900436225733557 kj/mol
+diff with run 1160 is 0.3517006951934675 kj/mol
+diff with run 1161 is 0.3517006093896419 kj/mol
+diff with run 1162 is 0.3517006731832578 kj/mol
+diff with run 1163 is 0.2900437308199854 kj/mol
+diff with run 1164 is 0.1701420681265865 kj/mol
+diff with run 1165 is 0.17014251172023687 kj/mol
+diff with run 1166 is 0.17014241269794525 kj/mol
+diff with run 1167 is 0.17014217623404554 kj/mol
+diff with run 1168 is 0.17550551360520653 kj/mol
+diff with run 1169 is 8.804975133350549e-08 kj/mol
+diff with run 1170 is 2.0052908726768322e-08 kj/mol
+diff with run 1171 is 0.0 kj/mol
+diff with run 1172 is 9.756545639769503e-08 kj/mol
+diff with run 1173 is 2.0849540519606092e-08 kj/mol
+diff with run 1174 is 0.3923354585465384 kj/mol
+diff with run 1175 is 0.5380388986953145 kj/mol
+diff with run 1176 is 0.24755907700256155 kj/mol
+diff with run 1177 is 0.43229839824179084 kj/mol
+diff with run 1178 is 0.5380391874098959 kj/mol
+diff with run 1179 is 5.574297284324121e-08 kj/mol
+diff with run 1180 is 1.8522923208630585e-07 kj/mol
+diff with run 1181 is 6.54828591434531e-08 kj/mol
+diff with run 1182 is 1.5571203601003198e-07 kj/mol
+diff with run 1183 is 4.173479921167935e-07 kj/mol
+diff with run 1184 is 5.967814194039164e-08 kj/mol
+diff with run 1185 is 2.238254254367196e-07 kj/mol
+diff with run 1186 is 6.9880102103230596e-09 kj/mol
+diff with run 1187 is 3.369080625565232e-07 kj/mol
+diff with run 1188 is 1.303171695123584e-07 kj/mol
+diff with run 1189 is 1.055975890008683e-07 kj/mol
+diff with run 1190 is 9.069262186826419e-08 kj/mol
+diff with run 1191 is 1.013559703242011e-07 kj/mol
+diff with run 1192 is 1.7720738302606936e-07 kj/mol
+diff with run 1193 is 4.465429705143808e-07 kj/mol
+diff with run 1194 is 9.22982257054639e-08 kj/mol
+diff with run 1195 is 4.1642864337824315e-08 kj/mol
+diff with run 1196 is 2.1412187432155108e-07 kj/mol
+diff with run 1197 is 1.241833789353192e-07 kj/mol
+diff with run 1198 is 1.4049787701979463e-07 kj/mol
+diff with run 1199 is 1.935150254152536e-07 kj/mol
+File for run 1200 is not valid kj/mol
+File for run 1201 is not valid kj/mol
+File for run 1202 is not valid kj/mol
+File for run 1203 is not valid kj/mol
+File for run 1204 is not valid kj/mol
+File for run 1205 is not valid kj/mol
+File for run 1206 is not valid kj/mol
+File for run 1207 is not valid kj/mol
+File for run 1208 is not valid kj/mol
+File for run 1209 is not valid kj/mol
+File for run 1210 is not valid kj/mol
+File for run 1211 is not valid kj/mol
+File for run 1212 is not valid kj/mol
+File for run 1213 is not valid kj/mol
+File for run 1214 is not valid kj/mol
+File for run 1215 is not valid kj/mol
+File for run 1216 is not valid kj/mol
+File for run 1217 is not valid kj/mol
+File for run 1218 is not valid kj/mol
+File for run 1219 is not valid kj/mol
+File for run 1220 is not valid kj/mol
+File for run 1221 is not valid kj/mol
+File for run 1222 is not valid kj/mol
+File for run 1223 is not valid kj/mol
+File for run 1224 is not valid kj/mol
+File for run 1225 is not valid kj/mol
+File for run 1226 is not valid kj/mol
+File for run 1227 is not valid kj/mol
+File for run 1228 is not valid kj/mol
+File for run 1229 is not valid kj/mol
+File for run 1230 is not valid kj/mol
+File for run 1231 is not valid kj/mol
+File for run 1232 is not valid kj/mol
+File for run 1233 is not valid kj/mol
+File for run 1234 is not valid kj/mol
+File for run 1235 is not valid kj/mol
+File for run 1236 is not valid kj/mol
+File for run 1237 is not valid kj/mol
+File for run 1238 is not valid kj/mol
+File for run 1239 is not valid kj/mol
+File for run 1240 is not valid kj/mol
+File for run 1241 is not valid kj/mol
+File for run 1242 is not valid kj/mol
+File for run 1243 is not valid kj/mol
+File for run 1244 is not valid kj/mol
+File for run 1245 is not valid kj/mol
+File for run 1246 is not valid kj/mol
+File for run 1247 is not valid kj/mol
+File for run 1248 is not valid kj/mol
+File for run 1249 is not valid kj/mol
+File for run 1250 is not valid kj/mol
+File for run 1251 is not valid kj/mol
+File for run 1252 is not valid kj/mol
+File for run 1253 is not valid kj/mol
+File for run 1254 is not valid kj/mol
+File for run 1255 is not valid kj/mol
+File for run 1256 is not valid kj/mol
+File for run 1257 is not valid kj/mol
+File for run 1258 is not valid kj/mol
+File for run 1259 is not valid kj/mol
+File for run 1260 is not valid kj/mol
+File for run 1261 is not valid kj/mol
+File for run 1262 is not valid kj/mol
+File for run 1263 is not valid kj/mol
+File for run 1264 is not valid kj/mol
+File for run 1265 is not valid kj/mol
+File for run 1266 is not valid kj/mol
+File for run 1267 is not valid kj/mol
+File for run 1268 is not valid kj/mol
+File for run 1269 is not valid kj/mol
+File for run 1270 is not valid kj/mol
+File for run 1271 is not valid kj/mol
+File for run 1272 is not valid kj/mol
+File for run 1273 is not valid kj/mol
+File for run 1274 is not valid kj/mol
+File for run 1275 is not valid kj/mol
+File for run 1276 is not valid kj/mol
+File for run 1277 is not valid kj/mol
+File for run 1278 is not valid kj/mol
+File for run 1279 is not valid kj/mol
+File for run 1280 is not valid kj/mol
+File for run 1281 is not valid kj/mol
+File for run 1282 is not valid kj/mol
+File for run 1283 is not valid kj/mol
+File for run 1284 is not valid kj/mol
+File for run 1285 is not valid kj/mol
+File for run 1286 is not valid kj/mol
+File for run 1287 is not valid kj/mol
+File for run 1288 is not valid kj/mol
+File for run 1289 is not valid kj/mol
+File for run 1290 is not valid kj/mol
+File for run 1291 is not valid kj/mol
+File for run 1292 is not valid kj/mol
+File for run 1293 is not valid kj/mol
+File for run 1294 is not valid kj/mol
+File for run 1295 is not valid kj/mol
+File for run 1296 is not valid kj/mol
+File for run 1297 is not valid kj/mol
+File for run 1298 is not valid kj/mol
+File for run 1299 is not valid kj/mol
+File for run 1300 is not valid kj/mol
+File for run 1301 is not valid kj/mol
+File for run 1302 is not valid kj/mol
+File for run 1303 is not valid kj/mol
+File for run 1304 is not valid kj/mol
+File for run 1305 is not valid kj/mol
+File for run 1306 is not valid kj/mol
+File for run 1307 is not valid kj/mol
+File for run 1308 is not valid kj/mol
+File for run 1309 is not valid kj/mol
+File for run 1310 is not valid kj/mol
+File for run 1311 is not valid kj/mol
+File for run 1312 is not valid kj/mol
+File for run 1313 is not valid kj/mol
+File for run 1314 is not valid kj/mol
+File for run 1315 is not valid kj/mol
+File for run 1316 is not valid kj/mol
+File for run 1317 is not valid kj/mol
+File for run 1318 is not valid kj/mol
+File for run 1319 is not valid kj/mol
+File for run 1320 is not valid kj/mol
+File for run 1321 is not valid kj/mol
+File for run 1322 is not valid kj/mol
+File for run 1323 is not valid kj/mol
+File for run 1324 is not valid kj/mol
+File for run 1325 is not valid kj/mol
+File for run 1326 is not valid kj/mol
+File for run 1327 is not valid kj/mol
+File for run 1328 is not valid kj/mol
+File for run 1329 is not valid kj/mol
+File for run 1330 is not valid kj/mol
+File for run 1331 is not valid kj/mol
+File for run 1332 is not valid kj/mol
+File for run 1333 is not valid kj/mol
+File for run 1334 is not valid kj/mol
+File for run 1335 is not valid kj/mol
+File for run 1336 is not valid kj/mol
+File for run 1337 is not valid kj/mol
+File for run 1338 is not valid kj/mol
+File for run 1339 is not valid kj/mol
+File for run 1340 is not valid kj/mol
+File for run 1341 is not valid kj/mol
+File for run 1342 is not valid kj/mol
+File for run 1343 is not valid kj/mol
+File for run 1344 is not valid kj/mol
+File for run 1345 is not valid kj/mol
+File for run 1346 is not valid kj/mol
+File for run 1347 is not valid kj/mol
+File for run 1348 is not valid kj/mol
+File for run 1349 is not valid kj/mol
+File for run 1350 is not valid kj/mol
+File for run 1351 is not valid kj/mol
+File for run 1352 is not valid kj/mol
+File for run 1353 is not valid kj/mol
+File for run 1354 is not valid kj/mol
+File for run 1355 is not valid kj/mol
+File for run 1356 is not valid kj/mol
+File for run 1357 is not valid kj/mol
+File for run 1358 is not valid kj/mol
+File for run 1359 is not valid kj/mol
+File for run 1360 is not valid kj/mol
+File for run 1361 is not valid kj/mol
+File for run 1362 is not valid kj/mol
+File for run 1363 is not valid kj/mol
+File for run 1364 is not valid kj/mol
+File for run 1365 is not valid kj/mol
+File for run 1366 is not valid kj/mol
+File for run 1367 is not valid kj/mol
+File for run 1368 is not valid kj/mol
+File for run 1369 is not valid kj/mol
+File for run 1370 is not valid kj/mol
+File for run 1371 is not valid kj/mol
+File for run 1372 is not valid kj/mol
+File for run 1373 is not valid kj/mol
+File for run 1374 is not valid kj/mol
+File for run 1375 is not valid kj/mol
+File for run 1376 is not valid kj/mol
+File for run 1377 is not valid kj/mol
+File for run 1378 is not valid kj/mol
+File for run 1379 is not valid kj/mol
+File for run 1380 is not valid kj/mol
+File for run 1381 is not valid kj/mol
+File for run 1382 is not valid kj/mol
+File for run 1383 is not valid kj/mol
+File for run 1384 is not valid kj/mol
+File for run 1385 is not valid kj/mol
+File for run 1386 is not valid kj/mol
+File for run 1387 is not valid kj/mol
+File for run 1388 is not valid kj/mol
+File for run 1389 is not valid kj/mol
+File for run 1390 is not valid kj/mol
+File for run 1391 is not valid kj/mol
+File for run 1392 is not valid kj/mol
+File for run 1393 is not valid kj/mol
+File for run 1394 is not valid kj/mol
+File for run 1395 is not valid kj/mol
+File for run 1396 is not valid kj/mol
+File for run 1397 is not valid kj/mol
+File for run 1398 is not valid kj/mol
+File for run 1399 is not valid kj/mol
+File for run 1400 is not valid kj/mol
+File for run 1401 is not valid kj/mol
+File for run 1402 is not valid kj/mol
+File for run 1403 is not valid kj/mol
+File for run 1404 is not valid kj/mol
+File for run 1405 is not valid kj/mol
+File for run 1406 is not valid kj/mol
+File for run 1407 is not valid kj/mol
+File for run 1408 is not valid kj/mol
+File for run 1409 is not valid kj/mol
+File for run 1410 is not valid kj/mol
+File for run 1411 is not valid kj/mol
+File for run 1412 is not valid kj/mol
+File for run 1413 is not valid kj/mol
+File for run 1414 is not valid kj/mol
+File for run 1415 is not valid kj/mol
+File for run 1416 is not valid kj/mol
+File for run 1417 is not valid kj/mol
+File for run 1418 is not valid kj/mol
+File for run 1419 is not valid kj/mol
+File for run 1420 is not valid kj/mol
+File for run 1421 is not valid kj/mol
+File for run 1422 is not valid kj/mol
+File for run 1423 is not valid kj/mol
+File for run 1424 is not valid kj/mol
+File for run 1425 is not valid kj/mol
+File for run 1426 is not valid kj/mol
+File for run 1427 is not valid kj/mol
+File for run 1428 is not valid kj/mol
+File for run 1429 is not valid kj/mol
+File for run 1430 is not valid kj/mol
+File for run 1431 is not valid kj/mol
+File for run 1432 is not valid kj/mol
+File for run 1433 is not valid kj/mol
+File for run 1434 is not valid kj/mol
+File for run 1435 is not valid kj/mol
+File for run 1436 is not valid kj/mol
+File for run 1437 is not valid kj/mol
+File for run 1438 is not valid kj/mol
+File for run 1439 is not valid kj/mol
+File for run 1440 is not valid kj/mol
+File for run 1441 is not valid kj/mol
+File for run 1442 is not valid kj/mol
+File for run 1443 is not valid kj/mol
+File for run 1444 is not valid kj/mol
+File for run 1445 is not valid kj/mol
+File for run 1446 is not valid kj/mol
+File for run 1447 is not valid kj/mol
+File for run 1448 is not valid kj/mol
+File for run 1449 is not valid kj/mol
+File for run 1450 is not valid kj/mol
+File for run 1451 is not valid kj/mol
+File for run 1452 is not valid kj/mol
+File for run 1453 is not valid kj/mol
+File for run 1454 is not valid kj/mol
+File for run 1455 is not valid kj/mol
+File for run 1456 is not valid kj/mol
+File for run 1457 is not valid kj/mol
+File for run 1458 is not valid kj/mol
+File for run 1459 is not valid kj/mol
+File for run 1460 is not valid kj/mol
+File for run 1461 is not valid kj/mol
+File for run 1462 is not valid kj/mol
+File for run 1463 is not valid kj/mol
+File for run 1464 is not valid kj/mol
+File for run 1465 is not valid kj/mol
+File for run 1466 is not valid kj/mol
+File for run 1467 is not valid kj/mol
+File for run 1468 is not valid kj/mol
+File for run 1469 is not valid kj/mol
+File for run 1470 is not valid kj/mol
+File for run 1471 is not valid kj/mol
+File for run 1472 is not valid kj/mol
+File for run 1473 is not valid kj/mol
+File for run 1474 is not valid kj/mol
+File for run 1475 is not valid kj/mol
+File for run 1476 is not valid kj/mol
+File for run 1477 is not valid kj/mol
+File for run 1478 is not valid kj/mol
+File for run 1479 is not valid kj/mol
+File for run 1480 is not valid kj/mol
+File for run 1481 is not valid kj/mol
+File for run 1482 is not valid kj/mol
+File for run 1483 is not valid kj/mol
+File for run 1484 is not valid kj/mol
+File for run 1485 is not valid kj/mol
+File for run 1486 is not valid kj/mol
+File for run 1487 is not valid kj/mol
+File for run 1488 is not valid kj/mol
+File for run 1489 is not valid kj/mol
+File for run 1490 is not valid kj/mol
+File for run 1491 is not valid kj/mol
+File for run 1492 is not valid kj/mol
+File for run 1493 is not valid kj/mol
+File for run 1494 is not valid kj/mol
+File for run 1495 is not valid kj/mol
+File for run 1496 is not valid kj/mol
+File for run 1497 is not valid kj/mol
+File for run 1498 is not valid kj/mol
+File for run 1499 is not valid kj/mol
+File for run 1500 is not valid kj/mol
+File for run 1501 is not valid kj/mol
+File for run 1502 is not valid kj/mol
+File for run 1503 is not valid kj/mol
+File for run 1504 is not valid kj/mol
+File for run 1505 is not valid kj/mol
+File for run 1506 is not valid kj/mol
+File for run 1507 is not valid kj/mol
+File for run 1508 is not valid kj/mol
+File for run 1509 is not valid kj/mol
+File for run 1510 is not valid kj/mol
+File for run 1511 is not valid kj/mol
+File for run 1512 is not valid kj/mol
+File for run 1513 is not valid kj/mol
+File for run 1514 is not valid kj/mol
+File for run 1515 is not valid kj/mol
+File for run 1516 is not valid kj/mol
+File for run 1517 is not valid kj/mol
+File for run 1518 is not valid kj/mol
+File for run 1519 is not valid kj/mol
+File for run 1520 is not valid kj/mol
+File for run 1521 is not valid kj/mol
+File for run 1522 is not valid kj/mol
+File for run 1523 is not valid kj/mol
+File for run 1524 is not valid kj/mol
+File for run 1525 is not valid kj/mol
+File for run 1526 is not valid kj/mol
+File for run 1527 is not valid kj/mol
+File for run 1528 is not valid kj/mol
+File for run 1529 is not valid kj/mol
+File for run 1530 is not valid kj/mol
+File for run 1531 is not valid kj/mol
+File for run 1532 is not valid kj/mol
+File for run 1533 is not valid kj/mol
+File for run 1534 is not valid kj/mol
+File for run 1535 is not valid kj/mol
+File for run 1536 is not valid kj/mol
+File for run 1537 is not valid kj/mol
+File for run 1538 is not valid kj/mol
+File for run 1539 is not valid kj/mol
+File for run 1540 is not valid kj/mol
+File for run 1541 is not valid kj/mol
+File for run 1542 is not valid kj/mol
+File for run 1543 is not valid kj/mol
+File for run 1544 is not valid kj/mol
+File for run 1545 is not valid kj/mol
+File for run 1546 is not valid kj/mol
+File for run 1547 is not valid kj/mol
+File for run 1548 is not valid kj/mol
+File for run 1549 is not valid kj/mol
+File for run 1550 is not valid kj/mol
+File for run 1551 is not valid kj/mol
+File for run 1552 is not valid kj/mol
+File for run 1553 is not valid kj/mol
+File for run 1554 is not valid kj/mol
+File for run 1555 is not valid kj/mol
+File for run 1556 is not valid kj/mol
+File for run 1557 is not valid kj/mol
+File for run 1558 is not valid kj/mol
+File for run 1559 is not valid kj/mol
+File for run 1560 is not valid kj/mol
+File for run 1561 is not valid kj/mol
+File for run 1562 is not valid kj/mol
+File for run 1563 is not valid kj/mol
+File for run 1564 is not valid kj/mol
+File for run 1565 is not valid kj/mol
+File for run 1566 is not valid kj/mol
+File for run 1567 is not valid kj/mol
+File for run 1568 is not valid kj/mol
+File for run 1569 is not valid kj/mol
+File for run 1570 is not valid kj/mol
+File for run 1571 is not valid kj/mol
+File for run 1572 is not valid kj/mol
+File for run 1573 is not valid kj/mol
+File for run 1574 is not valid kj/mol
+File for run 1575 is not valid kj/mol
+File for run 1576 is not valid kj/mol
+File for run 1577 is not valid kj/mol
+File for run 1578 is not valid kj/mol
+File for run 1579 is not valid kj/mol
+File for run 1580 is not valid kj/mol
+File for run 1581 is not valid kj/mol
+File for run 1582 is not valid kj/mol
+File for run 1583 is not valid kj/mol
+File for run 1584 is not valid kj/mol
+File for run 1585 is not valid kj/mol
+File for run 1586 is not valid kj/mol
+File for run 1587 is not valid kj/mol
+File for run 1588 is not valid kj/mol
+File for run 1589 is not valid kj/mol
+File for run 1590 is not valid kj/mol
+File for run 1591 is not valid kj/mol
+File for run 1592 is not valid kj/mol
+File for run 1593 is not valid kj/mol
+File for run 1594 is not valid kj/mol
+File for run 1595 is not valid kj/mol
+File for run 1596 is not valid kj/mol
+File for run 1597 is not valid kj/mol
+File for run 1598 is not valid kj/mol
+File for run 1599 is not valid kj/mol
+diff with run 1600 is 0.5391741763124698 kj/mol
+diff with run 1601 is 0.5391740820336336 kj/mol
+diff with run 1602 is 0.539173952627586 kj/mol
+diff with run 1603 is 0.539173874637882 kj/mol
+diff with run 1604 is 0.5391738844189025 kj/mol
+diff with run 1605 is 0.5391744143963703 kj/mol
+diff with run 1606 is 0.5391741566811863 kj/mol
+diff with run 1607 is 0.5391739360834222 kj/mol
+diff with run 1608 is 0.5391739504940937 kj/mol
+diff with run 1609 is 0.539174331410921 kj/mol
+diff with run 1610 is 0.5484844667968389 kj/mol
+diff with run 1611 is 0.5484844860428324 kj/mol
+diff with run 1612 is 0.548484439193753 kj/mol
+diff with run 1613 is 0.5484843952089832 kj/mol
+diff with run 1614 is 0.5484843897429373 kj/mol
+diff with run 1615 is 0.5484843582245638 kj/mol
+diff with run 1616 is 0.5484843936520547 kj/mol
+diff with run 1617 is 0.6523853471728672 kj/mol
+diff with run 1618 is 0.6514479879434807 kj/mol
+diff with run 1619 is 0.548484459037563 kj/mol
+diff with run 1620 is 0.5391741068491939 kj/mol
+diff with run 1621 is 0.6514481417612882 kj/mol
+diff with run 1622 is 0.5484844643198763 kj/mol
+diff with run 1623 is 0.6551052267613799 kj/mol
+diff with run 1624 is 0.655292670162292 kj/mol
+diff with run 1625 is 0.5391740940749769 kj/mol
+diff with run 1626 is 0.5391738910264215 kj/mol
+diff with run 1627 is 0.5391740169202964 kj/mol
+diff with run 1628 is 0.5391739974953694 kj/mol
+diff with run 1629 is 0.5484844284899559 kj/mol
+diff with run 1630 is 0.5484844053787216 kj/mol
+diff with run 1631 is 0.6317742410217068 kj/mol
+diff with run 1632 is 0.7689078370902662 kj/mol
+diff with run 1633 is 0.652385422127555 kj/mol
+diff with run 1634 is 0.7359834535525499 kj/mol
+diff with run 1635 is 0.5484845103668393 kj/mol
+diff with run 1636 is 0.5484844047754204 kj/mol
+diff with run 1637 is 0.5484845747013695 kj/mol
+diff with run 1638 is 0.5484843600440653 kj/mol
+diff with run 1639 is 0.5645590508022209 kj/mol
+diff with run 1640 is 0.5484846253772979 kj/mol
+diff with run 1641 is 0.5484844179177882 kj/mol
+diff with run 1642 is 0.5484844162518543 kj/mol
+diff with run 1643 is 0.5484844027776709 kj/mol
+diff with run 1644 is 0.6915388932821368 kj/mol
+diff with run 1645 is 0.5423962118336202 kj/mol
+diff with run 1646 is 0.5484844370074718 kj/mol
+diff with run 1647 is 0.6332336101381237 kj/mol
+diff with run 1648 is 0.6421063807081504 kj/mol
+diff with run 1649 is 0.6257179006020835 kj/mol
+diff with run 1650 is 0.521625716336506 kj/mol
+diff with run 1651 is 0.5216258586902198 kj/mol
+diff with run 1652 is 0.5216261599445535 kj/mol
+diff with run 1653 is 0.6332337895071075 kj/mol
+diff with run 1654 is 0.647185123481503 kj/mol
+diff with run 1655 is 0.6332335711415578 kj/mol
+diff with run 1656 is 0.5484843078050383 kj/mol
+diff with run 1657 is 0.5484845738176704 kj/mol
+diff with run 1658 is 1.0587246718607137 kj/mol
+diff with run 1659 is 1.0587246567281376 kj/mol
+diff with run 1660 is 1.0587246550368374 kj/mol
+diff with run 1661 is 0.5645596905537672 kj/mol
+diff with run 1662 is 0.5484843970737323 kj/mol
+diff with run 1663 is 0.5484846754197601 kj/mol
+diff with run 1664 is 0.5484843144667174 kj/mol
+diff with run 1665 is 0.5484843558141014 kj/mol
+diff with run 1666 is 0.5484843677553514 kj/mol
+diff with run 1667 is 0.548484363111989 kj/mol
+diff with run 1668 is 0.5484844208424279 kj/mol
+diff with run 1669 is 0.7502652399418559 kj/mol
+diff with run 1670 is 0.7502651269284613 kj/mol
+diff with run 1671 is 0.7138391646968454 kj/mol
+diff with run 1672 is 0.7138393932143087 kj/mol
+diff with run 1673 is 0.7138391472662402 kj/mol
+diff with run 1674 is 0.6332335953545024 kj/mol
+diff with run 1675 is 0.6332335384892522 kj/mol
+diff with run 1676 is 0.6332335721753967 kj/mol
+diff with run 1677 is 0.6332336337765611 kj/mol
+diff with run 1678 is 0.6332335460983884 kj/mol
+diff with run 1679 is 0.6332335941403587 kj/mol
+diff with run 1680 is 0.548484389883479 kj/mol
+diff with run 1681 is 0.7138392790964615 kj/mol
+diff with run 1682 is 0.5484843812480453 kj/mol
+diff with run 1683 is 0.5484844330311686 kj/mol
+diff with run 1684 is 0.5484843566052485 kj/mol
+diff with run 1685 is 0.5484844425496159 kj/mol
+diff with run 1686 is 0.6332335983394721 kj/mol
+diff with run 1687 is 0.6332337973280847 kj/mol
+diff with run 1688 is 0.5484844071742282 kj/mol
+diff with run 1689 is 0.5484843304583122 kj/mol
+diff with run 1690 is 0.6421063324015502 kj/mol
+diff with run 1691 is 0.6332335499403201 kj/mol
+diff with run 1692 is 0.5484844766642412 kj/mol
+diff with run 1693 is 0.5100706485675511 kj/mol
+diff with run 1694 is 0.510070478458555 kj/mol
+diff with run 1695 is 0.5100707305356151 kj/mol
+diff with run 1696 is 0.489746739583529 kj/mol
+diff with run 1697 is 0.4897469169520209 kj/mol
+diff with run 1698 is 0.48974670612293697 kj/mol
+diff with run 1699 is 0.48974671709136386 kj/mol
+diff with run 1700 is 0.48974685069378254 kj/mol
+diff with run 1701 is 0.48974688612538697 kj/mol
+diff with run 1702 is 0.48974713231271927 kj/mol
+diff with run 1703 is 0.31968570853744416 kj/mol
+diff with run 1704 is 0.48974674237859595 kj/mol
+diff with run 1705 is 0.5052931363296485 kj/mol
+diff with run 1706 is 0.500914113554488 kj/mol
+diff with run 1707 is 0.4748110244717545 kj/mol
+diff with run 1708 is 0.43050446646336227 kj/mol
+diff with run 1709 is 0.5009143237130849 kj/mol
+diff with run 1710 is 0.5009140923621627 kj/mol
+diff with run 1711 is 0.505625293507116 kj/mol
+diff with run 1712 is 0.4014950133178716 kj/mol
+diff with run 1713 is 0.4014949813682748 kj/mol
+diff with run 1714 is 0.40149507335662304 kj/mol
+diff with run 1715 is 0.40149503578467055 kj/mol
+diff with run 1716 is 0.4014951755544728 kj/mol
+diff with run 1717 is 0.40149507958982117 kj/mol
+diff with run 1718 is 0.4014952250560206 kj/mol
+diff with run 1719 is 0.40149502653085306 kj/mol
+diff with run 1720 is 0.40149510801421945 kj/mol
+diff with run 1721 is 0.40149518967446274 kj/mol
+diff with run 1722 is 0.4014949828113986 kj/mol
+diff with run 1723 is 0.4014949497984835 kj/mol
+diff with run 1724 is 0.4014949952229494 kj/mol
+diff with run 1725 is 0.40149521427612533 kj/mol
+diff with run 1726 is 0.4014951540886052 kj/mol
+diff with run 1727 is 0.40149513883331206 kj/mol
+diff with run 1728 is 0.4014950022623773 kj/mol
+diff with run 1729 is 0.4014951596252647 kj/mol
+diff with run 1730 is 0.40149499109239295 kj/mol
+diff with run 1731 is 0.4014949880786294 kj/mol
+diff with run 1732 is 0.40149509834563235 kj/mol
+diff with run 1733 is 0.4014950272870363 kj/mol
+diff with run 1734 is 0.7327708772688438 kj/mol
+diff with run 1735 is 0.8790466981759162 kj/mol
+diff with run 1736 is 0.49404749216756483 kj/mol
+diff with run 1737 is 0.49404736522339743 kj/mol
+diff with run 1738 is 0.4940474236572307 kj/mol
+diff with run 1739 is 0.5056250684394386 kj/mol
+diff with run 1740 is 0.40149498717847654 kj/mol
+diff with run 1741 is 0.5056251436189931 kj/mol
+diff with run 1742 is 0.4703657231990479 kj/mol
+diff with run 1743 is 0.5056252544049724 kj/mol
+diff with run 1744 is 0.5056251112580548 kj/mol
+diff with run 1745 is 0.49404813242231926 kj/mol
+diff with run 1746 is 0.4940474326107687 kj/mol
+diff with run 1747 is 0.4014953005913858 kj/mol
+diff with run 1748 is 0.40149501635700124 kj/mol
+diff with run 1749 is 0.4014951256710627 kj/mol
+diff with run 1750 is 0.49404727678150034 kj/mol
+diff with run 1751 is 0.5100708445677661 kj/mol
+diff with run 1752 is 0.4987670641603452 kj/mol
+diff with run 1753 is 0.4987671026797548 kj/mol
+diff with run 1754 is 0.43918081987012547 kj/mol
+diff with run 1755 is 0.43918086860932 kj/mol
+diff with run 1756 is 0.4391808203973284 kj/mol
+diff with run 1757 is 0.43918077353179547 kj/mol
+diff with run 1758 is 0.4391808033485854 kj/mol
+diff with run 1759 is 0.4987674829960232 kj/mol
+diff with run 1760 is 0.4987671100605963 kj/mol
+diff with run 1761 is 0.49876710724427675 kj/mol
+diff with run 1762 is 0.49876714056981153 kj/mol
+diff with run 1763 is 0.40149513264467596 kj/mol
+diff with run 1764 is 0.32129343390451576 kj/mol
+diff with run 1765 is 0.32129342701111413 kj/mol
+diff with run 1766 is 0.5470725814922558 kj/mol
+diff with run 1767 is 0.4364674347804841 kj/mol
+diff with run 1768 is 0.3212935543337159 kj/mol
+diff with run 1769 is 0.32129335569200157 kj/mol
+diff with run 1770 is 0.32129338174090144 kj/mol
+diff with run 1771 is 0.3212935906517617 kj/mol
+diff with run 1772 is 0.32129344744245725 kj/mol
+diff with run 1773 is 0.3212934054492669 kj/mol
+diff with run 1774 is 0.3212935316982668 kj/mol
+diff with run 1775 is 0.3212933934730528 kj/mol
+diff with run 1776 is 0.3212936993097331 kj/mol
+diff with run 1777 is 0.460441573518355 kj/mol
+diff with run 1778 is 0.4604421662336615 kj/mol
+diff with run 1779 is 0.46044164409293903 kj/mol
+diff with run 1780 is 0.32129359366141197 kj/mol
+diff with run 1781 is 0.3212933883134565 kj/mol
+diff with run 1782 is 0.3212935439946419 kj/mol
+diff with run 1783 is 0.3212934503897207 kj/mol
+diff with run 1784 is 0.32129343285628 kj/mol
+diff with run 1785 is 0.32129376067986065 kj/mol
+diff with run 1786 is 0.3212935308632431 kj/mol
+diff with run 1787 is 0.3212936647446886 kj/mol
+diff with run 1788 is 0.46044200887557307 kj/mol
+diff with run 1789 is 0.3212934965703697 kj/mol
+diff with run 1790 is 0.3212933679424435 kj/mol
+diff with run 1791 is 0.33289155953412064 kj/mol
+diff with run 1792 is 0.32129349410231944 kj/mol
+diff with run 1793 is 0.33289188664265235 kj/mol
+diff with run 1794 is 0.33289147170443717 kj/mol
+diff with run 1795 is 0.4570992748837704 kj/mol
+diff with run 1796 is 0.4570990529525736 kj/mol
+diff with run 1797 is 0.45709900039955575 kj/mol
+diff with run 1798 is 0.45709921063150855 kj/mol
+diff with run 1799 is 0.45709914575263616 kj/mol
+diff with run 1800 is 0.4570988258117339 kj/mol
+diff with run 1801 is 0.45687730556653455 kj/mol
+diff with run 1802 is 0.4557215551375428 kj/mol
+diff with run 1803 is 0.4570988812132931 kj/mol
+diff with run 1804 is 0.4570989471657674 kj/mol
+diff with run 1805 is 0.45709917613022205 kj/mol
+diff with run 1806 is 0.456876805418197 kj/mol
+diff with run 1807 is 0.45687687646650954 kj/mol
+diff with run 1808 is 0.4404210488700981 kj/mol
+diff with run 1809 is 0.5996407323554761 kj/mol
+diff with run 1810 is 0.3196334943500194 kj/mol
+diff with run 1811 is 0.3196105925982486 kj/mol
+diff with run 1812 is 0.31961114413139347 kj/mol
+diff with run 1813 is 0.31961145449831724 kj/mol
+diff with run 1814 is 0.31963047410979406 kj/mol
+diff with run 1815 is 0.319630553015419 kj/mol
+diff with run 1816 is 0.3196107607677685 kj/mol
+diff with run 1817 is 0.442995346313638 kj/mol
+diff with run 1818 is 0.442995518432724 kj/mol
+diff with run 1819 is 0.5567717221295448 kj/mol
+diff with run 1820 is 0.5567717371798526 kj/mol
+diff with run 1821 is 0.31961049852714 kj/mol
+diff with run 1822 is 0.31961054470024786 kj/mol
+diff with run 1823 is 0.31961045317123116 kj/mol
+diff with run 1824 is 0.31961175414361925 kj/mol
+diff with run 1825 is 0.3196111398733211 kj/mol
+diff with run 1826 is 0.3196104197702837 kj/mol
+diff with run 1827 is 0.31961042172827026 kj/mol
+diff with run 1828 is 0.31961039487451176 kj/mol
+diff with run 1829 is 0.3196105787353471 kj/mol
+diff with run 1830 is 0.31961081720110984 kj/mol
+diff with run 1831 is 0.3196103786505089 kj/mol
+diff with run 1832 is 0.31961135397737067 kj/mol
+diff with run 1833 is 0.3196114281758752 kj/mol
+diff with run 1834 is 0.2593476960050832 kj/mol
+diff with run 1835 is 0.42938769970750545 kj/mol
+diff with run 1836 is 0.31961188587100525 kj/mol
+diff with run 1837 is 0.31961037729239566 kj/mol
+diff with run 1838 is 0.319610353749938 kj/mol
+diff with run 1839 is 0.31961067769662305 kj/mol
+diff with run 1840 is 0.3196107964941678 kj/mol
+diff with run 1841 is 0.3196104991832301 kj/mol
+diff with run 1842 is 0.3196106326807566 kj/mol
+diff with run 1843 is 0.31445679807694643 kj/mol
+diff with run 1844 is 0.31445675242692817 kj/mol
+diff with run 1845 is 0.41419800540439977 kj/mol
+diff with run 1846 is 0.44339501710180285 kj/mol
+diff with run 1847 is 0.44339468580307023 kj/mol
+diff with run 1848 is 0.319610386081397 kj/mol
+diff with run 1849 is 0.31961035600340504 kj/mol
+diff with run 1850 is 0.4293879268222935 kj/mol
+diff with run 1851 is 0.4293876745765832 kj/mol
+diff with run 1852 is 0.42938766150345786 kj/mol
+diff with run 1853 is 0.31445668198877247 kj/mol
+diff with run 1854 is 0.42938778136294975 kj/mol
+diff with run 1855 is 0.3196105937006444 kj/mol
+diff with run 1856 is 0.3196105307578203 kj/mol
+diff with run 1857 is 0.3196103284949277 kj/mol
+diff with run 1858 is 0.3196114194122399 kj/mol
+diff with run 1859 is 0.3196114451546902 kj/mol
+diff with run 1860 is 0.5085224870442681 kj/mol
+diff with run 1861 is 0.5085225897782332 kj/mol
+diff with run 1862 is 0.44302238171511155 kj/mol
+diff with run 1863 is 0.44302274392206087 kj/mol
+diff with run 1864 is 0.606206841519279 kj/mol
+diff with run 1865 is 0.6062079807891244 kj/mol
+diff with run 1866 is 0.3196111913787887 kj/mol
+diff with run 1867 is 0.3196113649485398 kj/mol
+diff with run 1868 is 0.3196107524648359 kj/mol
+diff with run 1869 is 0.3196107650690317 kj/mol
+diff with run 1870 is 0.31961128675727835 kj/mol
+diff with run 1871 is 0.3196107143553969 kj/mol
+diff with run 1872 is 0.31961169234226844 kj/mol
+diff with run 1873 is 0.3196105280916404 kj/mol
+diff with run 1874 is 0.31961084862007577 kj/mol
+diff with run 1875 is 0.319610526080865 kj/mol
+diff with run 1876 is 0.3196106614177746 kj/mol
+diff with run 1877 is 0.3196110386661194 kj/mol
+diff with run 1878 is 0.3196107094288943 kj/mol
+diff with run 1879 is 0.3196105392527123 kj/mol
+diff with run 1880 is 0.31961044763594276 kj/mol
+diff with run 1881 is 0.3196105509629255 kj/mol
+diff with run 1882 is 0.31961171001487976 kj/mol
+diff with run 1883 is 0.42554115854566327 kj/mol
+diff with run 1884 is 0.42554092046519065 kj/mol
+diff with run 1885 is 0.4255409411577357 kj/mol
+diff with run 1886 is 0.41699670757071616 kj/mol
+diff with run 1887 is 0.4169967522355709 kj/mol
+diff with run 1888 is 0.2593476607414433 kj/mol
+diff with run 1889 is 0.2593478971073065 kj/mol
+diff with run 1890 is 0.25934771526478795 kj/mol
+diff with run 1891 is 0.2593479031869371 kj/mol
+diff with run 1892 is 0.2593477128344439 kj/mol
+diff with run 1893 is 0.2593476636208353 kj/mol
+diff with run 1894 is 0.3940977341451041 kj/mol
+diff with run 1895 is 0.3196107104250268 kj/mol
+diff with run 1896 is 0.31961053822230134 kj/mol
+diff with run 1897 is 0.3988783584374457 kj/mol
+diff with run 1898 is 0.3988784628106075 kj/mol
+diff with run 1899 is 0.39887838575533474 kj/mol
+diff with run 1900 is 0.3988786122661361 kj/mol
+diff with run 1901 is 0.39887873778911787 kj/mol
+diff with run 1902 is 0.31963067091006864 kj/mol
+diff with run 1903 is 0.3196106672793941 kj/mol
+diff with run 1904 is 0.31961156084112036 kj/mol
+diff with run 1905 is 0.2593479266855183 kj/mol
+diff with run 1906 is 0.31961077018955053 kj/mol
+diff with run 1907 is 0.31961037054296365 kj/mol
+diff with run 1908 is 0.3196108770520153 kj/mol
+diff with run 1909 is 0.31961090460574026 kj/mol
+diff with run 1910 is 0.3196105930472966 kj/mol
+diff with run 1911 is 0.3196106302161342 kj/mol
+diff with run 1912 is 0.2594880401582185 kj/mol
+diff with run 1913 is 0.2593477649432127 kj/mol
+diff with run 1914 is 0.3196104361629367 kj/mol
+diff with run 1915 is 0.2593476279479104 kj/mol
+diff with run 1916 is 0.25934763826367513 kj/mol
+diff with run 1917 is 0.2594878886843734 kj/mol
+diff with run 1918 is 0.259487954389357 kj/mol
+diff with run 1919 is 0.2593477330957658 kj/mol
+diff with run 1920 is 0.25934769790068285 kj/mol
+diff with run 1921 is 0.2593477729300977 kj/mol
+diff with run 1922 is 0.259347578791204 kj/mol
+diff with run 1923 is 0.2596626135077011 kj/mol
+diff with run 1924 is 0.25934775095622314 kj/mol
+diff with run 1925 is 0.2593477181023602 kj/mol
+diff with run 1926 is 0.25934782552904867 kj/mol
+diff with run 1927 is 0.2593477849309923 kj/mol
+diff with run 1928 is 0.25934765461999293 kj/mol
+diff with run 1929 is 0.34623983019289317 kj/mol
+diff with run 1930 is 0.3738326739208875 kj/mol
+diff with run 1931 is 0.25934782408181145 kj/mol
+diff with run 1932 is 0.25966297695416013 kj/mol
+diff with run 1933 is 0.25948836546301685 kj/mol
+diff with run 1934 is 0.25948808315919614 kj/mol
+diff with run 1935 is 0.25948808117035893 kj/mol
+diff with run 1936 is 0.2594879189522681 kj/mol
+diff with run 1937 is 0.2593476396471544 kj/mol
+diff with run 1938 is 0.25948792877579385 kj/mol
+diff with run 1939 is 0.2594885933463283 kj/mol
+diff with run 1940 is 0.25948789593838456 kj/mol
+diff with run 1941 is 0.2594880576258446 kj/mol
+diff with run 1942 is 0.2593476642399046 kj/mol
+diff with run 1943 is 0.25948820274651696 kj/mol
+diff with run 1944 is 0.357749108258821 kj/mol
+diff with run 1945 is 0.2593483872106794 kj/mol
+diff with run 1946 is 0.2593478132751789 kj/mol
+diff with run 1947 is 0.25934776183758274 kj/mol
+diff with run 1948 is 0.34623981357400224 kj/mol
+diff with run 1949 is 0.5137233400068772 kj/mol
+diff with run 1950 is 0.4568108971796144 kj/mol
+diff with run 1951 is 0.25342288337409535 kj/mol
+diff with run 1952 is 0.2534229586688256 kj/mol
+diff with run 1953 is 0.25342300326855133 kj/mol
+diff with run 1954 is 0.2534229090425041 kj/mol
+diff with run 1955 is 0.25342290769741666 kj/mol
+diff with run 1956 is 0.25342297053740526 kj/mol
+diff with run 1957 is 0.2534229756181611 kj/mol
+diff with run 1958 is 0.25342318049787255 kj/mol
+diff with run 1959 is 0.3840943976243208 kj/mol
+diff with run 1960 is 0.3840945756345057 kj/mol
+diff with run 1961 is 0.38409446894549004 kj/mol
+diff with run 1962 is 0.3840946052168309 kj/mol
+diff with run 1963 is 0.38409442932642696 kj/mol
+diff with run 1964 is 0.38409440428531433 kj/mol
+diff with run 1965 is 0.3840944120089406 kj/mol
+diff with run 1966 is 0.3840943388703265 kj/mol
+diff with run 1967 is 0.38409450784607624 kj/mol
+diff with run 1968 is 0.38409450507226195 kj/mol
+diff with run 1969 is 0.3840944741256534 kj/mol
+diff with run 1970 is 0.38409458066452934 kj/mol
+diff with run 1971 is 0.3840943696380014 kj/mol
+diff with run 1972 is 0.38409438665795054 kj/mol
+diff with run 1973 is 0.12510653713145325 kj/mol
+diff with run 1974 is 0.05397795012849486 kj/mol
+diff with run 1975 is 0.2030346660893615 kj/mol
+diff with run 1976 is 0.12510656296851208 kj/mol
+diff with run 1977 is 0.23939504573066342 kj/mol
+diff with run 1978 is 0.22737793862984745 kj/mol
+diff with run 1979 is 0.23733034763118585 kj/mol
+diff with run 1980 is 0.23733047506827779 kj/mol
+diff with run 1981 is 0.38409445213395405 kj/mol
+diff with run 1982 is 0.3840944644694066 kj/mol
+diff with run 1983 is 0.38409441953100953 kj/mol
+diff with run 1984 is 0.3840943231104542 kj/mol
+diff with run 1985 is 0.38409438272758045 kj/mol
+diff with run 1986 is 0.38409436667565555 kj/mol
+diff with run 1987 is 0.3840946674823122 kj/mol
+diff with run 1988 is 0.05397815489165953 kj/mol
+diff with run 1989 is 0.20303479318503978 kj/mol
+diff with run 1990 is 0.053978008720694665 kj/mol
+diff with run 1991 is 0.22737792977160354 kj/mol
+diff with run 1992 is 0.2030346699292364 kj/mol
+diff with run 1993 is 0.05397802080180091 kj/mol
+diff with run 1994 is 0.05397812703696957 kj/mol
+diff with run 1995 is 0.053978099347501855 kj/mol
+diff with run 1996 is 0.05397793107651764 kj/mol
+diff with run 1997 is 0.05397796979817021 kj/mol
+diff with run 1998 is 0.05397801844755514 kj/mol
+diff with run 1999 is 0.05397819689102003 kj/mol
+diff with run 2000 is 0.3329547152974256 kj/mol
+diff with run 2001 is 0.332954633112036 kj/mol
+diff with run 2002 is 0.33295482591338355 kj/mol
+diff with run 2003 is 0.33295497229413273 kj/mol
+diff with run 2004 is 0.33295479672526085 kj/mol
+diff with run 2005 is 0.3329548073474751 kj/mol
+diff with run 2006 is 0.3329548473833645 kj/mol
+diff with run 2007 is 0.33295497080370456 kj/mol
+diff with run 2008 is 0.3390222722892642 kj/mol
+diff with run 2009 is 0.332954934916882 kj/mol
+diff with run 2010 is 0.3329547234851825 kj/mol
+diff with run 2011 is 0.3329547258387427 kj/mol
+diff with run 2012 is 0.3329546753815109 kj/mol
+diff with run 2013 is 0.332954735968718 kj/mol
+diff with run 2014 is 0.3329548154872422 kj/mol
+diff with run 2015 is 0.33295462518685226 kj/mol
+diff with run 2016 is 0.3329546791260917 kj/mol
+diff with run 2017 is 0.3329546513063658 kj/mol
+diff with run 2018 is 0.3329547428497794 kj/mol
+diff with run 2019 is 0.3329548404378596 kj/mol
+diff with run 2020 is 0.3329550074686486 kj/mol
+diff with run 2021 is 0.4568438268994861 kj/mol
+diff with run 2022 is 0.4568438351695114 kj/mol
+diff with run 2023 is 0.45634388604268256 kj/mol
+diff with run 2024 is 0.4563438842629441 kj/mol
+diff with run 2025 is 0.3329548426830998 kj/mol
+diff with run 2026 is 0.33295490507061254 kj/mol
+diff with run 2027 is 0.33295466789989064 kj/mol
+diff with run 2028 is 0.3329546940173474 kj/mol
+diff with run 2029 is 0.3329547159473455 kj/mol
+diff with run 2030 is 0.3329546538004677 kj/mol
+diff with run 2031 is 0.33295468649802085 kj/mol
+diff with run 2032 is 0.339022384176268 kj/mol
+diff with run 2033 is 0.33295474441219236 kj/mol
+diff with run 2034 is 0.5370444267093974 kj/mol
+diff with run 2035 is 0.5370443282718966 kj/mol
+diff with run 2036 is 0.9710597132472466 kj/mol
+diff with run 2037 is 0.9710598022190889 kj/mol
+diff with run 2038 is 0.9710599174331618 kj/mol
+diff with run 2039 is 0.9710599041331128 kj/mol
+diff with run 2040 is 0.9710598941354524 kj/mol
+diff with run 2041 is 0.971059887654078 kj/mol
+diff with run 2042 is 0.3636074415066793 kj/mol
+diff with run 2043 is 0.36360540763715526 kj/mol
+diff with run 2044 is 0.3636054804247577 kj/mol
+diff with run 2045 is 0.36292535923803115 kj/mol
+diff with run 2046 is 0.3636054349831527 kj/mol
+diff with run 2047 is 0.3636053879208611 kj/mol
+diff with run 2048 is 0.36292564607140976 kj/mol
+diff with run 2049 is 0.4622345027939457 kj/mol
+diff with run 2050 is 0.3629255394146158 kj/mol
+diff with run 2051 is 0.3629255998413997 kj/mol
+diff with run 2052 is 0.3629256958704948 kj/mol
+diff with run 2053 is 0.36292535860113706 kj/mol
+diff with run 2054 is 0.3329547409288136 kj/mol
+diff with run 2055 is 0.3329546220997327 kj/mol
+diff with run 2056 is 0.3329549803118684 kj/mol
+diff with run 2057 is 0.3329545954235367 kj/mol
+diff with run 2058 is 0.33295475952077364 kj/mol
+diff with run 2059 is 0.5012473785115359 kj/mol
+diff with run 2060 is 0.3629255292414496 kj/mol
+diff with run 2061 is 0.3629254289727925 kj/mol
+diff with run 2062 is 0.36292565327743104 kj/mol
+diff with run 2063 is 0.33295482124534065 kj/mol
+diff with run 2064 is 0.33295471059921766 kj/mol
+diff with run 2065 is 0.33295476043189554 kj/mol
+diff with run 2066 is 0.3329547011404148 kj/mol
+diff with run 2067 is 0.3329547113039831 kj/mol
+diff with run 2068 is 0.3636055346594776 kj/mol
+diff with run 2069 is 0.3629253047167432 kj/mol
+diff with run 2070 is 0.3629254269551614 kj/mol
+diff with run 2071 is 0.3629256487369041 kj/mol
+diff with run 2072 is 0.3629255699663363 kj/mol
+diff with run 2073 is 0.33295476775035027 kj/mol
+diff with run 2074 is 0.36292535028860656 kj/mol
+diff with run 2075 is 0.3629253999704592 kj/mol
+diff with run 2076 is 0.7751398266605617 kj/mol
+diff with run 2077 is 0.7285737820811908 kj/mol
+diff with run 2078 is 0.7402832906338924 kj/mol
+diff with run 2079 is 0.6406846494178411 kj/mol
+diff with run 2080 is 0.6406838772197463 kj/mol
+diff with run 2081 is 0.6314204631757989 kj/mol
+diff with run 2082 is 0.6314203435829935 kj/mol
+diff with run 2083 is 0.6314202203189633 kj/mol
+diff with run 2084 is 0.45684384046827825 kj/mol
+diff with run 2085 is 0.4568438699806754 kj/mol
+diff with run 2086 is 0.4568437950355856 kj/mol
+diff with run 2087 is 0.6576389380582583 kj/mol
+diff with run 2088 is 0.4568439370328031 kj/mol
+diff with run 2089 is 0.3329546884450383 kj/mol
+diff with run 2090 is 0.3389986393446832 kj/mol
+diff with run 2091 is 0.332954698139677 kj/mol
+diff with run 2092 is 0.33295471834203993 kj/mol
+diff with run 2093 is 0.33295467334468387 kj/mol
+diff with run 2094 is 0.33295466895498216 kj/mol
+diff with run 2095 is 0.33295489982669124 kj/mol
+diff with run 2096 is 0.33295481686386574 kj/mol
+diff with run 2097 is 0.3329547835211917 kj/mol
+diff with run 2098 is 0.5441963170306012 kj/mol
+diff with run 2099 is 0.5441963798404248 kj/mol
+diff with run 2100 is 0.544196420752472 kj/mol
+diff with run 2101 is 0.6542604828987353 kj/mol
+diff with run 2102 is 0.5776155603882572 kj/mol
+diff with run 2103 is 0.5662554989654854 kj/mol
+diff with run 2104 is 0.5552526419165458 kj/mol
+diff with run 2105 is 0.5552529293354007 kj/mol
+diff with run 2106 is 0.5552528657049505 kj/mol
+diff with run 2107 is 0.5662557818355866 kj/mol
+diff with run 2108 is 0.5662554619234782 kj/mol
+diff with run 2109 is 0.3636054961297845 kj/mol
+diff with run 2110 is 0.36292612161260024 kj/mol
+diff with run 2111 is 0.36292554352254847 kj/mol
+diff with run 2112 is 0.36361116891872963 kj/mol
+diff with run 2113 is 0.3629255213327195 kj/mol
+diff with run 2114 is 0.3629254317815709 kj/mol
+diff with run 2115 is 0.36292533845156305 kj/mol
+diff with run 2116 is 0.36292530162893805 kj/mol
+diff with run 2117 is 0.17648350126923992 kj/mol
+diff with run 2118 is 0.36292542436645087 kj/mol
+diff with run 2119 is 0.3636096329056842 kj/mol
+diff with run 2120 is 0.36292531793315264 kj/mol
+diff with run 2121 is 0.36360575724402217 kj/mol
+diff with run 2122 is 0.3636053565032663 kj/mol
+diff with run 2123 is 0.36292544180596853 kj/mol
+diff with run 2124 is 0.3636053218107059 kj/mol
+diff with run 2125 is 0.36360519796119933 kj/mol
+diff with run 2126 is 0.3629254484505084 kj/mol
+diff with run 2127 is 0.3636066776396254 kj/mol
+diff with run 2128 is 0.36292535042297813 kj/mol
+diff with run 2129 is 0.363605507922266 kj/mol
+diff with run 2130 is 0.3629253933074089 kj/mol
+diff with run 2131 is 0.3636054286203818 kj/mol
+diff with run 2132 is 0.3629253761825676 kj/mol
+diff with run 2133 is 0.3629254387915193 kj/mol
+diff with run 2134 is 0.36361437779889544 kj/mol
+diff with run 2135 is 0.3629254949266379 kj/mol
+diff with run 2136 is 0.3629253165887507 kj/mol
+diff with run 2137 is 0.3636052527402614 kj/mol
+diff with run 2138 is 0.36360522848549703 kj/mol
+diff with run 2139 is 0.5549046413465493 kj/mol
+diff with run 2140 is 0.554904421879975 kj/mol
+diff with run 2141 is 0.36292553167796365 kj/mol
+diff with run 2142 is 0.36292569125318397 kj/mol
+diff with run 2143 is 0.3629254250245976 kj/mol
+diff with run 2144 is 0.4514008877808701 kj/mol
+diff with run 2145 is 0.451400676530161 kj/mol
+diff with run 2146 is 0.45140070448014513 kj/mol
+diff with run 2147 is 0.45140072637860706 kj/mol
+diff with run 2148 is 0.33295486518006395 kj/mol
+diff with run 2149 is 0.33899859854369824 kj/mol
+diff with run 2150 is 0.338998789247203 kj/mol
+diff with run 2151 is 0.33295468915528836 kj/mol
+diff with run 2152 is 0.3329546034213908 kj/mol
+diff with run 2153 is 0.33295466645471006 kj/mol
+diff with run 2154 is 0.3329546411510243 kj/mol
+diff with run 2155 is 0.3329548020733888 kj/mol
+diff with run 2156 is 0.342076889582143 kj/mol
+diff with run 2157 is 0.3329547413799184 kj/mol
+diff with run 2158 is 0.3329547046292782 kj/mol
+diff with run 2159 is 0.17648331173394563 kj/mol
+diff with run 2160 is 0.17648327973087444 kj/mol
+diff with run 2161 is 0.34207661862107014 kj/mol
+diff with run 2162 is 0.33295476746583896 kj/mol
+diff with run 2163 is 0.3329546908575574 kj/mol
+diff with run 2164 is 0.34207697896258477 kj/mol
+diff with run 2165 is 0.33295479684249324 kj/mol
+diff with run 2166 is 0.3329548481854808 kj/mol
+diff with run 2167 is 0.3329546822351495 kj/mol
+diff with run 2168 is 0.34207685023387985 kj/mol
+diff with run 2169 is 0.3329546723464946 kj/mol
+diff with run 2170 is 0.33295478552785374 kj/mol
+diff with run 2171 is 0.33295466113880395 kj/mol
+diff with run 2172 is 0.33295498233978305 kj/mol
+diff with run 2173 is 0.33295485985181755 kj/mol
+diff with run 2174 is 0.3329548059660526 kj/mol
+diff with run 2175 is 0.3389986285490198 kj/mol
+diff with run 2176 is 0.3389984543458024 kj/mol
+diff with run 2177 is 0.33295481770711627 kj/mol
+diff with run 2178 is 0.33899868149555457 kj/mol
+diff with run 2179 is 0.33295492609085986 kj/mol
+diff with run 2180 is 0.3329547557117494 kj/mol
+diff with run 2181 is 0.33295474951282966 kj/mol
+diff with run 2182 is 0.332954942750885 kj/mol
+diff with run 2183 is 0.33899854385513134 kj/mol
+diff with run 2184 is 0.33295470628835644 kj/mol
+diff with run 2185 is 0.33295486565173577 kj/mol
+diff with run 2186 is 0.33295464160487137 kj/mol
+diff with run 2187 is 0.3329546623556898 kj/mol
+diff with run 2188 is 0.3329546617379917 kj/mol
+diff with run 2189 is 0.3329547001991278 kj/mol
+diff with run 2190 is 0.33902208892341007 kj/mol
+diff with run 2191 is 0.33295471900498563 kj/mol
+diff with run 2192 is 0.33899894775704825 kj/mol
+diff with run 2193 is 0.33899857166183145 kj/mol
+diff with run 2194 is 0.3329547082031521 kj/mol
+diff with run 2195 is 0.33295466875753815 kj/mol
+diff with run 2196 is 0.3420766029530641 kj/mol
+diff with run 2197 is 0.3329547279804619 kj/mol
+diff with run 2198 is 0.33295464812532316 kj/mol
+diff with run 2199 is 0.3389984433191021 kj/mol
+diff with run 2200 is 0.3329546775794468 kj/mol
+diff with run 2201 is 0.3329547234680432 kj/mol
+diff with run 2202 is 0.3329547019034537 kj/mol
+diff with run 2203 is 0.332954921753947 kj/mol
+diff with run 2204 is 0.33295489882781637 kj/mol
+diff with run 2205 is 0.3329546412456329 kj/mol
+diff with run 2206 is 0.3329546674412447 kj/mol
+diff with run 2207 is 0.33295471180376335 kj/mol
+diff with run 2208 is 0.33295487524765244 kj/mol
+diff with run 2209 is 0.33295476000958474 kj/mol
+diff with run 2210 is 0.17648365313523087 kj/mol
+diff with run 2211 is 0.17648329697637594 kj/mol
+diff with run 2212 is 0.17648322999280508 kj/mol
+diff with run 2213 is 0.39877005746817235 kj/mol
+diff with run 2214 is 0.39877009487421694 kj/mol
+diff with run 2215 is 0.39877000862682793 kj/mol
+diff with run 2216 is 0.3420768361138898 kj/mol
+diff with run 2217 is 0.3420767952799975 kj/mol
+diff with run 2218 is 0.34207660647346366 kj/mol
+diff with run 2219 is 0.4493357897352119 kj/mol
+diff with run 2220 is 0.17648321914709517 kj/mol
+diff with run 2221 is 0.3987700365041417 kj/mol
+diff with run 2222 is 0.17648316667703123 kj/mol
+diff with run 2223 is 0.17648321571993306 kj/mol
+diff with run 2224 is 0.17648364384096477 kj/mol
+diff with run 2225 is 0.1764834143054307 kj/mol
+diff with run 2226 is 0.26611854237927435 kj/mol
+diff with run 2227 is 0.2661185805202495 kj/mol
+diff with run 2228 is 0.17648328890996484 kj/mol
+diff with run 2229 is 0.17648360775806932 kj/mol
+diff with run 2230 is 0.17648320461644895 kj/mol
+diff with run 2231 is 0.17648344070465657 kj/mol
+diff with run 2232 is 0.1764833946659204 kj/mol
+diff with run 2233 is 0.17648345253278766 kj/mol
+diff with run 2234 is 0.17648368389673566 kj/mol
+diff with run 2235 is 0.17648318050222636 kj/mol
+diff with run 2236 is 0.1764833332162668 kj/mol
+diff with run 2237 is 0.33899861847183327 kj/mol
+diff with run 2238 is 0.33295465308473315 kj/mol
+diff with run 2239 is 0.33295463822364246 kj/mol
+diff with run 2240 is 0.33295470302435987 kj/mol
+diff with run 2241 is 0.3329547154660757 kj/mol
+diff with run 2242 is 0.3329547129918553 kj/mol
+diff with run 2243 is 0.33899852632717514 kj/mol
+diff with run 2244 is 0.33295478401548734 kj/mol
+diff with run 2245 is 0.17648327780168177 kj/mol
+diff with run 2246 is 0.2032276067658779 kj/mol
+diff with run 2247 is 0.17648319355615574 kj/mol
+diff with run 2248 is 0.17648310000196668 kj/mol
+diff with run 2249 is 0.17648327698311175 kj/mol
+diff with run 2250 is 0.3329549008721847 kj/mol
+diff with run 2251 is 0.3329546183236157 kj/mol
+diff with run 2252 is 0.3329548664373984 kj/mol
+diff with run 2253 is 0.3329551972788562 kj/mol
+diff with run 2254 is 0.3329547861208714 kj/mol
+diff with run 2255 is 0.3329548230716979 kj/mol
+diff with run 2256 is 0.3329546658157593 kj/mol
+diff with run 2257 is 0.3329546743757804 kj/mol
+diff with run 2258 is 0.33295474627557037 kj/mol
+diff with run 2259 is 0.3389985681709114 kj/mol
+diff with run 2260 is 0.332954713235918 kj/mol
+diff with run 2261 is 0.33295490834763486 kj/mol
+diff with run 2262 is 0.3329547437855818 kj/mol
+diff with run 2263 is 0.33295460289281675 kj/mol
+diff with run 2264 is 0.33295470214888756 kj/mol
+diff with run 2265 is 0.3329546954803528 kj/mol
+diff with run 2266 is 0.33295482114044844 kj/mol
+diff with run 2267 is 0.342076980808138 kj/mol
+diff with run 2268 is 0.3329547433564153 kj/mol
+diff with run 2269 is 0.3329546900520133 kj/mol
+diff with run 2270 is 0.3329547265729877 kj/mol
+diff with run 2271 is 0.3329547303093416 kj/mol
+diff with run 2272 is 0.33295476226168064 kj/mol
+diff with run 2273 is 0.33295472980819024 kj/mol
+diff with run 2274 is 0.17648332499148917 kj/mol
+diff with run 2275 is 0.266118520131172 kj/mol
+diff with run 2276 is 0.2661186273597309 kj/mol
+diff with run 2277 is 0.2661187277956669 kj/mol
+diff with run 2278 is 0.2661186067179179 kj/mol
+diff with run 2279 is 0.1764835731320091 kj/mol
+diff with run 2280 is 0.20638903081621554 kj/mol
+diff with run 2281 is 0.20322759570832696 kj/mol
+diff with run 2282 is 0.20322756759106386 kj/mol
+diff with run 2283 is 0.20322787615425422 kj/mol
+diff with run 2284 is 0.20497254449067137 kj/mol
+diff with run 2285 is 0.20497302150446517 kj/mol
+diff with run 2286 is 0.20497254520914823 kj/mol
+diff with run 2287 is 0.33295475999313107 kj/mol
+diff with run 2288 is 0.3403031929916676 kj/mol
+diff with run 2289 is 0.33295467634610726 kj/mol
+diff with run 2290 is 0.2971474111926205 kj/mol
+diff with run 2291 is 0.33295497063436885 kj/mol
+diff with run 2292 is 0.2677583637272885 kj/mol
+diff with run 2293 is 0.2740533919532731 kj/mol
+diff with run 2294 is 0.26775860300408005 kj/mol
+diff with run 2295 is 0.26775823305156615 kj/mol
+diff with run 2296 is 0.2677583699104401 kj/mol
+diff with run 2297 is 0.26775893970784287 kj/mol
+diff with run 2298 is 0.2677589989561327 kj/mol
+diff with run 2299 is 0.25949692463336566 kj/mol
+diff with run 2300 is 0.0755642215080973 kj/mol
+diff with run 2301 is 0.07556412851127625 kj/mol
+diff with run 2302 is 0.07556432902665212 kj/mol
+diff with run 2303 is 0.07556480994133656 kj/mol
+diff with run 2304 is 0.07556408389852472 kj/mol
+diff with run 2305 is 0.07556478990762378 kj/mol
+diff with run 2306 is 0.07556481883043106 kj/mol
+diff with run 2307 is 0.07386415215903873 kj/mol
+diff with run 2308 is 0.07386381162979791 kj/mol
+diff with run 2309 is 0.18269741483498933 kj/mol
+diff with run 2310 is 0.18009603717566688 kj/mol
+diff with run 2311 is 0.07386401919557083 kj/mol
+diff with run 2312 is 0.07386391652810599 kj/mol
+diff with run 2313 is 0.0766229523517175 kj/mol
+diff with run 2314 is 0.07556419980365159 kj/mol
+diff with run 2315 is 0.07662234616839757 kj/mol
+diff with run 2316 is 0.0755641141828731 kj/mol
+diff with run 2317 is 0.07556461604513448 kj/mol
+diff with run 2318 is 0.07386371533195957 kj/mol
+diff with run 2319 is 0.07556482659382042 kj/mol
+diff with run 2320 is 0.07556398834521488 kj/mol
+diff with run 2321 is 0.07556535464278111 kj/mol
+diff with run 2322 is 0.3177966614588725 kj/mol
+diff with run 2323 is 0.3177963996309569 kj/mol
+diff with run 2324 is 0.3177963635665718 kj/mol
+diff with run 2325 is 0.31779636865212657 kj/mol
+diff with run 2326 is 0.31779639573897867 kj/mol
+diff with run 2327 is 0.07556409930532874 kj/mol
+diff with run 2328 is 0.07556425628018383 kj/mol
+diff with run 2329 is 0.07386373278450308 kj/mol
+diff with run 2330 is 0.0738637429782364 kj/mol
+diff with run 2331 is 0.07662334735905536 kj/mol
+diff with run 2332 is 0.07556411136381119 kj/mol
+diff with run 2333 is 0.07662233736294254 kj/mol
+diff with run 2334 is 0.0738638252554923 kj/mol
+diff with run 2335 is 0.07386520004109486 kj/mol
+diff with run 2336 is 0.07556455976330399 kj/mol
+diff with run 2337 is 0.07556388912410808 kj/mol
+diff with run 2338 is 0.07556408819704566 kj/mol
+diff with run 2339 is 0.07556414599535595 kj/mol
+diff with run 2340 is 0.07556434789901013 kj/mol
+diff with run 2341 is 0.0755639295679113 kj/mol
+diff with run 2342 is 0.07556417859967161 kj/mol
+diff with run 2343 is 0.07556393615280663 kj/mol
+diff with run 2344 is 0.07556466715502845 kj/mol
+diff with run 2345 is 0.07386377006371736 kj/mol
+diff with run 2346 is 0.07556430684779229 kj/mol
+diff with run 2347 is 0.07386394623383369 kj/mol
+diff with run 2348 is 0.07386399922424487 kj/mol
+diff with run 2349 is 0.3329546476742184 kj/mol
+diff with run 2350 is 0.33295482251638653 kj/mol
+diff with run 2351 is 0.34207666380215884 kj/mol
+diff with run 2352 is 0.07556396199877788 kj/mol
+diff with run 2353 is 0.07556423314975348 kj/mol
+diff with run 2354 is 0.07556450961046508 kj/mol
+diff with run 2355 is 0.07556429035298942 kj/mol
+diff with run 2356 is 0.07662231157455913 kj/mol
+diff with run 2357 is 0.0766234107769791 kj/mol
+diff with run 2358 is 0.33295498071361207 kj/mol
+diff with run 2359 is 0.33295477647422256 kj/mol
+diff with run 2360 is 0.3329546856938478 kj/mol
+diff with run 2361 is 0.3329547099602668 kj/mol
+diff with run 2362 is 0.33295466132322216 kj/mol
+diff with run 2363 is 0.33295473829485545 kj/mol
+diff with run 2364 is 0.3329547490706373 kj/mol
+diff with run 2365 is 0.3329548000413607 kj/mol
+diff with run 2366 is 0.33295474221014304 kj/mol
+diff with run 2367 is 0.3329546784864553 kj/mol
+diff with run 2368 is 0.5015231665121532 kj/mol
+diff with run 2369 is 0.5015231410014256 kj/mol
+diff with run 2370 is 0.5015232282476894 kj/mol
+diff with run 2371 is 0.07556414094407966 kj/mol
+diff with run 2372 is 0.07662227914369256 kj/mol
+diff with run 2373 is 0.07662321283248895 kj/mol
+diff with run 2374 is 0.07662252586851141 kj/mol
+diff with run 2375 is 0.07386380318495245 kj/mol
+diff with run 2376 is 0.07556437704668423 kj/mol
+diff with run 2377 is 0.07662334242021247 kj/mol
+diff with run 2378 is 0.31779645834655923 kj/mol
+diff with run 2379 is 0.3177963717954629 kj/mol
+diff with run 2380 is 0.3177963494273858 kj/mol
+diff with run 2381 is 0.3177965689974812 kj/mol
+diff with run 2382 is 0.3177965691263683 kj/mol
+diff with run 2383 is 0.31779635535344886 kj/mol
+diff with run 2384 is 0.3177963408125192 kj/mol
+diff with run 2385 is 0.31779637454802456 kj/mol
+diff with run 2386 is 0.3177963510700104 kj/mol
+diff with run 2387 is 0.31779642951493264 kj/mol
+diff with run 2388 is 0.31779632311454176 kj/mol
+diff with run 2389 is 0.3177963785723177 kj/mol
+diff with run 2390 is 0.31779638873451477 kj/mol
+diff with run 2391 is 0.3177962870227339 kj/mol
+diff with run 2392 is 0.3177963519777045 kj/mol
+diff with run 2393 is 0.3177964487698385 kj/mol
+diff with run 2394 is 0.31779637413325496 kj/mol
+diff with run 2395 is 0.3177962915474928 kj/mol
+diff with run 2396 is 0.31779636947686674 kj/mol
+diff with run 2397 is 0.3177964428657137 kj/mol
+diff with run 2398 is 0.3177963265218223 kj/mol
+diff with run 2399 is 0.3177964312603927 kj/mol
+File for run 2400 is not valid kj/mol
+File for run 2401 is not valid kj/mol
+File for run 2402 is not valid kj/mol
+File for run 2403 is not valid kj/mol
+File for run 2404 is not valid kj/mol
+File for run 2405 is not valid kj/mol
+File for run 2406 is not valid kj/mol
+File for run 2407 is not valid kj/mol
+File for run 2408 is not valid kj/mol
+File for run 2409 is not valid kj/mol
+File for run 2410 is not valid kj/mol
+File for run 2411 is not valid kj/mol
+File for run 2412 is not valid kj/mol
+File for run 2413 is not valid kj/mol
+File for run 2414 is not valid kj/mol
+File for run 2415 is not valid kj/mol
+File for run 2416 is not valid kj/mol
+File for run 2417 is not valid kj/mol
+File for run 2418 is not valid kj/mol
+File for run 2419 is not valid kj/mol
+File for run 2420 is not valid kj/mol
+File for run 2421 is not valid kj/mol
+File for run 2422 is not valid kj/mol
+File for run 2423 is not valid kj/mol
+File for run 2424 is not valid kj/mol
+File for run 2425 is not valid kj/mol
+File for run 2426 is not valid kj/mol
+File for run 2427 is not valid kj/mol
+File for run 2428 is not valid kj/mol
+File for run 2429 is not valid kj/mol
+File for run 2430 is not valid kj/mol
+File for run 2431 is not valid kj/mol
+File for run 2432 is not valid kj/mol
+File for run 2433 is not valid kj/mol
+File for run 2434 is not valid kj/mol
+File for run 2435 is not valid kj/mol
+File for run 2436 is not valid kj/mol
+File for run 2437 is not valid kj/mol
+File for run 2438 is not valid kj/mol
+File for run 2439 is not valid kj/mol
+File for run 2440 is not valid kj/mol
+File for run 2441 is not valid kj/mol
+File for run 2442 is not valid kj/mol
+File for run 2443 is not valid kj/mol
+File for run 2444 is not valid kj/mol
+File for run 2445 is not valid kj/mol
+File for run 2446 is not valid kj/mol
+File for run 2447 is not valid kj/mol
+File for run 2448 is not valid kj/mol
+File for run 2449 is not valid kj/mol
+File for run 2450 is not valid kj/mol
+File for run 2451 is not valid kj/mol
+File for run 2452 is not valid kj/mol
+File for run 2453 is not valid kj/mol
+File for run 2454 is not valid kj/mol
+File for run 2455 is not valid kj/mol
+File for run 2456 is not valid kj/mol
+File for run 2457 is not valid kj/mol
+File for run 2458 is not valid kj/mol
+File for run 2459 is not valid kj/mol
+File for run 2460 is not valid kj/mol
+File for run 2461 is not valid kj/mol
+File for run 2462 is not valid kj/mol
+File for run 2463 is not valid kj/mol
+File for run 2464 is not valid kj/mol
+File for run 2465 is not valid kj/mol
+File for run 2466 is not valid kj/mol
+File for run 2467 is not valid kj/mol
+File for run 2468 is not valid kj/mol
+File for run 2469 is not valid kj/mol
+File for run 2470 is not valid kj/mol
+File for run 2471 is not valid kj/mol
+File for run 2472 is not valid kj/mol
+File for run 2473 is not valid kj/mol
+File for run 2474 is not valid kj/mol
+File for run 2475 is not valid kj/mol
+File for run 2476 is not valid kj/mol
+File for run 2477 is not valid kj/mol
+File for run 2478 is not valid kj/mol
+File for run 2479 is not valid kj/mol
+File for run 2480 is not valid kj/mol
+File for run 2481 is not valid kj/mol
+File for run 2482 is not valid kj/mol
+File for run 2483 is not valid kj/mol
+File for run 2484 is not valid kj/mol
+File for run 2485 is not valid kj/mol
+File for run 2486 is not valid kj/mol
+File for run 2487 is not valid kj/mol
+File for run 2488 is not valid kj/mol
+File for run 2489 is not valid kj/mol
+File for run 2490 is not valid kj/mol
+File for run 2491 is not valid kj/mol
+File for run 2492 is not valid kj/mol
+File for run 2493 is not valid kj/mol
+File for run 2494 is not valid kj/mol
+File for run 2495 is not valid kj/mol
+File for run 2496 is not valid kj/mol
+File for run 2497 is not valid kj/mol
+File for run 2498 is not valid kj/mol
+File for run 2499 is not valid kj/mol
+File for run 2500 is not valid kj/mol
+File for run 2501 is not valid kj/mol
+File for run 2502 is not valid kj/mol
+File for run 2503 is not valid kj/mol
+File for run 2504 is not valid kj/mol
+File for run 2505 is not valid kj/mol
+File for run 2506 is not valid kj/mol
+File for run 2507 is not valid kj/mol
+File for run 2508 is not valid kj/mol
+File for run 2509 is not valid kj/mol
+File for run 2510 is not valid kj/mol
+File for run 2511 is not valid kj/mol
+File for run 2512 is not valid kj/mol
+File for run 2513 is not valid kj/mol
+File for run 2514 is not valid kj/mol
+File for run 2515 is not valid kj/mol
+File for run 2516 is not valid kj/mol
+File for run 2517 is not valid kj/mol
+File for run 2518 is not valid kj/mol
+File for run 2519 is not valid kj/mol
+File for run 2520 is not valid kj/mol
+File for run 2521 is not valid kj/mol
+File for run 2522 is not valid kj/mol
+File for run 2523 is not valid kj/mol
+File for run 2524 is not valid kj/mol
+File for run 2525 is not valid kj/mol
+File for run 2526 is not valid kj/mol
+File for run 2527 is not valid kj/mol
+File for run 2528 is not valid kj/mol
+File for run 2529 is not valid kj/mol
+File for run 2530 is not valid kj/mol
+File for run 2531 is not valid kj/mol
+File for run 2532 is not valid kj/mol
+File for run 2533 is not valid kj/mol
+File for run 2534 is not valid kj/mol
+File for run 2535 is not valid kj/mol
+File for run 2536 is not valid kj/mol
+File for run 2537 is not valid kj/mol
+File for run 2538 is not valid kj/mol
+File for run 2539 is not valid kj/mol
+File for run 2540 is not valid kj/mol
+File for run 2541 is not valid kj/mol
+File for run 2542 is not valid kj/mol
+File for run 2543 is not valid kj/mol
+File for run 2544 is not valid kj/mol
+File for run 2545 is not valid kj/mol
+File for run 2546 is not valid kj/mol
+File for run 2547 is not valid kj/mol
+File for run 2548 is not valid kj/mol
+File for run 2549 is not valid kj/mol
+File for run 2550 is not valid kj/mol
+File for run 2551 is not valid kj/mol
+File for run 2552 is not valid kj/mol
+File for run 2553 is not valid kj/mol
+File for run 2554 is not valid kj/mol
+File for run 2555 is not valid kj/mol
+File for run 2556 is not valid kj/mol
+File for run 2557 is not valid kj/mol
+File for run 2558 is not valid kj/mol
+File for run 2559 is not valid kj/mol
+File for run 2560 is not valid kj/mol
+File for run 2561 is not valid kj/mol
+File for run 2562 is not valid kj/mol
+File for run 2563 is not valid kj/mol
+File for run 2564 is not valid kj/mol
+File for run 2565 is not valid kj/mol
+File for run 2566 is not valid kj/mol
+File for run 2567 is not valid kj/mol
+File for run 2568 is not valid kj/mol
+File for run 2569 is not valid kj/mol
+File for run 2570 is not valid kj/mol
+File for run 2571 is not valid kj/mol
+File for run 2572 is not valid kj/mol
+File for run 2573 is not valid kj/mol
+File for run 2574 is not valid kj/mol
+File for run 2575 is not valid kj/mol
+File for run 2576 is not valid kj/mol
+File for run 2577 is not valid kj/mol
+File for run 2578 is not valid kj/mol
+File for run 2579 is not valid kj/mol
+File for run 2580 is not valid kj/mol
+File for run 2581 is not valid kj/mol
+File for run 2582 is not valid kj/mol
+File for run 2583 is not valid kj/mol
+File for run 2584 is not valid kj/mol
+File for run 2585 is not valid kj/mol
+File for run 2586 is not valid kj/mol
+File for run 2587 is not valid kj/mol
+File for run 2588 is not valid kj/mol
+File for run 2589 is not valid kj/mol
+File for run 2590 is not valid kj/mol
+File for run 2591 is not valid kj/mol
+File for run 2592 is not valid kj/mol
+File for run 2593 is not valid kj/mol
+File for run 2594 is not valid kj/mol
+File for run 2595 is not valid kj/mol
+File for run 2596 is not valid kj/mol
+File for run 2597 is not valid kj/mol
+File for run 2598 is not valid kj/mol
+File for run 2599 is not valid kj/mol
+File for run 2600 is not valid kj/mol
+File for run 2601 is not valid kj/mol
+File for run 2602 is not valid kj/mol
+File for run 2603 is not valid kj/mol
+File for run 2604 is not valid kj/mol
+File for run 2605 is not valid kj/mol
+File for run 2606 is not valid kj/mol
+File for run 2607 is not valid kj/mol
+File for run 2608 is not valid kj/mol
+File for run 2609 is not valid kj/mol
+File for run 2610 is not valid kj/mol
+File for run 2611 is not valid kj/mol
+File for run 2612 is not valid kj/mol
+File for run 2613 is not valid kj/mol
+File for run 2614 is not valid kj/mol
+File for run 2615 is not valid kj/mol
+File for run 2616 is not valid kj/mol
+File for run 2617 is not valid kj/mol
+File for run 2618 is not valid kj/mol
+File for run 2619 is not valid kj/mol
+File for run 2620 is not valid kj/mol
+File for run 2621 is not valid kj/mol
+File for run 2622 is not valid kj/mol
+File for run 2623 is not valid kj/mol
+File for run 2624 is not valid kj/mol
+File for run 2625 is not valid kj/mol
+File for run 2626 is not valid kj/mol
+File for run 2627 is not valid kj/mol
+File for run 2628 is not valid kj/mol
+File for run 2629 is not valid kj/mol
+File for run 2630 is not valid kj/mol
+File for run 2631 is not valid kj/mol
+File for run 2632 is not valid kj/mol
+File for run 2633 is not valid kj/mol
+File for run 2634 is not valid kj/mol
+File for run 2635 is not valid kj/mol
+File for run 2636 is not valid kj/mol
+File for run 2637 is not valid kj/mol
+File for run 2638 is not valid kj/mol
+File for run 2639 is not valid kj/mol
+File for run 2640 is not valid kj/mol
+File for run 2641 is not valid kj/mol
+File for run 2642 is not valid kj/mol
+File for run 2643 is not valid kj/mol
+File for run 2644 is not valid kj/mol
+File for run 2645 is not valid kj/mol
+File for run 2646 is not valid kj/mol
+File for run 2647 is not valid kj/mol
+File for run 2648 is not valid kj/mol
+File for run 2649 is not valid kj/mol
+File for run 2650 is not valid kj/mol
+File for run 2651 is not valid kj/mol
+File for run 2652 is not valid kj/mol
+File for run 2653 is not valid kj/mol
+File for run 2654 is not valid kj/mol
+File for run 2655 is not valid kj/mol
+File for run 2656 is not valid kj/mol
+File for run 2657 is not valid kj/mol
+File for run 2658 is not valid kj/mol
+File for run 2659 is not valid kj/mol
+File for run 2660 is not valid kj/mol
+File for run 2661 is not valid kj/mol
+File for run 2662 is not valid kj/mol
+File for run 2663 is not valid kj/mol
+File for run 2664 is not valid kj/mol
+File for run 2665 is not valid kj/mol
+File for run 2666 is not valid kj/mol
+File for run 2667 is not valid kj/mol
+File for run 2668 is not valid kj/mol
+File for run 2669 is not valid kj/mol
+File for run 2670 is not valid kj/mol
+File for run 2671 is not valid kj/mol
+File for run 2672 is not valid kj/mol
+File for run 2673 is not valid kj/mol
+File for run 2674 is not valid kj/mol
+File for run 2675 is not valid kj/mol
+File for run 2676 is not valid kj/mol
+File for run 2677 is not valid kj/mol
+File for run 2678 is not valid kj/mol
+File for run 2679 is not valid kj/mol
+File for run 2680 is not valid kj/mol
+File for run 2681 is not valid kj/mol
+File for run 2682 is not valid kj/mol
+File for run 2683 is not valid kj/mol
+File for run 2684 is not valid kj/mol
+File for run 2685 is not valid kj/mol
+File for run 2686 is not valid kj/mol
+File for run 2687 is not valid kj/mol
+File for run 2688 is not valid kj/mol
+File for run 2689 is not valid kj/mol
+File for run 2690 is not valid kj/mol
+File for run 2691 is not valid kj/mol
+File for run 2692 is not valid kj/mol
+File for run 2693 is not valid kj/mol
+File for run 2694 is not valid kj/mol
+File for run 2695 is not valid kj/mol
+File for run 2696 is not valid kj/mol
+File for run 2697 is not valid kj/mol
+File for run 2698 is not valid kj/mol
+File for run 2699 is not valid kj/mol
+File for run 2700 is not valid kj/mol
+File for run 2701 is not valid kj/mol
+File for run 2702 is not valid kj/mol
+File for run 2703 is not valid kj/mol
+File for run 2704 is not valid kj/mol
+File for run 2705 is not valid kj/mol
+File for run 2706 is not valid kj/mol
+File for run 2707 is not valid kj/mol
+File for run 2708 is not valid kj/mol
+File for run 2709 is not valid kj/mol
+File for run 2710 is not valid kj/mol
+File for run 2711 is not valid kj/mol
+File for run 2712 is not valid kj/mol
+File for run 2713 is not valid kj/mol
+File for run 2714 is not valid kj/mol
+File for run 2715 is not valid kj/mol
+File for run 2716 is not valid kj/mol
+File for run 2717 is not valid kj/mol
+File for run 2718 is not valid kj/mol
+File for run 2719 is not valid kj/mol
+File for run 2720 is not valid kj/mol
+File for run 2721 is not valid kj/mol
+File for run 2722 is not valid kj/mol
+File for run 2723 is not valid kj/mol
+File for run 2724 is not valid kj/mol
+File for run 2725 is not valid kj/mol
+File for run 2726 is not valid kj/mol
+File for run 2727 is not valid kj/mol
+File for run 2728 is not valid kj/mol
+File for run 2729 is not valid kj/mol
+File for run 2730 is not valid kj/mol
+File for run 2731 is not valid kj/mol
+File for run 2732 is not valid kj/mol
+File for run 2733 is not valid kj/mol
+File for run 2734 is not valid kj/mol
+File for run 2735 is not valid kj/mol
+File for run 2736 is not valid kj/mol
+File for run 2737 is not valid kj/mol
+File for run 2738 is not valid kj/mol
+File for run 2739 is not valid kj/mol
+File for run 2740 is not valid kj/mol
+File for run 2741 is not valid kj/mol
+File for run 2742 is not valid kj/mol
+File for run 2743 is not valid kj/mol
+File for run 2744 is not valid kj/mol
+File for run 2745 is not valid kj/mol
+File for run 2746 is not valid kj/mol
+File for run 2747 is not valid kj/mol
+File for run 2748 is not valid kj/mol
+File for run 2749 is not valid kj/mol
+File for run 2750 is not valid kj/mol
+File for run 2751 is not valid kj/mol
+File for run 2752 is not valid kj/mol
+File for run 2753 is not valid kj/mol
+File for run 2754 is not valid kj/mol
+File for run 2755 is not valid kj/mol
+File for run 2756 is not valid kj/mol
+File for run 2757 is not valid kj/mol
+File for run 2758 is not valid kj/mol
+File for run 2759 is not valid kj/mol
+File for run 2760 is not valid kj/mol
+File for run 2761 is not valid kj/mol
+File for run 2762 is not valid kj/mol
+File for run 2763 is not valid kj/mol
+File for run 2764 is not valid kj/mol
+File for run 2765 is not valid kj/mol
+File for run 2766 is not valid kj/mol
+File for run 2767 is not valid kj/mol
+File for run 2768 is not valid kj/mol
+File for run 2769 is not valid kj/mol
+File for run 2770 is not valid kj/mol
+File for run 2771 is not valid kj/mol
+File for run 2772 is not valid kj/mol
+File for run 2773 is not valid kj/mol
+File for run 2774 is not valid kj/mol
+File for run 2775 is not valid kj/mol
+File for run 2776 is not valid kj/mol
+File for run 2777 is not valid kj/mol
+File for run 2778 is not valid kj/mol
+File for run 2779 is not valid kj/mol
+File for run 2780 is not valid kj/mol
+File for run 2781 is not valid kj/mol
+File for run 2782 is not valid kj/mol
+File for run 2783 is not valid kj/mol
+File for run 2784 is not valid kj/mol
+File for run 2785 is not valid kj/mol
+File for run 2786 is not valid kj/mol
+File for run 2787 is not valid kj/mol
+File for run 2788 is not valid kj/mol
+File for run 2789 is not valid kj/mol
+File for run 2790 is not valid kj/mol
+File for run 2791 is not valid kj/mol
+File for run 2792 is not valid kj/mol
+File for run 2793 is not valid kj/mol
+File for run 2794 is not valid kj/mol
+File for run 2795 is not valid kj/mol
+File for run 2796 is not valid kj/mol
+File for run 2797 is not valid kj/mol
+File for run 2798 is not valid kj/mol
+File for run 2799 is not valid kj/mol
+diff with run 2800 is 1.1842249100300895 kj/mol
+diff with run 2801 is 1.1842249407826817 kj/mol
+diff with run 2802 is 1.1842249235310103 kj/mol
+diff with run 2803 is 1.1842248996334275 kj/mol
+diff with run 2804 is 1.1842249539696117 kj/mol
+diff with run 2805 is 1.1842249622444359 kj/mol
+diff with run 2806 is 1.1842252042141446 kj/mol
+diff with run 2807 is 1.1842250175417885 kj/mol
+diff with run 2808 is 1.1842249860124459 kj/mol
+diff with run 2809 is 1.1842249579719666 kj/mol
+diff with run 2810 is 1.1842249131754825 kj/mol
+diff with run 2811 is 1.184225064281177 kj/mol
+diff with run 2812 is 0.47517494290084206 kj/mol
+diff with run 2813 is 0.4751748791319067 kj/mol
+diff with run 2814 is 0.33982047091903894 kj/mol
+diff with run 2815 is 0.4789579448541714 kj/mol
+diff with run 2816 is 0.517423873778679 kj/mol
+diff with run 2817 is 0.587165706697506 kj/mol
+diff with run 2818 is 0.6354276167163252 kj/mol
+diff with run 2819 is 0.5610407055162099 kj/mol
+diff with run 2820 is 0.517423304988378 kj/mol
+diff with run 2821 is 0.7090673361909486 kj/mol
+diff with run 2822 is 0.839806493704724 kj/mol
+diff with run 2823 is 0.8398103786819048 kj/mol
+diff with run 2824 is 0.839806529043091 kj/mol
+diff with run 2825 is 0.8398068090591663 kj/mol
+diff with run 2826 is 0.8396194437686185 kj/mol
+diff with run 2827 is 0.8398064417858581 kj/mol
+diff with run 2828 is 0.7160082731249257 kj/mol
+diff with run 2829 is 0.9262760634080403 kj/mol
+diff with run 2830 is 0.9262762312532858 kj/mol
+diff with run 2831 is 0.9262759107515878 kj/mol
+diff with run 2832 is 0.9262759445858152 kj/mol
+diff with run 2833 is 0.8642381128515775 kj/mol
+diff with run 2834 is 0.8642408447830786 kj/mol
+diff with run 2835 is 0.86423751000561 kj/mol
+diff with run 2836 is 0.8642382546225571 kj/mol
+diff with run 2837 is 0.8642380816801022 kj/mol
+diff with run 2838 is 0.8642375828357178 kj/mol
+diff with run 2839 is 0.8642394519238066 kj/mol
+diff with run 2840 is 0.9648617072289369 kj/mol
+diff with run 2841 is 0.8642382799934286 kj/mol
+diff with run 2842 is 0.9648614575424578 kj/mol
+diff with run 2843 is 0.9648614735415938 kj/mol
+diff with run 2844 is 0.8642374368320318 kj/mol
+diff with run 2845 is 0.9594526276893978 kj/mol
+diff with run 2846 is 0.864238169104614 kj/mol
+diff with run 2847 is 0.9648618651951255 kj/mol
+diff with run 2848 is 1.0588053531148616 kj/mol
+diff with run 2849 is 0.9138586703047322 kj/mol
+diff with run 2850 is 1.0058115215910648 kj/mol
+diff with run 2851 is 1.0058118023605809 kj/mol
+diff with run 2852 is 1.005811633969622 kj/mol
+diff with run 2853 is 1.0153290374610207 kj/mol
+diff with run 2854 is 0.8642371691219297 kj/mol
+diff with run 2855 is 0.8642377198495305 kj/mol
+diff with run 2856 is 0.8642375347855206 kj/mol
+diff with run 2857 is 1.0019887595276291 kj/mol
+diff with run 2858 is 1.0019886477222082 kj/mol
+diff with run 2859 is 0.864237337023392 kj/mol
+diff with run 2860 is 0.714314298982591 kj/mol
+diff with run 2861 is 0.8191350602273257 kj/mol
+diff with run 2862 is 0.8191350033058589 kj/mol
+diff with run 2863 is 0.8642375125072532 kj/mol
+diff with run 2864 is 0.8642377041191377 kj/mol
+diff with run 2865 is 0.8642380795555221 kj/mol
+diff with run 2866 is 0.8642372455595043 kj/mol
+diff with run 2867 is 0.8642378593190531 kj/mol
+diff with run 2868 is 0.864238412053316 kj/mol
+diff with run 2869 is 0.8642374253679382 kj/mol
+diff with run 2870 is 0.8642372564415495 kj/mol
+diff with run 2871 is 0.8642373458953473 kj/mol
+diff with run 2872 is 0.964861326563028 kj/mol
+diff with run 2873 is 0.9648615333081743 kj/mol
+diff with run 2874 is 0.8642380777936084 kj/mol
+diff with run 2875 is 0.8642373713683688 kj/mol
+diff with run 2876 is 0.8642380481824893 kj/mol
+diff with run 2877 is 0.8642401316879329 kj/mol
+diff with run 2878 is 0.964862748814037 kj/mol
+diff with run 2879 is 0.9648614573470705 kj/mol
+diff with run 2880 is 0.9648613313942366 kj/mol
+diff with run 2881 is 0.8642382370946009 kj/mol
+diff with run 2882 is 0.9648617327965671 kj/mol
+diff with run 2883 is 0.9648611094925192 kj/mol
+diff with run 2884 is 0.864244601259849 kj/mol
+diff with run 2885 is 0.7143140956673492 kj/mol
+diff with run 2886 is 0.8642384141874939 kj/mol
+diff with run 2887 is 0.8642392962549613 kj/mol
+diff with run 2888 is 0.8642381372647083 kj/mol
+diff with run 2889 is 0.8642372747099208 kj/mol
+diff with run 2890 is 0.8642377685482763 kj/mol
+diff with run 2891 is 0.8642375074909409 kj/mol
+diff with run 2892 is 0.8642416236298267 kj/mol
+diff with run 2893 is 0.9634944051703505 kj/mol
+diff with run 2894 is 0.9415380038809732 kj/mol
+diff with run 2895 is 0.714314109578926 kj/mol
+diff with run 2896 is 0.7143140943729939 kj/mol
+diff with run 2897 is 0.9634941370331384 kj/mol
+diff with run 2898 is 0.8642372887778076 kj/mol
+diff with run 2899 is 0.9281843666634527 kj/mol
+diff with run 2900 is 0.9281844891891247 kj/mol
+diff with run 2901 is 0.928184764105248 kj/mol
+diff with run 2902 is 0.9281851788850968 kj/mol
+diff with run 2903 is 1.0059166498384804 kj/mol
+diff with run 2904 is 0.714314148954612 kj/mol
+diff with run 2905 is 0.7143140316872584 kj/mol
+diff with run 2906 is 0.7143140856895703 kj/mol
+diff with run 2907 is 0.7143141283326805 kj/mol
+diff with run 2908 is 0.7143140879320681 kj/mol
+diff with run 2909 is 0.7143142291353962 kj/mol
+diff with run 2910 is 0.7143140619023644 kj/mol
+diff with run 2911 is 0.714314114487604 kj/mol
+diff with run 2912 is 0.7143141749431816 kj/mol
+diff with run 2913 is 0.7143141771130093 kj/mol
+diff with run 2914 is 0.7143141264919263 kj/mol
+diff with run 2915 is 0.7143141464372006 kj/mol
+diff with run 2916 is 0.5996070827958255 kj/mol
+diff with run 2917 is 0.6421944321137631 kj/mol
+diff with run 2918 is 0.6469397282178075 kj/mol
+diff with run 2919 is 0.6469397014579721 kj/mol
+diff with run 2920 is 0.7730954153998456 kj/mol
+diff with run 2921 is 0.8918420677290183 kj/mol
+diff with run 2922 is 0.8674684587882864 kj/mol
+diff with run 2923 is 0.4903108709165885 kj/mol
+diff with run 2924 is 0.5501495207171618 kj/mol
+diff with run 2925 is 0.4970533752116085 kj/mol
+diff with run 2926 is 0.5087527768199706 kj/mol
+diff with run 2927 is 0.5087529745087432 kj/mol
+diff with run 2928 is 0.5087528427374808 kj/mol
+diff with run 2929 is 0.5087529205331687 kj/mol
+diff with run 2930 is 0.6390917720580434 kj/mol
+diff with run 2931 is 0.6390917436178769 kj/mol
+diff with run 2932 is 0.7264767760891726 kj/mol
+diff with run 2933 is 0.6421945874226842 kj/mol
+diff with run 2934 is 0.7076390849417724 kj/mol
+diff with run 2935 is 0.7076389328797086 kj/mol
+diff with run 2936 is 0.6390918033021891 kj/mol
+diff with run 2937 is 0.6390917274171835 kj/mol
+diff with run 2938 is 0.8603723851736144 kj/mol
+diff with run 2939 is 0.8603723002068693 kj/mol
+diff with run 2940 is 0.8384145216823494 kj/mol
+diff with run 2941 is 0.8529984640807222 kj/mol
+diff with run 2942 is 0.6650110406245001 kj/mol
+diff with run 2943 is 0.7027747965117411 kj/mol
+diff with run 2944 is 0.6650105528966258 kj/mol
+diff with run 2945 is 0.6390918686637024 kj/mol
+diff with run 2946 is 0.508752804320221 kj/mol
+diff with run 2947 is 0.6390917188002601 kj/mol
+diff with run 2948 is 0.47786403481090967 kj/mol
+diff with run 2949 is 0.6390917181667938 kj/mol
+diff with run 2950 is 0.7143141006720067 kj/mol
+diff with run 2951 is 0.7143144112754521 kj/mol
+diff with run 2952 is 0.7143144858201692 kj/mol
+diff with run 2953 is 0.4961381783945599 kj/mol
+diff with run 2954 is 0.4961382951018032 kj/mol
+diff with run 2955 is 0.4961382500866223 kj/mol
+diff with run 2956 is 0.6834479787217386 kj/mol
+diff with run 2957 is 0.6571314437999972 kj/mol
+diff with run 2958 is 0.5269256456150124 kj/mol
+diff with run 2959 is 0.714314176618028 kj/mol
+diff with run 2960 is 0.7143145873612432 kj/mol
+diff with run 2961 is 0.7143142246264054 kj/mol
+diff with run 2962 is 0.714314169938524 kj/mol
+diff with run 2963 is 0.7143140756919099 kj/mol
+diff with run 2964 is 0.7143140822973721 kj/mol
+diff with run 2965 is 0.7143141561167569 kj/mol
+diff with run 2966 is 0.7143142897637376 kj/mol
+diff with run 2967 is 0.7143141576935668 kj/mol
+diff with run 2968 is 0.71431403405453 kj/mol
+diff with run 2969 is 0.7143140763589689 kj/mol
+diff with run 2970 is 0.34731613680359774 kj/mol
+diff with run 2971 is 0.34731603210341927 kj/mol
+diff with run 2972 is 0.3473161571458168 kj/mol
+diff with run 2973 is 0.3473161300459389 kj/mol
+diff with run 2974 is 0.3473161146816402 kj/mol
+diff with run 2975 is 0.347316321945077 kj/mol
+diff with run 2976 is 0.34731630765026666 kj/mol
+diff with run 2977 is 0.34731599648328326 kj/mol
+diff with run 2978 is 0.3473161164154455 kj/mol
+diff with run 2979 is 0.3473159936354274 kj/mol
+diff with run 2980 is 0.5920044066452355 kj/mol
+diff with run 2981 is 0.5920033350239632 kj/mol
+diff with run 2982 is 0.7143141013959682 kj/mol
+diff with run 2983 is 0.7143140416760065 kj/mol
+diff with run 2984 is 0.3473160817859575 kj/mol
+diff with run 2985 is 0.7143143221980319 kj/mol
+diff with run 2986 is 0.714314119991356 kj/mol
+diff with run 2987 is 0.7143143030055129 kj/mol
+diff with run 2988 is 0.7143140968026523 kj/mol
+diff with run 2989 is 0.3951084992036867 kj/mol
+diff with run 2990 is 0.3473161997224269 kj/mol
+diff with run 2991 is 0.42032013907614196 kj/mol
+diff with run 2992 is 0.3951083223925629 kj/mol
+diff with run 2993 is 0.39510894457433327 kj/mol
+diff with run 2994 is 0.34731620797119944 kj/mol
+diff with run 2995 is 0.3473161772487722 kj/mol
+diff with run 2996 is 0.3473160870525026 kj/mol
+diff with run 2997 is 0.34731605312983677 kj/mol
+diff with run 2998 is 0.3473160817928132 kj/mol
+diff with run 2999 is 0.3473159561793362 kj/mol
+diff with run 3000 is 0.3473162120462247 kj/mol
+diff with run 3001 is 0.3473159421148773 kj/mol
+diff with run 3002 is 0.34731600951596003 kj/mol
+diff with run 3003 is 0.4318117069711359 kj/mol
+diff with run 3004 is 0.4318120660841099 kj/mol
+diff with run 3005 is 0.34731622530719614 kj/mol
+diff with run 3006 is 0.7143144504701476 kj/mol
+diff with run 3007 is 0.7143141032805987 kj/mol
+diff with run 3008 is 0.7143140542150731 kj/mol
+diff with run 3009 is 0.34731642271557095 kj/mol
+diff with run 3010 is 0.34731603332647526 kj/mol
+diff with run 3011 is 0.3473160142025133 kj/mol
+diff with run 3012 is 0.7143140963728002 kj/mol
+diff with run 3013 is 0.7143140746704112 kj/mol
+diff with run 3014 is 0.7143140955096682 kj/mol
+diff with run 3015 is 0.7143140248548725 kj/mol
+diff with run 3016 is 0.7143141323878243 kj/mol
+diff with run 3017 is 0.7143142506554238 kj/mol
+diff with run 3018 is 0.7143140870449411 kj/mol
+diff with run 3019 is 0.7143140992912697 kj/mol
+diff with run 3020 is 0.7143141295481953 kj/mol
+diff with run 3021 is 0.7143141024709412 kj/mol
+diff with run 3022 is 0.3398205524037765 kj/mol
+diff with run 3023 is 0.4294111566615893 kj/mol
+diff with run 3024 is 0.3398210076082325 kj/mol
+diff with run 3025 is 0.34731629171283185 kj/mol
+diff with run 3026 is 0.4294111321428807 kj/mol
+diff with run 3027 is 0.1990355819181473 kj/mol
+diff with run 3028 is 0.19437103009882775 kj/mol
+diff with run 3029 is 0.20679752693887207 kj/mol
+diff with run 3030 is 0.3398209030780752 kj/mol
+diff with run 3031 is 0.42941108704885933 kj/mol
+diff with run 3032 is 0.4294113483598555 kj/mol
+diff with run 3033 is 0.33982086696090125 kj/mol
+diff with run 3034 is 0.42941133329309394 kj/mol
+diff with run 3035 is 0.42941112866567205 kj/mol
+diff with run 3036 is 0.43914770030371086 kj/mol
+diff with run 3037 is 0.3473159976741175 kj/mol
+diff with run 3038 is 0.44147737139228754 kj/mol
+diff with run 3039 is 0.45107254244539713 kj/mol
+diff with run 3040 is 0.4122247716449866 kj/mol
+diff with run 3041 is 0.4004811548982743 kj/mol
+diff with run 3042 is 0.45240735876099575 kj/mol
+diff with run 3043 is 0.4122248532791783 kj/mol
+diff with run 3044 is 0.4594821744036734 kj/mol
+diff with run 3045 is 0.40010538830987263 kj/mol
+diff with run 3046 is 0.4508885855590577 kj/mol
+diff with run 3047 is 0.452318852604774 kj/mol
+diff with run 3048 is 0.45929162093304626 kj/mol
+diff with run 3049 is 0.4592914120496087 kj/mol
+diff with run 3050 is 0.20987998827962323 kj/mol
+diff with run 3051 is 0.20988038583179516 kj/mol
+diff with run 3052 is 0.20988057379165073 kj/mol
+diff with run 3053 is 0.2098806120334046 kj/mol
+diff with run 3054 is 0.20664775947830574 kj/mol
+diff with run 3055 is 0.20664672455282812 kj/mol
+diff with run 3056 is 0.2066463661213102 kj/mol
+diff with run 3057 is 0.608658377673098 kj/mol
+diff with run 3058 is 0.6086583006712998 kj/mol
+diff with run 3059 is 0.5311073009473305 kj/mol
+diff with run 3060 is 0.20664643962601842 kj/mol
+diff with run 3061 is 0.2066464328203697 kj/mol
+diff with run 3062 is 0.20664634565500306 kj/mol
+diff with run 3063 is 0.06513024371084683 kj/mol
+diff with run 3064 is 0.07436855672613901 kj/mol
+diff with run 3065 is 0.06513021158025971 kj/mol
+diff with run 3066 is 0.30629198969553334 kj/mol
+diff with run 3067 is 0.3062919577863852 kj/mol
+diff with run 3068 is 0.3062917769715353 kj/mol
+diff with run 3069 is 0.30629188296538346 kj/mol
+diff with run 3070 is 0.30629187246520057 kj/mol
+diff with run 3071 is 0.30629182942034655 kj/mol
+diff with run 3072 is 0.306292081805913 kj/mol
+diff with run 3073 is 0.30629194082470945 kj/mol
+diff with run 3074 is 0.3062918594578899 kj/mol
+diff with run 3075 is 0.20717875755412715 kj/mol
+diff with run 3076 is 0.2071785670617778 kj/mol
+diff with run 3077 is 0.20717864627590904 kj/mol
+diff with run 3078 is 0.20717826015218116 kj/mol
+diff with run 3079 is 0.207178229219284 kj/mol
+diff with run 3080 is 0.20717894102007442 kj/mol
+diff with run 3081 is 0.2071784256006756 kj/mol
+diff with run 3082 is 0.20717820202068404 kj/mol
+diff with run 3083 is 0.2068006646953127 kj/mol
+diff with run 3084 is 0.20680050330470426 kj/mol
+diff with run 3085 is 0.20680045602234498 kj/mol
+diff with run 3086 is 0.20680062743118094 kj/mol
+diff with run 3087 is 0.20680047181581024 kj/mol
+diff with run 3088 is 0.20717886677975014 kj/mol
+diff with run 3089 is 0.20717831355667632 kj/mol
+diff with run 3090 is 0.2071781890853582 kj/mol
+diff with run 3091 is 0.2947934589322204 kj/mol
+diff with run 3092 is 0.29479341571734513 kj/mol
+diff with run 3093 is 0.29479343429627936 kj/mol
+diff with run 3094 is 0.2947934332240486 kj/mol
+diff with run 3095 is 0.2947934679796815 kj/mol
+diff with run 3096 is 0.31061711160535055 kj/mol
+diff with run 3097 is 0.310617163843692 kj/mol
+diff with run 3098 is 0.40135866029344613 kj/mol
+diff with run 3099 is 0.3106168999206759 kj/mol
+diff with run 3100 is 0.4415663671226223 kj/mol
+diff with run 3101 is 0.5477258253232236 kj/mol
+diff with run 3102 is 0.3513771173921395 kj/mol
+diff with run 3103 is 0.45257835932932083 kj/mol
+diff with run 3104 is 0.5432073739490388 kj/mol
+diff with run 3105 is 0.3106171388012082 kj/mol
+diff with run 3106 is 0.3106169126373051 kj/mol
+diff with run 3107 is 0.3106169665271835 kj/mol
+diff with run 3108 is 0.3106175672046945 kj/mol
+diff with run 3109 is 0.31061679832269956 kj/mol
+diff with run 3110 is 0.31061732037224127 kj/mol
+diff with run 3111 is 0.31061720271274196 kj/mol
+diff with run 3112 is 0.21695071481884953 kj/mol
+diff with run 3113 is 0.2169507342862819 kj/mol
+diff with run 3114 is 0.2169508089605717 kj/mol
+diff with run 3115 is 0.21695070027860539 kj/mol
+diff with run 3116 is 0.21695065677441977 kj/mol
+diff with run 3117 is 0.21695096160811192 kj/mol
+diff with run 3118 is 0.21695147051665692 kj/mol
+diff with run 3119 is 0.21695075776155368 kj/mol
+diff with run 3120 is 0.2169509117315575 kj/mol
+diff with run 3121 is 0.21695071644570602 kj/mol
+diff with run 3122 is 0.2169508252901523 kj/mol
+diff with run 3123 is 0.21695093432518694 kj/mol
+diff with run 3124 is 0.20439513969239095 kj/mol
+diff with run 3125 is 0.20439544197645002 kj/mol
+diff with run 3126 is 0.20439520348669235 kj/mol
+diff with run 3127 is 0.20439533216260838 kj/mol
+diff with run 3128 is 0.2043951151112955 kj/mol
+diff with run 3129 is 0.20439528737846446 kj/mol
+diff with run 3130 is 0.20439527539196684 kj/mol
+diff with run 3131 is 0.2043950838726343 kj/mol
+diff with run 3132 is 0.21695079702549178 kj/mol
+diff with run 3133 is 0.21695078892617334 kj/mol
+diff with run 3134 is 0.21695072783164476 kj/mol
+diff with run 3135 is 0.20439506969162863 kj/mol
+diff with run 3136 is 0.20439511595660273 kj/mol
+diff with run 3137 is 0.20439508740468854 kj/mol
+diff with run 3138 is 0.20439540514696933 kj/mol
+diff with run 3139 is 0.21695081314186024 kj/mol
+diff with run 3140 is 0.21695093363001944 kj/mol
+diff with run 3141 is 0.20439517167695176 kj/mol
+diff with run 3142 is 0.21695081557837437 kj/mol
+diff with run 3143 is 0.21695088059367507 kj/mol
+diff with run 3144 is 0.2169507369942815 kj/mol
+diff with run 3145 is 0.21695108808197863 kj/mol
+diff with run 3146 is 0.2169511040852282 kj/mol
+diff with run 3147 is 0.6409826687737251 kj/mol
+diff with run 3148 is 0.21695091569826283 kj/mol
+diff with run 3149 is 0.21695068673655046 kj/mol
+diff with run 3150 is 0.21695114023119602 kj/mol
+diff with run 3151 is 0.21695087589683826 kj/mol
+diff with run 3152 is 0.21695075953854992 kj/mol
+diff with run 3153 is 0.2169509500075899 kj/mol
+diff with run 3154 is 0.21695073193272169 kj/mol
+diff with run 3155 is 0.2169507792658131 kj/mol
+diff with run 3156 is 0.21695067656064196 kj/mol
+diff with run 3157 is 0.21695113478640282 kj/mol
+diff with run 3158 is 0.2169509653616051 kj/mol
+diff with run 3159 is 0.3275024520746607 kj/mol
+diff with run 3160 is 0.36745151591257186 kj/mol
+diff with run 3161 is 0.36745147567923847 kj/mol
+diff with run 3162 is 0.36745168324775374 kj/mol
+diff with run 3163 is 0.3674516178663588 kj/mol
+diff with run 3164 is 0.36745160893818685 kj/mol
+diff with run 3165 is 0.3674516342226767 kj/mol
+diff with run 3166 is 0.45031804188166574 kj/mol
+diff with run 3167 is 0.36745167425719494 kj/mol
+diff with run 3168 is 0.32388797005777953 kj/mol
+diff with run 3169 is 0.3674515905059645 kj/mol
+diff with run 3170 is 0.4175600352606633 kj/mol
+diff with run 3171 is 0.36745152239120393 kj/mol
+diff with run 3172 is 0.3674515342501856 kj/mol
+diff with run 3173 is 0.4798398609644298 kj/mol
+diff with run 3174 is 0.47983962675879616 kj/mol
+diff with run 3175 is 0.4544477053025975 kj/mol
+diff with run 3176 is 0.4544474552808747 kj/mol
+diff with run 3177 is 0.45444728953827096 kj/mol
+diff with run 3178 is 0.45444763859394 kj/mol
+diff with run 3179 is 0.4544473403540556 kj/mol
+diff with run 3180 is 0.6402221319841874 kj/mol
+diff with run 3181 is 0.6409825470871904 kj/mol
+diff with run 3182 is 0.6409824031360997 kj/mol
+diff with run 3183 is 0.6402225246784137 kj/mol
+diff with run 3184 is 0.6402216804968894 kj/mol
+diff with run 3185 is 0.6402217118281025 kj/mol
+diff with run 3186 is 0.640221796620713 kj/mol
+diff with run 3187 is 0.6402216372587048 kj/mol
+diff with run 3188 is 0.6409823450539636 kj/mol
+diff with run 3189 is 0.6409825605298377 kj/mol
+diff with run 3190 is 0.640221605634068 kj/mol
+diff with run 3191 is 0.6402216287480447 kj/mol
+diff with run 3192 is 0.6402217038487588 kj/mol
+diff with run 3193 is 0.6402215868309525 kj/mol
+diff with run 3194 is 0.6402216652299416 kj/mol
+diff with run 3195 is 0.6402218131429387 kj/mol
+diff with run 3196 is 0.6409825071349404 kj/mol
+diff with run 3197 is 0.6402216692370954 kj/mol
+diff with run 3198 is 0.6402217953270433 kj/mol
+diff with run 3199 is 0.6409825156442295 kj/mol
+diff with run 3200 is 0.7371486064010401 kj/mol
+diff with run 3201 is 0.7371485768084314 kj/mol
+diff with run 3202 is 1.1531810675829668 kj/mol
+diff with run 3203 is 0.9914407931254664 kj/mol
+diff with run 3204 is 0.7371486480980645 kj/mol
+diff with run 3205 is 0.9914408558962127 kj/mol
+diff with run 3206 is 0.9914409186745 kj/mol
+diff with run 3207 is 0.6266339186896083 kj/mol
+diff with run 3208 is 0.6484411357714951 kj/mol
+diff with run 3209 is 0.6266337346279011 kj/mol
+diff with run 3210 is 0.7204543744853811 kj/mol
+diff with run 3211 is 0.8258818922053642 kj/mol
+diff with run 3212 is 0.7428676966493138 kj/mol
+diff with run 3213 is 0.7371485745673046 kj/mol
+diff with run 3214 is 0.8783575626685449 kj/mol
+diff with run 3215 is 0.9530559277033102 kj/mol
+diff with run 3216 is 0.8198106895659253 kj/mol
+diff with run 3217 is 0.839310367125058 kj/mol
+diff with run 3218 is 0.8236763548090714 kj/mol
+diff with run 3219 is 0.8349752816132063 kj/mol
+diff with run 3220 is 0.9530560592462781 kj/mol
+diff with run 3221 is 0.7865842956848423 kj/mol
+diff with run 3222 is 0.7428676428800958 kj/mol
+diff with run 3223 is 0.7428676412148474 kj/mol
+diff with run 3224 is 0.7428675877630478 kj/mol
+diff with run 3225 is 0.7428677218693601 kj/mol
+diff with run 3226 is 0.863619568746634 kj/mol
+diff with run 3227 is 0.7428675495473456 kj/mol
+diff with run 3228 is 0.8636195058991042 kj/mol
+diff with run 3229 is 0.7428675919498209 kj/mol
+diff with run 3230 is 0.7428676112636857 kj/mol
+diff with run 3231 is 0.7428678415149544 kj/mol
+diff with run 3232 is 0.7428678401753516 kj/mol
+diff with run 3233 is 0.7428675755633382 kj/mol
+diff with run 3234 is 0.7428675692231911 kj/mol
+diff with run 3235 is 0.7428676584624057 kj/mol
+diff with run 3236 is 0.7428675669546415 kj/mol
+diff with run 3237 is 0.7428680465996511 kj/mol
+diff with run 3238 is 0.7428674682244024 kj/mol
+diff with run 3239 is 0.7428675455381349 kj/mol
+diff with run 3240 is 0.7428675234113784 kj/mol
+diff with run 3241 is 0.7428675506127206 kj/mol
+diff with run 3242 is 0.7428675949114812 kj/mol
+diff with run 3243 is 0.7428677112800531 kj/mol
+diff with run 3244 is 0.7428675301423001 kj/mol
+diff with run 3245 is 0.7428677680349266 kj/mol
+diff with run 3246 is 0.742867490750846 kj/mol
+diff with run 3247 is 0.742867559702687 kj/mol
+diff with run 3248 is 0.7428675731419064 kj/mol
+diff with run 3249 is 0.7428675635151392 kj/mol
+diff with run 3250 is 0.7428674926505592 kj/mol
+diff with run 3251 is 0.7428675577899481 kj/mol
+diff with run 3252 is 0.7428675492189577 kj/mol
+diff with run 3253 is 0.7428675779580325 kj/mol
+diff with run 3254 is 0.7428675063489241 kj/mol
+diff with run 3255 is 0.7428675723788676 kj/mol
+diff with run 3256 is 0.8529754250594213 kj/mol
+diff with run 3257 is 0.7180020838053929 kj/mol
+diff with run 3258 is 0.6906595268351223 kj/mol
+diff with run 3259 is 0.7180022627321843 kj/mol
+diff with run 3260 is 0.7180021321791789 kj/mol
+diff with run 3261 is 0.718002202419205 kj/mol
+diff with run 3262 is 0.718002338233271 kj/mol
+diff with run 3263 is 0.6199275352061533 kj/mol
+diff with run 3264 is 0.6199258117913059 kj/mol
+diff with run 3265 is 0.6199258597585492 kj/mol
+diff with run 3266 is 0.6199257951175694 kj/mol
+diff with run 3267 is 0.38297187311414477 kj/mol
+diff with run 3268 is 0.3829717687197302 kj/mol
+diff with run 3269 is 0.38297175941518063 kj/mol
+diff with run 3270 is 0.382971785198765 kj/mol
+diff with run 3271 is 0.3829720804824736 kj/mol
+diff with run 3272 is 0.718002308973849 kj/mol
+diff with run 3273 is 0.7180021227169482 kj/mol
+diff with run 3274 is 0.6906595331457899 kj/mol
+diff with run 3275 is 0.7330794032019428 kj/mol
+diff with run 3276 is 0.765967391990964 kj/mol
+diff with run 3277 is 0.801299151543279 kj/mol
+diff with run 3278 is 0.5087378052024538 kj/mol
+diff with run 3279 is 0.7428677166610884 kj/mol
+diff with run 3280 is 0.7428675386728417 kj/mol
+diff with run 3281 is 0.7428676214841563 kj/mol
+diff with run 3282 is 0.7428675179089974 kj/mol
+diff with run 3283 is 0.7428675800380503 kj/mol
+diff with run 3284 is 0.3834222030014023 kj/mol
+diff with run 3285 is 0.381622082321519 kj/mol
+diff with run 3286 is 0.3707370186732026 kj/mol
+diff with run 3287 is 0.37073683989997874 kj/mol
+diff with run 3288 is 0.5638560369379219 kj/mol
+diff with run 3289 is 0.5638559556705098 kj/mol
+diff with run 3290 is 0.7428676449964489 kj/mol
+diff with run 3291 is 0.7428678199956125 kj/mol
+diff with run 3292 is 0.7428675618341227 kj/mol
+diff with run 3293 is 0.5458654128275472 kj/mol
+diff with run 3294 is 0.5458655971682812 kj/mol
+diff with run 3295 is 0.36937322898681446 kj/mol
+diff with run 3296 is 0.5168758447290841 kj/mol
+diff with run 3297 is 0.4605108643953862 kj/mol
+diff with run 3298 is 0.7620210979040893 kj/mol
+diff with run 3299 is 0.5834903045047087 kj/mol
+diff with run 3300 is 0.5538651409119536 kj/mol
+diff with run 3301 is 0.47191915340780183 kj/mol
+diff with run 3302 is 0.4719190302260399 kj/mol
+diff with run 3303 is 0.46051119442581523 kj/mol
+diff with run 3304 is 0.3168637088284131 kj/mol
+diff with run 3305 is 0.4605107264526268 kj/mol
+diff with run 3306 is 0.47191908546923256 kj/mol
+diff with run 3307 is 0.4719190596506841 kj/mol
+diff with run 3308 is 0.4719193422349028 kj/mol
+diff with run 3309 is 0.460511058229887 kj/mol
+diff with run 3310 is 0.4719189720109034 kj/mol
+diff with run 3311 is 0.4806666036305045 kj/mol
+diff with run 3312 is 0.48296021498559105 kj/mol
+diff with run 3313 is 0.3168634423207999 kj/mol
+diff with run 3314 is 0.3168637816256135 kj/mol
+diff with run 3315 is 0.5225843069871504 kj/mol
+diff with run 3316 is 0.5197178199768927 kj/mol
+diff with run 3317 is 0.36937298086274817 kj/mol
+diff with run 3318 is 0.39032986034401074 kj/mol
+diff with run 3319 is 0.28756772652924867 kj/mol
+diff with run 3320 is 0.2875678152536004 kj/mol
+diff with run 3321 is 0.28756752444460415 kj/mol
+diff with run 3322 is 0.24149511498239498 kj/mol
+diff with run 3323 is 0.38414923580786553 kj/mol
+diff with run 3324 is 0.3841493472773576 kj/mol
+diff with run 3325 is 0.27587982524415994 kj/mol
+diff with run 3326 is 0.2758798735240229 kj/mol
+diff with run 3327 is 0.2758800245782995 kj/mol
+diff with run 3328 is 0.27588005422918166 kj/mol
+diff with run 3329 is 0.27588022802791295 kj/mol
+diff with run 3330 is 0.27588034695914376 kj/mol
+diff with run 3331 is 0.2758798886298619 kj/mol
+diff with run 3332 is 0.2758798214269088 kj/mol
+diff with run 3333 is 0.28756790236480706 kj/mol
+diff with run 3334 is 0.275879886318807 kj/mol
+diff with run 3335 is 0.27587986469800074 kj/mol
+diff with run 3336 is 0.058046758794668404 kj/mol
+diff with run 3337 is 0.05804696359142599 kj/mol
+diff with run 3338 is 0.05804688680695316 kj/mol
+diff with run 3339 is 0.05804679053105305 kj/mol
+diff with run 3340 is 0.05804677582078766 kj/mol
+diff with run 3341 is 0.05804675619498875 kj/mol
+diff with run 3342 is 0.05804675697173903 kj/mol
+diff with run 3343 is 0.0580467724203628 kj/mol
+diff with run 3344 is 0.058046799784184984 kj/mol
+diff with run 3345 is 0.05804680538871588 kj/mol
+diff with run 3346 is 0.2758800531912294 kj/mol
+diff with run 3347 is 0.2758798529343132 kj/mol
+diff with run 3348 is 0.2758799344032826 kj/mol
+diff with run 3349 is 0.27587981920772026 kj/mol
+diff with run 3350 is 0.2758800113289828 kj/mol
+diff with run 3351 is 0.27587980057325484 kj/mol
+diff with run 3352 is 0.27588000344973224 kj/mol
+diff with run 3353 is 0.2758799052412116 kj/mol
+diff with run 3354 is 0.05804677205152639 kj/mol
+diff with run 3355 is 0.058046842606914485 kj/mol
+diff with run 3356 is 0.2758803675755906 kj/mol
+diff with run 3357 is 0.05804681467612629 kj/mol
+diff with run 3358 is 0.12878903909120645 kj/mol
+diff with run 3359 is 0.05804682406088758 kj/mol
+diff with run 3360 is 0.05804692959540418 kj/mol
+diff with run 3361 is 0.05804677062074278 kj/mol
+diff with run 3362 is 0.058046789754302774 kj/mol
+diff with run 3363 is 0.2640135633795402 kj/mol
+diff with run 3364 is 0.2758799988166533 kj/mol
+diff with run 3365 is 0.27587995538788035 kj/mol
+diff with run 3366 is 0.2758798329197964 kj/mol
+diff with run 3367 is 0.2758798252256496 kj/mol
+diff with run 3368 is 0.25781028607265233 kj/mol
+diff with run 3369 is 0.27588007286981714 kj/mol
+diff with run 3370 is 0.32876065965495027 kj/mol
+diff with run 3371 is 0.32938486224648733 kj/mol
+diff with run 3372 is 0.35576091991280945 kj/mol
+diff with run 3373 is 0.3557608622941184 kj/mol
+diff with run 3374 is 0.3557611123604031 kj/mol
+diff with run 3375 is 0.3287607470362713 kj/mol
+diff with run 3376 is 0.32876093479114155 kj/mol
+diff with run 3377 is 0.3287607609985803 kj/mol
+diff with run 3378 is 0.32876071779947313 kj/mol
+diff with run 3379 is 0.27587985161047845 kj/mol
+diff with run 3380 is 0.2758801120288631 kj/mol
+diff with run 3381 is 0.2758799457138087 kj/mol
+diff with run 3382 is 0.27587987350277027 kj/mol
+diff with run 3383 is 0.2758799103816119 kj/mol
+diff with run 3384 is 0.2758801865763225 kj/mol
+diff with run 3385 is 0.2758800243849689 kj/mol
+diff with run 3386 is 0.27587985713822555 kj/mol
+diff with run 3387 is 0.275879876517905 kj/mol
+diff with run 3388 is 0.275879890243007 kj/mol
+diff with run 3389 is 0.2758801227491138 kj/mol
+diff with run 3390 is 0.275880224710442 kj/mol
+diff with run 3391 is 0.2758799376885318 kj/mol
+diff with run 3392 is 0.2758799703956829 kj/mol
+diff with run 3393 is 0.27587997074875126 kj/mol
+diff with run 3394 is 0.18747657013556274 kj/mol
+diff with run 3395 is 0.18747652645587132 kj/mol
+diff with run 3396 is 0.18747671432523166 kj/mol
+diff with run 3397 is 0.18747659196409655 kj/mol
+diff with run 3398 is 0.18747645434012697 kj/mol
+diff with run 3399 is 0.18747662708993693 kj/mol
+diff with run 3400 is 0.18747678725474703 kj/mol
+diff with run 3401 is 0.18747656246678196 kj/mol
+diff with run 3402 is 0.18747644498827304 kj/mol
+diff with run 3403 is 0.18747680061923944 kj/mol
+diff with run 3404 is 0.187476755662332 kj/mol
+diff with run 3405 is 0.1874767840675343 kj/mol
+diff with run 3406 is 0.1874764558360397 kj/mol
+diff with run 3407 is 0.18747647869292777 kj/mol
+diff with run 3408 is 0.18747662697133338 kj/mol
+diff with run 3409 is 0.1874766691914473 kj/mol
+diff with run 3410 is 0.18747669275104414 kj/mol
+diff with run 3411 is 0.18747657338790458 kj/mol
+diff with run 3412 is 0.1874765291309636 kj/mol
+diff with run 3413 is 0.18747658509468984 kj/mol
+diff with run 3414 is 0.1874764922973695 kj/mol
+diff with run 3415 is 0.18747647374997148 kj/mol
+diff with run 3416 is 0.1874764961118784 kj/mol
+diff with run 3417 is 0.18747649423958798 kj/mol
+diff with run 3418 is 0.1874765858316771 kj/mol
+diff with run 3419 is 0.1742916812224997 kj/mol
+diff with run 3420 is 0.18747658268011397 kj/mol
+diff with run 3421 is 0.1874765097615677 kj/mol
+diff with run 3422 is 0.17429146669408266 kj/mol
+diff with run 3423 is 0.18747675804125827 kj/mol
+diff with run 3424 is 0.18747648244710652 kj/mol
+diff with run 3425 is 0.7847186265231002 kj/mol
+diff with run 3426 is 0.1874766979092693 kj/mol
+diff with run 3427 is 0.18747690284382634 kj/mol
+diff with run 3428 is 0.18747645213327865 kj/mol
+diff with run 3429 is 0.18747665988278422 kj/mol
+diff with run 3430 is 0.18747690003710468 kj/mol
+diff with run 3431 is 0.18747662234716692 kj/mol
+diff with run 3432 is 0.18747674741218828 kj/mol
+diff with run 3433 is 0.3519045736224429 kj/mol
+diff with run 3434 is 0.3519044886796926 kj/mol
+diff with run 3435 is 0.18747671061355822 kj/mol
+diff with run 3436 is 0.18747645713313724 kj/mol
+diff with run 3437 is 0.34295098905075483 kj/mol
+diff with run 3438 is 0.2875678790657266 kj/mol
+diff with run 3439 is 0.2758798993302311 kj/mol
+diff with run 3440 is 0.2758799331109841 kj/mol
+diff with run 3441 is 0.2758799001721105 kj/mol
+diff with run 3442 is 0.27587983676858374 kj/mol
+diff with run 3443 is 0.32764221605155636 kj/mol
+diff with run 3444 is 0.4052097703785695 kj/mol
+diff with run 3445 is 0.40521014246114784 kj/mol
+diff with run 3446 is 0.43159729497887217 kj/mol
+diff with run 3447 is 0.4315968666569686 kj/mol
+diff with run 3448 is 0.4315967681563953 kj/mol
+diff with run 3449 is 0.32666135081568776 kj/mol
+diff with run 3450 is 0.1874765528386435 kj/mol
+diff with run 3451 is 0.18747679844049947 kj/mol
+diff with run 3452 is 0.1874765374242982 kj/mol
+diff with run 3453 is 0.1935811722525994 kj/mol
+diff with run 3454 is 0.18747657332620332 kj/mol
+diff with run 3455 is 0.1935812748624764 kj/mol
+diff with run 3456 is 0.3568673756659276 kj/mol
+diff with run 3457 is 0.19358143934706012 kj/mol
+diff with run 3458 is 0.2758797927509065 kj/mol
+diff with run 3459 is 0.40007271001097094 kj/mol
+diff with run 3460 is 0.40007292773619874 kj/mol
+diff with run 3461 is 0.3998078718946509 kj/mol
+diff with run 3462 is 0.18747681281552137 kj/mol
+diff with run 3463 is 0.18747652746708635 kj/mol
+diff with run 3464 is 0.18747668806037743 kj/mol
+diff with run 3465 is 0.18747667569955884 kj/mol
+diff with run 3466 is 0.18747676593079238 kj/mol
+diff with run 3467 is 0.18747652986178073 kj/mol
+diff with run 3468 is 0.2758799175519836 kj/mol
+diff with run 3469 is 0.2758798617308558 kj/mol
+diff with run 3470 is 0.287568747677521 kj/mol
+diff with run 3471 is 0.2758798799724899 kj/mol
+diff with run 3472 is 0.2758799072732397 kj/mol
+diff with run 3473 is 0.27588004990940806 kj/mol
+diff with run 3474 is 0.27588091233256634 kj/mol
+diff with run 3475 is 0.2758799693700709 kj/mol
+diff with run 3476 is 0.2758801596245276 kj/mol
+diff with run 3477 is 0.2758799325261933 kj/mol
+diff with run 3478 is 0.3519046208026523 kj/mol
+diff with run 3479 is 0.3519044061323224 kj/mol
+diff with run 3480 is 0.27587979848089667 kj/mol
+diff with run 3481 is 0.27587987923961604 kj/mol
+diff with run 3482 is 0.2758801695364919 kj/mol
+diff with run 3483 is 0.18951398573374137 kj/mol
+diff with run 3484 is 0.18951408726521748 kj/mol
+diff with run 3485 is 0.18951401059180692 kj/mol
+diff with run 3486 is 0.18951416289724796 kj/mol
+diff with run 3487 is 0.18951402052365268 kj/mol
+diff with run 3488 is 0.2758799811899752 kj/mol
+diff with run 3489 is 0.18951392252765864 kj/mol
+diff with run 3490 is 0.18951404652182036 kj/mol
+diff with run 3491 is 0.10037952952097981 kj/mol
+diff with run 3492 is 0.18951427459092118 kj/mol
+diff with run 3493 is 0.18951396734950887 kj/mol
+diff with run 3494 is 0.18951394331618346 kj/mol
+diff with run 3495 is 0.1895141311142446 kj/mol
+diff with run 3496 is 0.18951401411152086 kj/mol
+diff with run 3497 is 0.18951400587440298 kj/mol
+diff with run 3498 is 0.18951396235376372 kj/mol
+diff with run 3499 is 0.18951423852790727 kj/mol
+diff with run 3500 is 0.18951398871939668 kj/mol
+diff with run 3501 is 0.18951399499372898 kj/mol
+diff with run 3502 is 0.18951406117381236 kj/mol
+diff with run 3503 is 0.18951402977472792 kj/mol
+diff with run 3504 is 0.18951409935523614 kj/mol
+diff with run 3505 is 0.18951408958175692 kj/mol
+diff with run 3506 is 0.4055816628485262 kj/mol
+diff with run 3507 is 0.1895139582369187 kj/mol
+diff with run 3508 is 0.18951420787677917 kj/mol
+diff with run 3509 is 0.18951413525919794 kj/mol
+diff with run 3510 is 0.22439857117406337 kj/mol
+diff with run 3511 is 0.18951387477088522 kj/mol
+diff with run 3512 is 0.18747653242512521 kj/mol
+diff with run 3513 is 0.1874764283556707 kj/mol
+diff with run 3514 is 0.18747646094627493 kj/mol
+diff with run 3515 is 0.18747652498738138 kj/mol
+diff with run 3516 is 0.18747650377928798 kj/mol
+diff with run 3517 is 0.18747663197599093 kj/mol
+diff with run 3518 is 0.1874764488219778 kj/mol
+diff with run 3519 is 0.18747653838683784 kj/mol
+diff with run 3520 is 0.18747654954996648 kj/mol
+diff with run 3521 is 0.18747657163284656 kj/mol
+diff with run 3522 is 0.18747652763436534 kj/mol
+diff with run 3523 is 0.18747658999651198 kj/mol
+diff with run 3524 is 0.18747646213436694 kj/mol
+diff with run 3525 is 0.18747668577605978 kj/mol
+diff with run 3526 is 0.18747644767296331 kj/mol
+diff with run 3527 is 0.1874766824051144 kj/mol
+diff with run 3528 is 0.1874764218256209 kj/mol
+diff with run 3529 is 0.1874768345528744 kj/mol
+diff with run 3530 is 0.18747645290522996 kj/mol
+diff with run 3531 is 0.18747654146778728 kj/mol
+diff with run 3532 is 0.18747651907160193 kj/mol
+diff with run 3533 is 0.18747669966432728 kj/mol
+diff with run 3534 is 0.18747681694264992 kj/mol
+diff with run 3535 is 0.18747645601428778 kj/mol
+diff with run 3536 is 0.18747649316941395 kj/mol
+diff with run 3537 is 0.18747654628596994 kj/mol
+diff with run 3538 is 0.18747649228571484 kj/mol
+diff with run 3539 is 0.18747642065055475 kj/mol
+diff with run 3540 is 0.18747651258611417 kj/mol
+diff with run 3541 is 0.18747660738186966 kj/mol
+diff with run 3542 is 0.18747661410250777 kj/mol
+diff with run 3543 is 0.1874765704618938 kj/mol
+diff with run 3544 is 0.18747672090258571 kj/mol
+diff with run 3545 is 0.1874764510075735 kj/mol
+diff with run 3546 is 0.18747659094739694 kj/mol
+diff with run 3547 is 0.18747661944035213 kj/mol
+diff with run 3548 is 0.18747661024960702 kj/mol
+diff with run 3549 is 0.18747662544662674 kj/mol
+diff with run 3550 is 0.18747659619611723 kj/mol
+diff with run 3551 is 0.18747659188319932 kj/mol
+diff with run 3552 is 0.18747646894138684 kj/mol
+diff with run 3553 is 0.18747675956048035 kj/mol
+diff with run 3554 is 0.18747671566894794 kj/mol
+diff with run 3555 is 0.18747647159591202 kj/mol
+diff with run 3556 is 0.18747646308250962 kj/mol
+diff with run 3557 is 0.18747642231991657 kj/mol
+diff with run 3558 is 0.1874764293470042 kj/mol
+diff with run 3559 is 0.18747672647283814 kj/mol
+diff with run 3560 is 0.18747674698576403 kj/mol
+diff with run 3561 is 0.1874766933502319 kj/mol
+diff with run 3562 is 0.18747669702351347 kj/mol
+diff with run 3563 is 0.18747646468400006 kj/mol
+diff with run 3564 is 0.22856294384837916 kj/mol
+diff with run 3565 is 0.22856304288575335 kj/mol
+diff with run 3566 is 0.2285629135866546 kj/mol
+diff with run 3567 is 0.22120262909419372 kj/mol
+diff with run 3568 is 0.18747642087953495 kj/mol
+diff with run 3569 is 0.18747655851447365 kj/mol
+diff with run 3570 is 0.187476432366938 kj/mol
+diff with run 3571 is 0.1874765826184127 kj/mol
+diff with run 3572 is 0.18747658484377142 kj/mol
+diff with run 3573 is 0.44620223971612993 kj/mol
+diff with run 3574 is 0.4537951729988779 kj/mol
+diff with run 3575 is 0.41501290230859694 kj/mol
+diff with run 3576 is 0.446202478515765 kj/mol
+diff with run 3577 is 0.44620219416826157 kj/mol
+diff with run 3578 is 0.41501282464453837 kj/mol
+diff with run 3579 is 0.4150128968459789 kj/mol
+diff with run 3580 is 0.4537951426528283 kj/mol
+diff with run 3581 is 0.4537952678974689 kj/mol
+diff with run 3582 is 0.5231190173657553 kj/mol
+diff with run 3583 is 0.18747662999469503 kj/mol
+diff with run 3584 is 0.5231190957805124 kj/mol
+diff with run 3585 is 0.5231190811621134 kj/mol
+diff with run 3586 is 0.4351945388469815 kj/mol
+diff with run 3587 is 0.4351944478239151 kj/mol
+diff with run 3588 is 0.4351946076006929 kj/mol
+diff with run 3589 is 0.10037955860215365 kj/mol
+diff with run 3590 is 0.10037977086407786 kj/mol
+diff with run 3591 is 0.43519438126608295 kj/mol
+diff with run 3592 is 0.4351945010954098 kj/mol
+diff with run 3593 is 0.6012388754377131 kj/mol
+diff with run 3594 is 0.4351945613686261 kj/mol
+diff with run 3595 is 0.728042882279019 kj/mol
+diff with run 3596 is 0.1994227265454709 kj/mol
+diff with run 3597 is 0.5467883920818074 kj/mol
+diff with run 3598 is 0.19942267831085558 kj/mol
+diff with run 3599 is 0.19942275042385763 kj/mol
+diff with run 3600 is 0.36099672950902606 kj/mol
+diff with run 3601 is 0.7464058243738466 kj/mol
+diff with run 3602 is 0.7252206324954764 kj/mol
+diff with run 3603 is 0.5219820554550922 kj/mol
+diff with run 3604 is 0.5219820573321816 kj/mol
+diff with run 3605 is 0.5219819434885623 kj/mol
+diff with run 3606 is 0.6458773953075564 kj/mol
+diff with run 3607 is 0.645877378295834 kj/mol
+diff with run 3608 is 0.6458773634854754 kj/mol
+diff with run 3609 is 0.6458773596476572 kj/mol
+diff with run 3610 is 0.6458773449120258 kj/mol
+diff with run 3611 is 1.0772512117536888 kj/mol
+diff with run 3612 is 1.0772510861100468 kj/mol
+diff with run 3613 is 1.0772509587387697 kj/mol
+diff with run 3614 is 1.077251013278568 kj/mol
+diff with run 3615 is 1.077251107664353 kj/mol
+diff with run 3616 is 1.0772511337077681 kj/mol
+diff with run 3617 is 1.077251147964872 kj/mol
+diff with run 3618 is 1.0772513489957962 kj/mol
+diff with run 3619 is 0.9195226669756156 kj/mol
+diff with run 3620 is 0.9195228743960477 kj/mol
+diff with run 3621 is 0.9195229337019254 kj/mol
+diff with run 3622 is 0.9195226659438334 kj/mol
+diff with run 3623 is 0.9195226922237703 kj/mol
+diff with run 3624 is 0.9195227613161528 kj/mol
+diff with run 3625 is 0.9195227440843627 kj/mol
+diff with run 3626 is 0.9195227986378726 kj/mol
+diff with run 3627 is 0.9885516000133269 kj/mol
+diff with run 3628 is 0.919522653861356 kj/mol
+diff with run 3629 is 0.4032226555439454 kj/mol
+diff with run 3630 is 0.4036134316172967 kj/mol
+diff with run 3631 is 0.4032226041282874 kj/mol
+diff with run 3632 is 0.4032225228677311 kj/mol
+diff with run 3633 is 0.40322277024795444 kj/mol
+diff with run 3634 is 0.4032226093818067 kj/mol
+diff with run 3635 is 0.5909973078678394 kj/mol
+diff with run 3636 is 0.5831558017765566 kj/mol
+diff with run 3637 is 0.5219824976186447 kj/mol
+diff with run 3638 is 0.5219821344786352 kj/mol
+diff with run 3639 is 0.5219821149830944 kj/mol
+diff with run 3640 is 0.40322254644035377 kj/mol
+diff with run 3641 is 0.4032226194775036 kj/mol
+diff with run 3642 is 0.4032225922960429 kj/mol
+diff with run 3643 is 0.40322254655621503 kj/mol
+diff with run 3644 is 0.40322254021332576 kj/mol
+diff with run 3645 is 0.40322263013879533 kj/mol
+diff with run 3646 is 0.45898270297620797 kj/mol
+diff with run 3647 is 0.40322257910568515 kj/mol
+diff with run 3648 is 0.403222585715261 kj/mol
+diff with run 3649 is 0.40322259107367237 kj/mol
+diff with run 3650 is 0.40322263178484774 kj/mol
+diff with run 3651 is 0.40322261393741626 kj/mol
+diff with run 3652 is 0.40322259953908496 kj/mol
+diff with run 3653 is 0.40322254309546 kj/mol
+diff with run 3654 is 0.5210914233189191 kj/mol
+diff with run 3655 is 0.4032225434259046 kj/mol
+diff with run 3656 is 0.5219821216290055 kj/mol
+diff with run 3657 is 0.4032227504219692 kj/mol
+diff with run 3658 is 0.5219818695169813 kj/mol
+diff with run 3659 is 0.4032225917263346 kj/mol
+diff with run 3660 is 0.49355807502173005 kj/mol
+diff with run 3661 is 0.4032225872276274 kj/mol
+diff with run 3662 is 0.4935582035721869 kj/mol
+diff with run 3663 is 0.4935582049529239 kj/mol
+diff with run 3664 is 0.4975414246030419 kj/mol
+diff with run 3665 is 0.33295472934885867 kj/mol
+diff with run 3666 is 0.33295486710034417 kj/mol
+diff with run 3667 is 0.3329548881425297 kj/mol
+diff with run 3668 is 0.4078344529847575 kj/mol
+diff with run 3669 is 0.33295480611345 kj/mol
+diff with run 3670 is 0.3329547578548397 kj/mol
+diff with run 3671 is 0.3329547678552424 kj/mol
+diff with run 3672 is 0.33295474431964045 kj/mol
+diff with run 3673 is 0.3329547043879577 kj/mol
+diff with run 3674 is 0.3329547627669454 kj/mol
+diff with run 3675 is 0.3390222895587606 kj/mol
+diff with run 3676 is 0.3329547698989252 kj/mol
+diff with run 3677 is 0.3329549681882568 kj/mol
+diff with run 3678 is 0.3329549682012827 kj/mol
+diff with run 3679 is 0.3329547856101221 kj/mol
+diff with run 3680 is 0.4568441068566023 kj/mol
+diff with run 3681 is 0.48073023991429137 kj/mol
+diff with run 3682 is 0.6053977019614871 kj/mol
+diff with run 3683 is 0.4842231079975899 kj/mol
+diff with run 3684 is 0.4568439257476431 kj/mol
+diff with run 3685 is 0.33295489852410914 kj/mol
+diff with run 3686 is 0.33295486136144165 kj/mol
+diff with run 3687 is 0.33295487443730926 kj/mol
+diff with run 3688 is 0.33295475128502694 kj/mol
+diff with run 3689 is 0.33295478619491287 kj/mol
+diff with run 3690 is 0.3329548057185619 kj/mol
+diff with run 3691 is 0.3329546621143694 kj/mol
+diff with run 3692 is 0.33295471278892674 kj/mol
+diff with run 3693 is 0.3329546573448622 kj/mol
+diff with run 3694 is 0.4032228996183524 kj/mol
+diff with run 3695 is 0.4032225904463763 kj/mol
+diff with run 3696 is 0.4032226771249886 kj/mol
+diff with run 3697 is 0.40322293735141373 kj/mol
+diff with run 3698 is 0.4032225930227466 kj/mol
+diff with run 3699 is 0.40322252939435305 kj/mol
+diff with run 3700 is 0.403612779507674 kj/mol
+diff with run 3701 is 0.4032225543881614 kj/mol
+diff with run 3702 is 0.4032225454551904 kj/mol
+diff with run 3703 is 0.3329546937006143 kj/mol
+diff with run 3704 is 0.40322271115323216 kj/mol
+diff with run 3705 is 0.4032226089423567 kj/mol
+diff with run 3706 is 0.4036093170757879 kj/mol
+diff with run 3707 is 0.40322254032233135 kj/mol
+diff with run 3708 is 0.3329548252038191 kj/mol
+diff with run 3709 is 0.33295476398451684 kj/mol
+diff with run 3710 is 0.4032229736235264 kj/mol
+diff with run 3711 is 0.4032234066806587 kj/mol
+diff with run 3712 is 0.3329547831448141 kj/mol
+diff with run 3713 is 0.33295473990525826 kj/mol
+diff with run 3714 is 0.3329550245242473 kj/mol
+diff with run 3715 is 0.33295464057994495 kj/mol
+diff with run 3716 is 0.3329547330550475 kj/mol
+diff with run 3717 is 0.33295478005358103 kj/mol
+diff with run 3718 is 0.3329547641524814 kj/mol
+diff with run 3719 is 0.33295466844971744 kj/mol
+diff with run 3720 is 0.3329548131185994 kj/mol
+diff with run 3721 is 0.48005436836123483 kj/mol
+diff with run 3722 is 0.48005431440074275 kj/mol
+diff with run 3723 is 0.3329549117124101 kj/mol
+diff with run 3724 is 0.33295466157962517 kj/mol
+diff with run 3725 is 0.33295477334596874 kj/mol
+diff with run 3726 is 0.3329547299919229 kj/mol
+diff with run 3727 is 0.3329546933859379 kj/mol
+diff with run 3728 is 0.3329547103236187 kj/mol
+diff with run 3729 is 0.3329547780907955 kj/mol
+diff with run 3730 is 0.33902211190232956 kj/mol
+diff with run 3731 is 0.332954696626625 kj/mol
+diff with run 3732 is 0.3329546938802335 kj/mol
+diff with run 3733 is 0.3329546791507722 kj/mol
+diff with run 3734 is 0.40322269599117644 kj/mol
+diff with run 3735 is 0.4032228069931101 kj/mol
+diff with run 3736 is 0.48005432412828886 kj/mol
+diff with run 3737 is 0.40322257278404855 kj/mol
+diff with run 3738 is 0.4032226857220305 kj/mol
+diff with run 3739 is 0.4032225959261336 kj/mol
+diff with run 3740 is 0.45634391835700233 kj/mol
+diff with run 3741 is 0.332954654680739 kj/mol
+diff with run 3742 is 0.33295469514853715 kj/mol
+diff with run 3743 is 0.33295471178182506 kj/mol
+diff with run 3744 is 0.33902216258922707 kj/mol
+diff with run 3745 is 0.33295509678190455 kj/mol
+diff with run 3746 is 0.33295468809059886 kj/mol
+diff with run 3747 is 0.33902213624210453 kj/mol
+diff with run 3748 is 0.42906790778839615 kj/mol
+diff with run 3749 is 0.3390222196896276 kj/mol
+diff with run 3750 is 0.3390222221425954 kj/mol
+diff with run 3751 is 0.33902223986936675 kj/mol
+diff with run 3752 is 0.3390230012327207 kj/mol
+diff with run 3753 is 0.5024725633785604 kj/mol
+diff with run 3754 is 0.5024725284871848 kj/mol
+diff with run 3755 is 0.502472581260956 kj/mol
+diff with run 3756 is 0.33295466032434734 kj/mol
+diff with run 3757 is 0.33295481084045186 kj/mol
+diff with run 3758 is 0.3765271090364626 kj/mol
+diff with run 3759 is 0.5379106575969298 kj/mol
+diff with run 3760 is 0.42906780774323483 kj/mol
+diff with run 3761 is 0.48160100997070177 kj/mol
+diff with run 3762 is 0.4816006947280075 kj/mol
+diff with run 3763 is 0.4612363477386154 kj/mol
+diff with run 3764 is 0.45684387306299595 kj/mol
+diff with run 3765 is 0.45684379595082086 kj/mol
+diff with run 3766 is 0.4711512871217579 kj/mol
+diff with run 3767 is 0.4088919019367608 kj/mol
+diff with run 3768 is 0.5070457123623148 kj/mol
+diff with run 3769 is 0.39637722090656946 kj/mol
+diff with run 3770 is 0.3329546851549901 kj/mol
+diff with run 3771 is 0.3329548139611644 kj/mol
+diff with run 3772 is 0.33295476281013625 kj/mol
+diff with run 3773 is 0.33295475579676 kj/mol
+diff with run 3774 is 0.33295471589935566 kj/mol
+diff with run 3775 is 0.3329548201244345 kj/mol
+diff with run 3776 is 0.3329546423932763 kj/mol
+diff with run 3777 is 0.3329548200723312 kj/mol
+diff with run 3778 is 0.3329546879527993 kj/mol
+diff with run 3779 is 0.3329547988724646 kj/mol
+diff with run 3780 is 0.2973691254793627 kj/mol
+diff with run 3781 is 0.2729849602164908 kj/mol
+diff with run 3782 is 0.3390221062799738 kj/mol
+diff with run 3783 is 0.3329546698448514 kj/mol
+diff with run 3784 is 0.33902213354850186 kj/mol
+diff with run 3785 is 0.3329547067010693 kj/mol
+diff with run 3786 is 0.33295471930183723 kj/mol
+diff with run 3787 is 0.3390222141838187 kj/mol
+diff with run 3788 is 0.33295482600867776 kj/mol
+diff with run 3789 is 0.10334555671718933 kj/mol
+diff with run 3790 is 0.10334570092536863 kj/mol
+diff with run 3791 is 0.10334546129550885 kj/mol
+diff with run 3792 is 0.10334547595367094 kj/mol
+diff with run 3793 is 0.10334548189618763 kj/mol
+diff with run 3794 is 0.1894906320476812 kj/mol
+diff with run 3795 is 0.1894906310405796 kj/mol
+diff with run 3796 is 0.1894908092495797 kj/mol
+diff with run 3797 is 0.20005149931556704 kj/mol
+diff with run 3798 is 0.1298855148667763 kj/mol
+diff with run 3799 is 0.12988521530991282 kj/mol
+diff with run 3800 is 0.1033456609292423 kj/mol
+diff with run 3801 is 0.10334561484594414 kj/mol
+diff with run 3802 is 0.10334556874824899 kj/mol
+diff with run 3803 is 0.18949063180156175 kj/mol
+diff with run 3804 is 0.18949055002819945 kj/mol
+diff with run 3805 is 0.1894906061071014 kj/mol
+diff with run 3806 is 0.1894907582685728 kj/mol
+diff with run 3807 is 0.10334549788641133 kj/mol
+diff with run 3808 is 0.20005136743941243 kj/mol
+diff with run 3809 is 0.19614022826724994 kj/mol
+diff with run 3810 is 0.20005134705126018 kj/mol
+diff with run 3811 is 0.10334620538868082 kj/mol
+diff with run 3812 is 0.10334547726585103 kj/mol
+diff with run 3813 is 0.20007178547904253 kj/mol
+diff with run 3814 is 0.20007184741682166 kj/mol
+diff with run 3815 is 0.20006971278982946 kj/mol
+diff with run 3816 is 0.2000513392625048 kj/mol
+diff with run 3817 is 0.28587955692244116 kj/mol
+diff with run 3818 is 0.2000512409628034 kj/mol
+diff with run 3819 is 0.10334576621763945 kj/mol
+diff with run 3820 is 0.20005151103057917 kj/mol
+diff with run 3821 is 0.10334545687015753 kj/mol
+diff with run 3822 is 0.4519490838441148 kj/mol
+diff with run 3823 is 0.4519491837679304 kj/mol
+diff with run 3824 is 0.2190571164939601 kj/mol
+diff with run 3825 is 0.4519491813739216 kj/mol
+diff with run 3826 is 0.10334556302922798 kj/mol
+diff with run 3827 is 0.4519491074681552 kj/mol
+diff with run 3828 is 0.4519491391544933 kj/mol
+diff with run 3829 is 0.45152411226398864 kj/mol
+diff with run 3830 is 0.45152391161424116 kj/mol
+diff with run 3831 is 0.4515239221747542 kj/mol
+diff with run 3832 is 0.5286418341584792 kj/mol
+diff with run 3833 is 0.3661687113562832 kj/mol
+diff with run 3834 is 0.36616851850283233 kj/mol
+diff with run 3835 is 0.3384821310406906 kj/mol
+diff with run 3836 is 0.5090490409224727 kj/mol
+diff with run 3837 is 0.3384822566192035 kj/mol
+diff with run 3838 is 0.5090488867591382 kj/mol
+diff with run 3839 is 0.5286419922720652 kj/mol
+diff with run 3840 is 0.36616862349369234 kj/mol
+diff with run 3841 is 0.10334539028010362 kj/mol
+diff with run 3842 is 0.10334553225401182 kj/mol
+diff with run 3843 is 0.11190846481575284 kj/mol
+diff with run 3844 is 0.10334563731342873 kj/mol
+diff with run 3845 is 0.10334557899682788 kj/mol
+diff with run 3846 is 0.10334547665775086 kj/mol
+diff with run 3847 is 0.10334544556854385 kj/mol
+diff with run 3848 is 0.6359987737700326 kj/mol
+diff with run 3849 is 0.44004187381647253 kj/mol
+diff with run 3850 is 0.10334555347238875 kj/mol
+diff with run 3851 is 0.10334547238322483 kj/mol
+diff with run 3852 is 0.10334554202337762 kj/mol
+diff with run 3853 is 0.1033456690470711 kj/mol
+diff with run 3854 is 0.1033454298628315 kj/mol
+diff with run 3855 is 0.10334542590161078 kj/mol
+diff with run 3856 is 0.10334556771235343 kj/mol
+diff with run 3857 is 0.10334566574125482 kj/mol
+diff with run 3858 is 0.10334543940390264 kj/mol
+diff with run 3859 is 0.10334551793452106 kj/mol
+diff with run 3860 is 0.10334562606803176 kj/mol
+diff with run 3861 is 0.10334557483062186 kj/mol
+diff with run 3862 is 0.10334543440815748 kj/mol
+diff with run 3863 is 0.10334574672689775 kj/mol
+diff with run 3864 is 0.10334549588523387 kj/mol
+diff with run 3865 is 0.5629892555572535 kj/mol
+diff with run 3866 is 0.2867511685277888 kj/mol
+diff with run 3867 is 0.26213873228923473 kj/mol
+diff with run 3868 is 0.2621387207936049 kj/mol
+diff with run 3869 is 0.26213870167924086 kj/mol
+diff with run 3870 is 0.2621387937491719 kj/mol
+diff with run 3871 is 0.10334539897038295 kj/mol
+diff with run 3872 is 0.5491944402812287 kj/mol
+diff with run 3873 is 0.5121593976307743 kj/mol
+diff with run 3874 is 0.5121595340488271 kj/mol
+diff with run 3875 is 0.10334557871025983 kj/mol
+diff with run 3876 is 0.10334560661293965 kj/mol
+diff with run 3877 is 0.10334548100220496 kj/mol
+diff with run 3878 is 0.12965957440518225 kj/mol
+diff with run 3879 is 0.12988519763593037 kj/mol
+diff with run 3880 is 0.1033454635421202 kj/mol
+diff with run 3881 is 0.10334562661580181 kj/mol
+diff with run 3882 is 0.10334538613720695 kj/mol
+diff with run 3883 is 0.10334540243799363 kj/mol
+diff with run 3884 is 0.11208883131825162 kj/mol
+diff with run 3885 is 0.10334538252219881 kj/mol
+diff with run 3886 is 0.11190808903178456 kj/mol
+diff with run 3887 is 0.11208884563842794 kj/mol
+diff with run 3888 is 0.10334553772554224 kj/mol
+diff with run 3889 is 0.10334544688826519 kj/mol
+diff with run 3890 is 0.10334538561548853 kj/mol
+diff with run 3891 is 0.10334603318389865 kj/mol
+diff with run 3892 is 0.10334547921081177 kj/mol
+diff with run 3893 is 0.10334552471206142 kj/mol
+diff with run 3894 is 0.10334544290716294 kj/mol
+diff with run 3895 is 0.1033455237721456 kj/mol
+diff with run 3896 is 0.10334560799984681 kj/mol
+diff with run 3897 is 0.10334546609380998 kj/mol
+diff with run 3898 is 0.10334541084718948 kj/mol
+diff with run 3899 is 0.10334545427733358 kj/mol
+diff with run 3900 is 0.1033454650064967 kj/mol
+diff with run 3901 is 0.1033454350244845 kj/mol
+diff with run 3902 is 0.10334546610957808 kj/mol
+diff with run 3903 is 0.10334544160389525 kj/mol
+diff with run 3904 is 0.10334547728847482 kj/mol
+diff with run 3905 is 0.1033453865677446 kj/mol
+diff with run 3906 is 0.10334545544211621 kj/mol
+diff with run 3907 is 0.10334541950181922 kj/mol
+diff with run 3908 is 0.10334550834271779 kj/mol
+diff with run 3909 is 0.10334546504557417 kj/mol
+diff with run 3910 is 0.10334546335016073 kj/mol
+diff with run 3911 is 0.10334552087972777 kj/mol
+diff with run 3912 is 0.10334547740296493 kj/mol
+diff with run 3913 is 0.11190801875953668 kj/mol
+diff with run 3914 is 0.11208889468132976 kj/mol
+diff with run 3915 is 0.12965988329881714 kj/mol
+diff with run 3916 is 0.10334536124417733 kj/mol
+diff with run 3917 is 0.10334582489553545 kj/mol
+diff with run 3918 is 0.2622444500770844 kj/mol
+diff with run 3919 is 0.26224440611356725 kj/mol
+diff with run 3920 is 0.2602542556552231 kj/mol
+diff with run 3921 is 0.2622445547944022 kj/mol
+diff with run 3922 is 0.26224438108136705 kj/mol
+diff with run 3923 is 0.2622878095286827 kj/mol
+diff with run 3924 is 0.2625304909873354 kj/mol
+diff with run 3925 is 0.26224440733319543 kj/mol
+diff with run 3926 is 0.2622446467093945 kj/mol
+diff with run 3927 is 0.05386321509810306 kj/mol
+diff with run 3928 is 0.05386317615981052 kj/mol
+diff with run 3929 is 0.05386334312889819 kj/mol
+diff with run 3930 is 0.05386379207890332 kj/mol
+diff with run 3931 is 0.053863561045399855 kj/mol
+diff with run 3932 is 0.0538635391729896 kj/mol
+diff with run 3933 is 0.053863318839855345 kj/mol
+diff with run 3934 is 0.05386318551029332 kj/mol
+diff with run 3935 is 0.05386308669847152 kj/mol
+diff with run 3936 is 0.053863248959753245 kj/mol
+diff with run 3937 is 0.053863073436814554 kj/mol
+diff with run 3938 is 0.053863456688691705 kj/mol
+diff with run 3939 is 0.05386312980982579 kj/mol
+diff with run 3940 is 0.05386326143780424 kj/mol
+diff with run 3941 is 0.05386331832430706 kj/mol
+diff with run 3942 is 0.05386329887401395 kj/mol
+diff with run 3943 is 0.05386338665707874 kj/mol
+diff with run 3944 is 0.05386313448335327 kj/mol
+diff with run 3945 is 0.45684392356204745 kj/mol
+diff with run 3946 is 0.45684381336291574 kj/mol
+diff with run 3947 is 0.4568439263763104 kj/mol
+diff with run 3948 is 0.4568438642911338 kj/mol
+diff with run 3949 is 0.4568440292597296 kj/mol
+diff with run 3950 is 0.45684385480696493 kj/mol
+diff with run 3951 is 0.4568438664931832 kj/mol
+diff with run 3952 is 0.4568439063871596 kj/mol
+diff with run 3953 is 0.4568437754804003 kj/mol
+diff with run 3954 is 0.4568438543407777 kj/mol
+diff with run 3955 is 0.4568438241325275 kj/mol
+diff with run 3956 is 0.4568437810246011 kj/mol
+diff with run 3957 is 0.45684380417765524 kj/mol
+diff with run 3958 is 0.47115291865383474 kj/mol
+diff with run 3959 is 0.10334571389565855 kj/mol
+diff with run 3960 is 0.456844090692244 kj/mol
+diff with run 3961 is 0.45684376427682305 kj/mol
+diff with run 3962 is 0.10334544680531127 kj/mol
+diff with run 3963 is 0.10334555143487612 kj/mol
+diff with run 3964 is 0.10334575815122839 kj/mol
+diff with run 3965 is 0.10334540327507402 kj/mol
+diff with run 3966 is 0.10334542629718439 kj/mol
+diff with run 3967 is 0.10334537050485054 kj/mol
+diff with run 3968 is 0.275342185263106 kj/mol
+diff with run 3969 is 0.1033454194524582 kj/mol
+diff with run 3970 is 0.10334554930069816 kj/mol
+diff with run 3971 is 0.1033457299523825 kj/mol
+diff with run 3972 is 0.12965954715447905 kj/mol
+diff with run 3973 is 0.12965961303222623 kj/mol
+diff with run 3974 is 0.1296609706216883 kj/mol
+diff with run 3975 is 0.12965990886713272 kj/mol
+diff with run 3976 is 0.12965978929489444 kj/mol
+diff with run 3977 is 0.10334556617736326 kj/mol
+diff with run 3978 is 0.12965949422097012 kj/mol
+diff with run 3979 is 0.12965961488600625 kj/mol
+diff with run 3980 is 0.05386310785651833 kj/mol
+diff with run 3981 is 0.0538632541556847 kj/mol
+diff with run 3982 is 0.05386323460598401 kj/mol
+diff with run 3983 is 0.05386353594052928 kj/mol
+diff with run 3984 is 0.053863289498165066 kj/mol
+diff with run 3985 is 0.05386327799293723 kj/mol
+diff with run 3986 is 0.05386340021010276 kj/mol
+diff with run 3987 is 0.12965986701379856 kj/mol
+diff with run 3988 is 0.12965982918818536 kj/mol
+diff with run 3989 is 0.053863141429543744 kj/mol
+diff with run 3990 is 0.05386358692564958 kj/mol
+diff with run 3991 is 0.05386315791817648 kj/mol
+diff with run 3992 is 0.05386351311860521 kj/mol
+diff with run 3993 is 0.05386309527426076 kj/mol
+diff with run 3994 is 0.05386342198516214 kj/mol
+diff with run 3995 is 0.05386350485269341 kj/mol
+diff with run 3996 is 0.05386333300372182 kj/mol
+diff with run 3997 is 0.05386337482003524 kj/mol
+diff with run 3998 is 0.05386349876346484 kj/mol
+diff with run 3999 is 0.053863346155002094 kj/mol

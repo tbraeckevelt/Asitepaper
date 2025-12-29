@@ -1,0 +1,4 @@
+rank 0=localhost slot=0:12
+rank 1=localhost slot=0:13
+rank 2=localhost slot=0:14
+rank 3=localhost slot=0:15

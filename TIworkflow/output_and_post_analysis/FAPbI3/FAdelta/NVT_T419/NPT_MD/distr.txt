@@ -1,0 +1,16 @@
+--------------------------------------------------
+average volume: 2156.6404315878212
+--------------------------------------------------
+average cell: [[ 1.59346650e+01 -5.50989306e-02 -7.77673460e-03]
+ [-1.86665424e-02  1.54094388e+01 -5.85138161e-02]
+ [ 4.61539658e-03  3.24306619e-02  8.79748148e+00]]
+which has as volume: 2160.1927081930253
+average cell rescaled with correct average volume: [[ 1.59084616e+01 -5.50083245e-02 -7.76394634e-03]
+ [-1.86358467e-02  1.53840991e+01 -5.84175945e-02]
+ [ 4.60780690e-03  3.23773321e-02  8.78301467e+00]]
+--------------------------------------------------
+WARNING: the beta min-max difference of the running average with window 500 is: [6.48675917]
+WARNING: the gamma min-max difference of the running average with window 500 is: [6.89647567]
+WARNING: the fractional a length min-max difference of the running average with window 500 is: [0.0113018]
+WARNING: the fractional b length min-max difference of the running average with window 500 is: [0.0264587]
+WARNING: the fractional c length min-max difference of the running average with window 500 is: [0.02378932]
