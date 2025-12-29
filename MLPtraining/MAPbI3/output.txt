@@ -1,0 +1,9 @@
+INFO - psiflow.models.base - initializing MACEModel using dataset of 438 states
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+INFO - psiflow.models.base - training MACEModel using 438 states for training and 36 for validation
+warning: using plain-text when communicating with workers.
+warning: use encryption with a key and cert when creating the manager.
+energy error [RMSE, meV/atom]: 0.2204013294000712
+forces error [RMSE, meV/A]   : 24.333955671310207
+stress error [RMSE, MPa]     : 77.34419754218816
